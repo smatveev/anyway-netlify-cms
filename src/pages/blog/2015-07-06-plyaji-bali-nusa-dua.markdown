@@ -1,4 +1,5 @@
 ---
+templateKey: blog-post
 date: 2015-07-06 06:56:06+00:00
 title: Пляжи Бали - Нуса Дуа
 categories:
