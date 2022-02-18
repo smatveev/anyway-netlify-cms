@@ -1,7 +1,13 @@
 ---
 templateKey: blog-post
+author: matv33v_c21184dv
+comments: true
 date: 2015-07-06 06:56:06+00:00
+layout: post
+link: https://anyway.today/plyaji-bali-nusa-dua/
+slug: plyaji-bali-nusa-dua
 title: Пляжи Бали - Нуса Дуа
+wordpress_id: 1299
 categories:
 - Индонезия
 tags:
