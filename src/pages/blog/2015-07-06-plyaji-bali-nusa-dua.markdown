@@ -6,7 +6,6 @@ layout: post
 link: https://anyway.today/plyaji-bali-nusa-dua/
 slug: plyaji-bali-nusa-dua
 title: Пляжи Бали - Нуса Дуа
-wordpress_id: 1299
 categories:
 - Индонезия
 tags:
