@@ -1,13 +1,10 @@
 ---
-author: matv33v_c21184dv
-comments: true
-date: 2015-07-06 06:56:06+00:00
-layout: post
-link: https://anyway.today/plyaji-bali-nusa-dua/
-slug: plyaji-bali-nusa-dua
+templateKey: blog-post
 title: Пляжи Бали - Нуса Дуа
-categories:
-- Индонезия
+date: 2016-12-17T15:04:10.000Z
+featuredpost: false
+featuredimage: /img/flavor_wheel.jpg
+description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 tags:
 - Бали
 - Индонезия
