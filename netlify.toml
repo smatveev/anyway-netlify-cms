@@ -10,6 +10,8 @@
   from = "/Copy"
   to = "/Blog/Copy"
   status = 301
+
+[[redirects]]
   from = "/plyaji-bali-nusa-dua"
   to = "/Blog/plyaji-bali-nusa-dua"
   status = 301
