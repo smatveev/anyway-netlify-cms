@@ -1,5 +1,5 @@
 ---
-templateKey: blog - post
+templateKey: blog-post
 author: igrishak
 comments: true
 date: 2018-03-30 10:09:31+00:00

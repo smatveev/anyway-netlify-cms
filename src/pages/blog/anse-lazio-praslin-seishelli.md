@@ -1,5 +1,5 @@
 ---
-templateKey: blog - post
+templateKey: blog-post
 author: matv33v_c21184dv
 comments: true
 date: 2013-04-22 06:00:00+00:00
