@@ -6,12 +6,668 @@
   YARN_VERSION = "1.22.4"
   YARN_FLAGS = "--no-ignore-optional"
 
-[[redirects]]
-  from = "/Copy"
-  to = "/Blog/Copy"
-  status = 301
 
 [[redirects]]
-  from = "/plyaji-bali-nusa-dua"
-  to = "/Blog/plyaji-bali-nusa-dua"
-  status = 301
+from = "/44"
+to = "/blog/44"
+status = 301
+[[redirects]]
+from = "/5-tips-how-to-by-cheap-tickets"
+to = "/blog/5-tips-how-to-by-cheap-tickets"
+status = 301
+[[redirects]]
+from = "/6-rasprostranennih-oshibok-pri-planirovanii-aviaputeshestviya"
+to = "/blog/6-rasprostranennih-oshibok-pri-planirovanii-aviaputeshestviya"
+status = 301
+[[redirects]]
+from = "/abrau-durso"
+to = "/blog/abrau-durso"
+status = 301
+[[redirects]]
+from = "/aeroport-singapur"
+to = "/blog/aeroport-singapur"
+status = 301
+[[redirects]]
+from = "/andamanskie-ostrova-indiya"
+to = "/blog/andamanskie-ostrova-indiya"
+status = 301
+[[redirects]]
+from = "/anse-lazio-praslin-seishelli"
+to = "/blog/anse-lazio-praslin-seishelli"
+status = 301
+[[redirects]]
+from = "/arenda-avto-na-phukete"
+to = "/blog/arenda-avto-na-phukete"
+status = 301
+[[redirects]]
+from = "/arenda-baika-na-phukete"
+to = "/blog/arenda-baika-na-phukete"
+status = 301
+[[redirects]]
+from = "/arenda-baikov-online"
+to = "/blog/arenda-baikov-online"
+status = 301
+[[redirects]]
+from = "/arenda-motobaika-vo-vietname"
+to = "/blog/arenda-motobaika-vo-vietname"
+status = 301
+[[redirects]]
+from = "/arsenievskie-kotiki"
+to = "/blog/arsenievskie-kotiki"
+status = 301
+[[redirects]]
+from = "/ashram-ammi"
+to = "/blog/ashram-ammi"
+status = 301
+[[redirects]]
+from = "/avia-bilet-spec-offer"
+to = "/blog/avia-bilet-spec-offer"
+status = 301
+[[redirects]]
+from = "/avia-faq-kak-vernut-electronnii-bilet"
+to = "/blog/avia-faq-kak-vernut-electronnii-bilet"
+status = 301
+[[redirects]]
+from = "/avia-faq-pravila-primeneniya-tarifof"
+to = "/blog/avia-faq-pravila-primeneniya-tarifof"
+status = 301
+[[redirects]]
+from = "/avia-faq-sites-of-cheap-tickets"
+to = "/blog/avia-faq-sites-of-cheap-tickets"
+status = 301
+[[redirects]]
+from = "/buhta-dadunhai-hainan"
+to = "/blog/buhta-dadunhai-hainan"
+status = 301
+[[redirects]]
+from = "/buhta-yalunvan"
+to = "/blog/buhta-yalunvan"
+status = 301
+[[redirects]]
+from = "/chennai"
+to = "/blog/chennai"
+status = 301
+[[redirects]]
+from = "/chto-delat-esli-reis-zaderjali"
+to = "/blog/chto-delat-esli-reis-zaderjali"
+status = 301
+[[redirects]]
+from = "/chto-delat-esli-vi-opozdali-na-stikovochnii-reis"
+to = "/blog/chto-delat-esli-vi-opozdali-na-stikovochnii-reis"
+status = 301
+[[redirects]]
+from = "/chto-nujno-dlya-podgotovki-samostoyatelnogo-puteshestviya"
+to = "/blog/chto-nujno-dlya-podgotovki-samostoyatelnogo-puteshestviya"
+status = 301
+[[redirects]]
+from = "/chto-poprobovat-vo-vietname"
+to = "/blog/chto-poprobovat-vo-vietname"
+status = 301
+[[redirects]]
+from = "/chto-posmotret-i-chem-zanyatsya-v-muine"
+to = "/blog/chto-posmotret-i-chem-zanyatsya-v-muine"
+status = 301
+[[redirects]]
+from = "/chto-privezti-iz-vietnama-chto-kupit-v-hoshimine"
+to = "/blog/chto-privezti-iz-vietnama-chto-kupit-v-hoshimine"
+status = 301
+[[redirects]]
+from = "/chto-privezti-iz-vietnama-fukuok"
+to = "/blog/chto-privezti-iz-vietnama-fukuok"
+status = 301
+[[redirects]]
+from = "/chto-privezti-iz-vietnd0b0ma-gde-luchshe-pokupat-vietnamskii-kofe"
+to = "/blog/chto-privezti-iz-vietnd0b0ma-gde-luchshe-pokupat-vietnamskii-kofe"
+status = 301
+[[redirects]]
+from = "/chto-privezti-izvietnama-muine"
+to = "/blog/chto-privezti-izvietnama-muine"
+status = 301
+[[redirects]]
+from = "/chto-takoe-low-cost"
+to = "/blog/chto-takoe-low-cost"
+status = 301
+[[redirects]]
+from = "/curios-praslin-seisheli"
+to = "/blog/curios-praslin-seisheli"
+status = 301
+[[redirects]]
+from = "/d0b3d0bed182d0bed0b2d0b8d0bcd181d18f-d0ba-d0bed0bad0bed0bdd187d0b0d0bdd0b8d18e-d0b2d0b5d0bbd0b8d0bad0bed0b3d0be-d0bfd0bed181d182d0b0"
+to = "/blog/d0b3d0bed182d0bed0b2d0b8d0bcd181d18f-d0ba-d0bed0bad0bed0bdd187d0b0d0bdd0b8d18e-d0b2d0b5d0bbd0b8d0bad0bed0b3d0be-d0bfd0bed181d182d0b0"
+status = 301
+[[redirects]]
+from = "/d0b4d0b2d0b0-d181-d0bfd0bed0bbd0bed0b2d0b8d0bdd0bed0b9-d0bbd0b8d182d180d0b0-d0b2d0bed0b4d18b-d0b2-d181d183d182d0bad0b8-d0bdd0b0-d0bfd180"
+to = "/blog/d0b4d0b2d0b0-d181-d0bfd0bed0bbd0bed0b2d0b8d0bdd0bed0b9-d0bbd0b8d182d180d0b0-d0b2d0bed0b4d18b-d0b2-d181d183d182d0bad0b8-d0bdd0b0-d0bfd180"
+status = 301
+[[redirects]]
+from = "/d0bad183d181d0bed187d0b5d0ba-d0bbd0b5d182d0b0"
+to = "/blog/d0bad183d181d0bed187d0b5d0ba-d0bbd0b5d182d0b0"
+status = 301
+[[redirects]]
+from = "/d0bbd0b8d185d0bed180d0b0d0b4d0bad0b0-d0b4d0b5d0bdd0b3d0b5-d0b2-d182d0b0d0b8d0bbd0b0d0bdd0b4d0b5"
+to = "/blog/d0bbd0b8d185d0bed180d0b0d0b4d0bad0b0-d0b4d0b5d0bdd0b3d0b5-d0b2-d182d0b0d0b8d0bbd0b0d0bdd0b4d0b5"
+status = 301
+[[redirects]]
+from = "/d0bcd0b5d187d182d0b0d18e-d0b0d180d0b8d0b7d0bed0bdd181d0bad0b0d18f-d0b2d0bed0bbd0bdd0b0"
+to = "/blog/d0bcd0b5d187d182d0b0d18e-d0b0d180d0b8d0b7d0bed0bdd181d0bad0b0d18f-d0b2d0bed0bbd0bdd0b0"
+status = 301
+[[redirects]]
+from = "/d0bcd0b5d187d182d0b0d18e-d0b3d0b5d0b9d0b7d0b5d180-d184d0bbd0b0d0b9"
+to = "/blog/d0bcd0b5d187d182d0b0d18e-d0b3d0b5d0b9d0b7d0b5d180-d184d0bbd0b0d0b9"
+status = 301
+[[redirects]]
+from = "/d0bdd0bed0b2d18bd0b9-d181d0b0d0bbd0b0d182-d181-d182d183d0bdd186d0bed0bc"
+to = "/blog/d0bdd0bed0b2d18bd0b9-d181d0b0d0bbd0b0d182-d181-d182d183d0bdd186d0bed0bc"
+status = 301
+[[redirects]]
+from = "/d180d18bd0b1d0bdd18bd0b9-d0b4d0b5d0bdd18c"
+to = "/blog/d180d18bd0b1d0bdd18bd0b9-d0b4d0b5d0bdd18c"
+status = 301
+[[redirects]]
+from = "/d181d0b0d0bcd0b0d18f-d0b4d0bed180d0bed0b3d0b0d18f-d0b5d0b4d0b0-d0b2-d0bcd0b8d180d0b5"
+to = "/blog/d181d0b0d0bcd0b0d18f-d0b4d0bed180d0bed0b3d0b0d18f-d0b5d0b4d0b0-d0b2-d0bcd0b8d180d0b5"
+status = 301
+[[redirects]]
+from = "/deli"
+to = "/blog/deli"
+status = 301
+[[redirects]]
+from = "/delta-mekonga-interesnaya-ekskursiya-iz-hoshimina"
+to = "/blog/delta-mekonga-interesnaya-ekskursiya-iz-hoshimina"
+status = 301
+[[redirects]]
+from = "/deshevie-aviabileti-obzor-spezpredlojenii-ot-aviakompanii"
+to = "/blog/deshevie-aviabileti-obzor-spezpredlojenii-ot-aviakompanii"
+status = 301
+[[redirects]]
+from = "/digital-nomads"
+to = "/blog/digital-nomads"
+status = 301
+[[redirects]]
+from = "/dostoprimechatelnosti-muine-bashni-chamov"
+to = "/blog/dostoprimechatelnosti-muine-bashni-chamov"
+status = 301
+[[redirects]]
+from = "/dostoprimechatelnosti-muine-ruchei-fei"
+to = "/blog/dostoprimechatelnosti-muine-ruchei-fei"
+status = 301
+[[redirects]]
+from = "/dostoprimechatelnosti-v-muine-belie-duni-i-ozero-lotosov"
+to = "/blog/dostoprimechatelnosti-v-muine-belie-duni-i-ozero-lotosov"
+status = 301
+[[redirects]]
+from = "/dostoprimechatelnosti-v-muine-krasnie-duni"
+to = "/blog/dostoprimechatelnosti-v-muine-krasnie-duni"
+status = 301
+[[redirects]]
+from = "/dva-s-polovinoi-litra-vodi-v-sutki-kak-osilit"
+to = "/blog/dva-s-polovinoi-litra-vodi-v-sutki-kak-osilit"
+status = 301
+[[redirects]]
+from = "/ekskursiya-na-marina-bei-sands-v-singapure"
+to = "/blog/ekskursiya-na-marina-bei-sands-v-singapure"
+status = 301
+[[redirects]]
+from = "/est-li-pivo-na-bali"
+to = "/blog/est-li-pivo-na-bali"
+status = 301
+[[redirects]]
+from = "/excursions-from-sharm-el-sheih-zvetnoi-canion"
+to = "/blog/excursions-from-sharm-el-sheih-zvetnoi-canion"
+status = 301
+[[redirects]]
+from = "/excursions-from-sharm-el-sheih"
+to = "/blog/excursions-from-sharm-el-sheih"
+status = 301
+[[redirects]]
+from = "/first-independent-trip-seishels"
+to = "/blog/first-independent-trip-seishels"
+status = 301
+[[redirects]]
+from = "/gde-ostanovitsya-na-djimbarane"
+to = "/blog/gde-ostanovitsya-na-djimbarane"
+status = 301
+[[redirects]]
+from = "/gde-v-hoshimine-samii-vkusnii-sup-pho"
+to = "/blog/gde-v-hoshimine-samii-vkusnii-sup-pho"
+status = 301
+[[redirects]]
+from = "/gid-po-tailandu"
+to = "/blog/gid-po-tailandu"
+status = 301
+[[redirects]]
+from = "/gid-po-vietnamu"
+to = "/blog/gid-po-vietnamu"
+status = 301
+[[redirects]]
+from = "/grand-anse-praslin-seisheli"
+to = "/blog/grand-anse-praslin-seisheli"
+status = 301
+[[redirects]]
+from = "/guesthaus-u-aeroporta-djokyarti"
+to = "/blog/guesthaus-u-aeroporta-djokyarti"
+status = 301
+[[redirects]]
+from = "/horoshii-gest-v-ubude-desak-putu-putra-home-stay"
+to = "/blog/horoshii-gest-v-ubude-desak-putu-putra-home-stay"
+status = 301
+[[redirects]]
+from = "/hotite-snyat-jilie-na-phukete-plyaj-ravai-otlichno-poidet"
+to = "/blog/hotite-snyat-jilie-na-phukete-plyaj-ravai-otlichno-poidet"
+status = 301
+[[redirects]]
+from = "/hram-bolshogo-buddy-big-budda-phuket"
+to = "/blog/hram-bolshogo-buddy-big-budda-phuket"
+status = 301
+[[redirects]]
+from = "/internet-za-granizei"
+to = "/blog/internet-za-granizei"
+status = 301
+[[redirects]]
+from = "/iz-sharm-el-sheiha-v-izrail"
+to = "/blog/iz-sharm-el-sheiha-v-izrail"
+status = 301
+[[redirects]]
+from = "/kak-dobratsya-s-phuketa-v-krabi-2"
+to = "/blog/kak-dobratsya-s-phuketa-v-krabi-2"
+status = 301
+[[redirects]]
+from = "/kak-dobratsya-s-phuketa-v-krabi"
+to = "/blog/kak-dobratsya-s-phuketa-v-krabi"
+status = 301
+[[redirects]]
+from = "/kak-dobratsya-v-muine-iz-hoshimina"
+to = "/blog/kak-dobratsya-v-muine-iz-hoshimina"
+status = 301
+[[redirects]]
+from = "/kak-dobratsys-s-phuketa-na-samui"
+to = "/blog/kak-dobratsys-s-phuketa-na-samui"
+status = 301
+[[redirects]]
+from = "/kak-mi-letali-c-loukosterami"
+to = "/blog/kak-mi-letali-c-loukosterami"
+status = 301
+[[redirects]]
+from = "/kak-naiti-deshevie-aviabileti"
+to = "/blog/kak-naiti-deshevie-aviabileti"
+status = 301
+[[redirects]]
+from = "/kak-ne-nujno-ezdit-na-filippini"
+to = "/blog/kak-ne-nujno-ezdit-na-filippini"
+status = 301
+[[redirects]]
+from = "/kak-ne-pereplatit-pokupaya-aviabilet-u-lowcostera"
+to = "/blog/kak-ne-pereplatit-pokupaya-aviabilet-u-lowcostera"
+status = 301
+[[redirects]]
+from = "/kak-priobresti-bileti-na-charternie-reisi"
+to = "/blog/kak-priobresti-bileti-na-charternie-reisi"
+status = 301
+[[redirects]]
+from = "/kak-samostoyatelno-proverit-sait-pri-pokupke-aviabiletiv"
+to = "/blog/kak-samostoyatelno-proverit-sait-pri-pokupke-aviabiletiv"
+status = 301
+[[redirects]]
+from = "/kak-sekonomit-na-projivanii"
+to = "/blog/kak-sekonomit-na-projivanii"
+status = 301
+[[redirects]]
+from = "/kak-sekonomit-na-taiskom-rinke"
+to = "/blog/kak-sekonomit-na-taiskom-rinke"
+status = 301
+[[redirects]]
+from = "/kakie-est-excursii-na-ostrove-fukuok"
+to = "/blog/kakie-est-excursii-na-ostrove-fukuok"
+status = 301
+[[redirects]]
+from = "/kakuu-strahovku-vibrat-dlya-poezdki-v-indiu"
+to = "/blog/kakuu-strahovku-vibrat-dlya-poezdki-v-indiu"
+status = 301
+[[redirects]]
+from = "/kitovie-akuli-na-philipinah-sebu-oslob"
+to = "/blog/kitovie-akuli-na-philipinah-sebu-oslob"
+status = 301
+[[redirects]]
+from = "/koshka-v-poezde-kak-perevezti-koshku-ili"
+to = "/blog/koshka-v-poezde-kak-perevezti-koshku-ili"
+status = 301
+[[redirects]]
+from = "/kot-dor-beach-seishels"
+to = "/blog/kot-dor-beach-seishels"
+status = 301
+[[redirects]]
+from = "/kot-samolet-perelet-s-kotom-v-tailand"
+to = "/blog/kot-samolet-perelet-s-kotom-v-tailand"
+status = 301
+[[redirects]]
+from = "/kupit-deshevie-aviabileti-stalo-eshe-proshe"
+to = "/blog/kupit-deshevie-aviabileti-stalo-eshe-proshe"
+status = 301
+[[redirects]]
+from = "/la-dig-seisheli"
+to = "/blog/la-dig-seisheli"
+status = 301
+[[redirects]]
+from = "/lemuriya-praslin"
+to = "/blog/lemuriya-praslin"
+status = 301
+[[redirects]]
+from = "/les-obezyan-monkey-forest-ubud-bali"
+to = "/blog/les-obezyan-monkey-forest-ubud-bali"
+status = 301
+[[redirects]]
+from = "/luchshii-plyaj-hainanya-plyaj-otelya-intercontinental"
+to = "/blog/luchshii-plyaj-hainanya-plyaj-otelya-intercontinental"
+status = 301
+[[redirects]]
+from = "/maiskaya-dolina-praslin-seisheli"
+to = "/blog/maiskaya-dolina-praslin-seisheli"
+status = 301
+[[redirects]]
+from = "/meditazionnii-zentr-dipabhavan-samui"
+to = "/blog/meditazionnii-zentr-dipabhavan-samui"
+status = 301
+[[redirects]]
+from = "/mobile-internet-za-granizei"
+to = "/blog/mobile-internet-za-granizei"
+status = 301
+[[redirects]]
+from = "/mui-ne-bao-quynh-bungalow-3"
+to = "/blog/mui-ne-bao-quynh-bungalow-3"
+status = 301
+[[redirects]]
+from = "/nashi-razocharovaniya-v-muine-otziv-kritikov"
+to = "/blog/nashi-razocharovaniya-v-muine-otziv-kritikov"
+status = 301
+[[redirects]]
+from = "/new-year-in-sharm-in-dahab"
+to = "/blog/new-year-in-sharm-in-dahab"
+status = 301
+[[redirects]]
+from = "/neyavka-passajira-na-reis-propadut-li-ostalnie-bileti"
+to = "/blog/neyavka-passajira-na-reis-propadut-li-ostalnie-bileti"
+status = 301
+[[redirects]]
+from = "/nezabivaemii-avia-perelet-ili-kak-vibrat-mesta-v-salone-samoleta"
+to = "/blog/nezabivaemii-avia-perelet-ili-kak-vibrat-mesta-v-salone-samoleta"
+status = 301
+[[redirects]]
+from = "/nujna-li-visa-v-tailand-v-dlya-rossiyan"
+to = "/blog/nujna-li-visa-v-tailand-v-dlya-rossiyan"
+status = 301
+[[redirects]]
+from = "/nujno-li-pokupat-aviabileti-dlay-samih-malenkih-puteshestvennikov"
+to = "/blog/nujno-li-pokupat-aviabileti-dlay-samih-malenkih-puteshestvennikov"
+status = 301
+[[redirects]]
+from = "/o-chem-govorayt-otzivi"
+to = "/blog/o-chem-govorayt-otzivi"
+status = 301
+[[redirects]]
+from = "/opasnosti-na-phukete"
+to = "/blog/opasnosti-na-phukete"
+status = 301
+[[redirects]]
+from = "/ostrov-fukuok-dostoprimechatelnosti"
+to = "/blog/ostrov-fukuok-dostoprimechatelnosti"
+status = 301
+[[redirects]]
+from = "/otel-u-hrama-borobudur"
+to = "/blog/otel-u-hrama-borobudur"
+status = 301
+[[redirects]]
+from = "/otziv-arcadia-phu-quoc-resort"
+to = "/blog/otziv-arcadia-phu-quoc-resort"
+status = 301
+[[redirects]]
+from = "/otziv-ob-ispolzovanii-smoli-artishoka"
+to = "/blog/otziv-ob-ispolzovanii-smoli-artishoka"
+status = 301
+[[redirects]]
+from = "/otziv-ob-otele-ocean-sun-dive-resort-v-tulambene"
+to = "/blog/otziv-ob-otele-ocean-sun-dive-resort-v-tulambene"
+status = 301
+[[redirects]]
+from = "/otziv-ob-otele-pesona-artha-guest-house"
+to = "/blog/otziv-ob-otele-pesona-artha-guest-house"
+status = 301
+[[redirects]]
+from = "/otziv-restoran-madam-din"
+to = "/blog/otziv-restoran-madam-din"
+status = 301
+[[redirects]]
+from = "/otzivi-ob-otele-beautiful-saigon-3"
+to = "/blog/otzivi-ob-otele-beautiful-saigon-3"
+status = 301
+[[redirects]]
+from = "/otzivi-ob-otelyh-vo-vietame-freedomland"
+to = "/blog/otzivi-ob-otelyh-vo-vietame-freedomland"
+status = 301
+[[redirects]]
+from = "/parom-na-phuket"
+to = "/blog/parom-na-phuket"
+status = 301
+[[redirects]]
+from = "/penuconda-indiya"
+to = "/blog/penuconda-indiya"
+status = 301
+[[redirects]]
+from = "/perevozka-kota-v-mashine"
+to = "/blog/perevozka-kota-v-mashine"
+status = 301
+[[redirects]]
+from = "/playaji-bali-dreamland"
+to = "/blog/playaji-bali-dreamland"
+status = 301
+[[redirects]]
+from = "/plyaj-ao-sein-ukromnoe-mesto-na-phukete"
+to = "/blog/plyaj-ao-sein-ukromnoe-mesto-na-phukete"
+status = 301
+[[redirects]]
+from = "/plyaj-bantao-phuket"
+to = "/blog/plyaj-bantao-phuket"
+status = 301
+[[redirects]]
+from = "/plyaj-freedom-ili-platnaya-svoboda"
+to = "/blog/plyaj-freedom-ili-platnaya-svoboda"
+status = 301
+[[redirects]]
+from = "/plyaj-nai-harn-odin-iz-luchih-plyajea-phuketa"
+to = "/blog/plyaj-nai-harn-odin-iz-luchih-plyajea-phuketa"
+status = 301
+[[redirects]]
+from = "/plyaj-yanui-na-phukete"
+to = "/blog/plyaj-yanui-na-phukete"
+status = 301
+[[redirects]]
+from = "/plyaji-bali-nusa-dua"
+to = "/blog/plyaji-bali-nusa-dua"
+status = 301
+[[redirects]]
+from = "/plyaji_bali_bingin"
+to = "/blog/plyaji_bali_bingin"
+status = 301
+[[redirects]]
+from = "/plyaji_bali_djimbaran"
+to = "/blog/plyaji_bali_djimbaran"
+status = 301
+[[redirects]]
+from = "/plyaji_bali_tulamben"
+to = "/blog/plyaji_bali_tulamben"
+status = 301
+[[redirects]]
+from = "/plyaji_dlya_kupaniya_na_bali"
+to = "/blog/plyaji_dlya_kupaniya_na_bali"
+status = 301
+[[redirects]]
+from = "/plyajnii-oteli-patonga-kak-vibrat-otel-na-patonge"
+to = "/blog/plyajnii-oteli-patonga-kak-vibrat-otel-na-patonge"
+status = 301
+[[redirects]]
+from = "/po-marshrutu-phuket-kbari"
+to = "/blog/po-marshrutu-phuket-kbari"
+status = 301
+[[redirects]]
+from = "/pogoda-na-hainane-v-yanvare"
+to = "/blog/pogoda-na-hainane-v-yanvare"
+status = 301
+[[redirects]]
+from = "/popular-razvodi-v-egipte-sharm-el-shaih"
+to = "/blog/popular-razvodi-v-egipte-sharm-el-shaih"
+status = 301
+[[redirects]]
+from = "/pora-domoi-praslin-seisheli"
+to = "/blog/pora-domoi-praslin-seisheli"
+status = 301
+[[redirects]]
+from = "/pravila-provoza-bagaja-v-samolete"
+to = "/blog/pravila-provoza-bagaja-v-samolete"
+status = 301
+[[redirects]]
+from = "/puttaparty"
+to = "/blog/puttaparty"
+status = 301
+[[redirects]]
+from = "/rassveti_na_dadunhai"
+to = "/blog/rassveti_na_dadunhai"
+status = 301
+[[redirects]]
+from = "/razvod-touristov-na-seishelah"
+to = "/blog/razvod-touristov-na-seishelah"
+status = 301
+[[redirects]]
+from = "/razvod-turistov-na-shri-lake-2"
+to = "/blog/razvod-turistov-na-shri-lake-2"
+status = 301
+[[redirects]]
+from = "/razvod-turistov-na-shri-lake"
+to = "/blog/razvod-turistov-na-shri-lake"
+status = 301
+[[redirects]]
+from = "/razvod-turistov-v-dahabe"
+to = "/blog/razvod-turistov-v-dahabe"
+status = 301
+[[redirects]]
+from = "/residence-certificate"
+to = "/blog/residence-certificate"
+status = 301
+[[redirects]]
+from = "/rishikesh"
+to = "/blog/rishikesh"
+status = 301
+[[redirects]]
+from = "/rukzak-nash-optimalnii-bagaj"
+to = "/blog/rukzak-nash-optimalnii-bagaj"
+status = 301
+[[redirects]]
+from = "/samostoyatelnii-poisk-i-arendanedorogogo-jiliya-na-phukete"
+to = "/blog/samostoyatelnii-poisk-i-arendanedorogogo-jiliya-na-phukete"
+status = 301
+[[redirects]]
+from = "/sezon-dojdei-fukuok"
+to = "/blog/sezon-dojdei-fukuok"
+status = 301
+[[redirects]]
+from = "/sezon-dojdei-v-tailande-pogoda-na-phukete"
+to = "/blog/sezon-dojdei-v-tailande-pogoda-na-phukete"
+status = 301
+[[redirects]]
+from = "/singapur"
+to = "/blog/singapur"
+status = 301
+[[redirects]]
+from = "/singapurskie-sadi"
+to = "/blog/singapurskie-sadi"
+status = 301
+[[redirects]]
+from = "/skolko-deneg-nado-zifromu-kochevniku"
+to = "/blog/skolko-deneg-nado-zifromu-kochevniku"
+status = 301
+[[redirects]]
+from = "/smola-artishoka-iz-vietnama-lichnii-opit-ispolzovaniya"
+to = "/blog/smola-artishoka-iz-vietnama-lichnii-opit-ispolzovaniya"
+status = 301
+[[redirects]]
+from = "/smotrovaya-ploshadka-windmill-viewpoint-na-phukete"
+to = "/blog/smotrovaya-ploshadka-windmill-viewpoint-na-phukete"
+status = 301
+[[redirects]]
+from = "/stoimost-poezdki-vo-vietnam-zeni-vo-vietname"
+to = "/blog/stoimost-poezdki-vo-vietnam-zeni-vo-vietname"
+status = 301
+[[redirects]]
+from = "/sunrises-on-cot-dor-praslin"
+to = "/blog/sunrises-on-cot-dor-praslin"
+status = 301
+[[redirects]]
+from = "/surin-beach-phuket"
+to = "/blog/surin-beach-phuket"
+status = 301
+[[redirects]]
+from = "/svadba-na-seishelah"
+to = "/blog/svadba-na-seishelah"
+status = 301
+[[redirects]]
+from = "/termalnie-istichniki_nantyan-saniya"
+to = "/blog/termalnie-istichniki_nantyan-saniya"
+status = 301
+[[redirects]]
+from = "/thai-driver-license"
+to = "/blog/thai-driver-license"
+status = 301
+[[redirects]]
+from = "/tickets-to-tai"
+to = "/blog/tickets-to-tai"
+status = 301
+[[redirects]]
+from = "/to-seishels-abu-dabi"
+to = "/blog/to-seishels-abu-dabi"
+status = 301
+[[redirects]]
+from = "/transfer-iz-aeroporta-phuketa"
+to = "/blog/transfer-iz-aeroporta-phuketa"
+status = 301
+[[redirects]]
+from = "/tumannii-vladivostok"
+to = "/blog/tumannii-vladivostok"
+status = 301
+[[redirects]]
+from = "/turisticheskaya-strahovka-dlya-beremennih"
+to = "/blog/turisticheskaya-strahovka-dlya-beremennih"
+status = 301
+[[redirects]]
+from = "/udivitelnoe-video-snyatoe-u-beregov-indonezii"
+to = "/blog/udivitelnoe-video-snyatoe-u-beregov-indonezii"
+status = 301
+[[redirects]]
+from = "/varkala"
+to = "/blog/varkala"
+status = 301
+[[redirects]]
+from = "/villa-bananier"
+to = "/blog/villa-bananier"
+status = 301
+[[redirects]]
+from = "/visa-v-indiu-dlya-rossiyan"
+to = "/blog/visa-v-indiu-dlya-rossiyan"
+status = 301
+[[redirects]]
+from = "/vivoz-jivotnih-iz-tailanda"
+to = "/blog/vivoz-jivotnih-iz-tailanda"
+status = 301
+[[redirects]]
+from = "/vodopadi-na-reke-jane"
+to = "/blog/vodopadi-na-reke-jane"
+status = 301
+[[redirects]]
+from = "/wedding-day"
+to = "/blog/wedding-day"
+status = 301
+[[redirects]]
+from = "/zachem-nujna-turisticheskaya-medizinskay-strahovka"
+to = "/blog/zachem-nujna-turisticheskaya-medizinskay-strahovka"
+status = 301
+[[redirects]]
+from = "/zimbabwe-praslin-seisheli"
+to = "/blog/zimbabwe-praslin-seisheli"
+status = 301
