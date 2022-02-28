@@ -1,9 +1,11 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Anyway.today
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Это блог с полезными рассказами о путешествиях. У нас вы найдете
+  самые полезные и актуальные советы о том как сэкономить в поездах, как выбрать
+  оптимальный маршрут и получить максимум удовольствия!
 mainpitch:
   title: Why Kaldi
   description: >
@@ -11,11 +13,10 @@ mainpitch:
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
