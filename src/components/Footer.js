@@ -1,11 +1,13 @@
 import * as React from "react";
 import { Link } from "gatsby";
 
-import logo from "../img/logo.svg";
-import facebook from "../img/social/facebook.svg";
-import instagram from "../img/social/instagram.svg";
-import twitter from "../img/social/twitter.svg";
-import vimeo from "../img/social/vimeo.svg";
+// import logo from "../img/logo.svg";
+import logo from "../img/logo.png";
+
+// import facebook from "../img/social/facebook.svg";
+// import instagram from "../img/social/instagram.svg";
+// import twitter from "../img/social/twitter.svg";
+// import vimeo from "../img/social/vimeo.svg";
 
 const Footer = class extends React.Component {
   render() {
@@ -29,7 +31,7 @@ const Footer = class extends React.Component {
                         Home
                       </Link>
                     </li>
-                    <li>
+                    {/* <li>
                       <Link className="navbar-item" to="/about">
                         About
                       </Link>
@@ -53,7 +55,7 @@ const Footer = class extends React.Component {
                       >
                         Admin
                       </a>
-                    </li>
+                    </li> */}
                   </ul>
                 </section>
               </div>
@@ -65,15 +67,15 @@ const Footer = class extends React.Component {
                         Latest Stories
                       </Link>
                     </li>
-                    <li>
+                    {/* <li>
                       <Link className="navbar-item" to="/contact">
                         Contact
                       </Link>
-                    </li>
+                    </li> */}
                   </ul>
                 </section>
               </div>
-              <div className="column is-4 social">
+              {/* <div className="column is-4 social">
                 <a title="facebook" href="https://facebook.com">
                   <img
                     src={facebook}
@@ -103,7 +105,7 @@ const Footer = class extends React.Component {
                     style={{ width: "1em", height: "1em" }}
                   />
                 </a>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
