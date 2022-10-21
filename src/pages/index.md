@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Anyway.today
 image: /img/img_20180319_130131_hdr.jpg
-heading: Great coffee with a conscience
+heading: " Путешествуйте с нами!"
 subheading: Это блог с полезными рассказами о путешествиях. У нас вы найдете
   самые полезные и актуальные советы о том как сэкономить в поездах, как выбрать
   оптимальный маршрут и получить максимум удовольствия!
