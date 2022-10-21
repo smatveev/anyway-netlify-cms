@@ -16,14 +16,6 @@ description: Это блог с полезными рассказами о пу�
   самые полезные и актуальные советы о том как сэкономить в поездах, как выбрать
   оптимальный маршрут и получить максимум удовольствия!
 intro:
-  blurbs:
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
