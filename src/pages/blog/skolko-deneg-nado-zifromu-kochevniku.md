@@ -1,15 +1,18 @@
 ---
+wordpress_id: 3824
 templateKey: blog-post
-author: igrishak
-comments: true
-date: 2020-01-20 12:39:04+00:00
 layout: post
-link: https://anyway.today/skolko-deneg-nado-zifromu-kochevniku/
+author: igrishak
 slug: skolko-deneg-nado-zifromu-kochevniku
 title: Сколько денег нужно, для того чтобы начать жизнь цифрового кочевника?
-wordpress_id: 3824
+date: 2020-01-20 12:39:04+00:00
+featuredpost: true
+featuredimage: /img/img_20180319_130131_hdr.jpg
+comments: true
+link: https://anyway.today/skolko-deneg-nado-zifromu-kochevniku/
 categories:
-- Путешественнику
+  - Путешественнику
+description: nomad lifestyle
 ---
 
 
