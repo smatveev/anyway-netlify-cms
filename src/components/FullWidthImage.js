@@ -73,10 +73,11 @@ export default function FullWidthImage(props) {
                 style={{
                   // boxShadow:
                   //   "rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px",
-                  backgroundColor: "rgb(0, 0, 0, 0.3)",
+                  backgroundColor: "rgb(0, 0, 0, 0.6)",
                   color: "white",
                   lineHeight: "1",
-                  padding: "0.25em",
+                  padding: "1rem",
+                  borderRadius: "1rem",
                 }}
               >
                 {title}
@@ -84,14 +85,13 @@ export default function FullWidthImage(props) {
             )}
             {subheading && (
               <h3
-                className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
+                className="column is-10 has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
                 style={{
-                  boxShadow:
-                    "rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px",
-                  backgroundColor: "rgb(255, 68, 0)",
+                  borderRadius: "1rem",
+                  backgroundColor: "rgb(0, 0, 0, 0.6)",
                   color: "white",
                   lineHeight: "1",
-                  padding: "0.25rem",
+                  padding: "1rem",
                   marginTop: "0.5rem",
                 }}
               >
