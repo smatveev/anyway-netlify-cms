@@ -6,13 +6,17 @@ author: igrishak
 slug: skolko-deneg-nado-zifromu-kochevniku
 title: Сколько денег нужно, для того чтобы начать жизнь цифрового кочевника?
 date: 2020-01-20 12:39:04+00:00
+description: nomad lifestyle
 featuredpost: true
-featuredimage: /img/img_20180319_130131_hdr.jpg
+featuredimage: /img/dave-weatherall-cjbyutw3vxq-unsplash.jpg
 comments: true
+tags:
+  - Nomads
+  - Glomad.net
+  - Digital Nomads
 link: https://anyway.today/skolko-deneg-nado-zifromu-kochevniku/
 categories:
   - Путешественнику
-description: nomad lifestyle
 ---
 
 
