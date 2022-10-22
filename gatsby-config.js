@@ -15,6 +15,17 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-yandex-metrika`,
+      options: {
+        trackingId: 28111128,
+        webvisor: true,
+        trackHash: true,
+        afterBody: false,
+        defer: false,
+        useCDN: true,
+      },
+    },
+    {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
         // You can add multiple tracking ids and a pageview event will be fired for all of them.
@@ -29,16 +40,16 @@ module.exports = {
           cookie_expires: 0,
         },
         // This object is used for configuration specific to this plugin
-        // pluginConfig: {
-        //   // Puts tracking script in the head instead of the body
-        //   head: false,
-        //   // Setting this parameter is also optional
-        //   respectDNT: true,
-        //   // Avoids sending pageview hits from custom paths
-        //   exclude: ["/preview/**", "/do-not-track/me/too/"],
-        //   // Defaults to https://www.googletagmanager.com
-        //   origin: "YOUR_SELF_HOSTED_ORIGIN",
-        // },
+        pluginConfig: {
+          // Puts tracking script in the head instead of the body
+          head: true,
+          // Setting this parameter is also optional
+          respectDNT: true,
+          // Avoids sending pageview hits from custom paths
+          exclude: ["/preview/**", "/do-not-track/me/too/"],
+          // // Defaults to https://www.googletagmanager.com
+          // origin: "YOUR_SELF_HOSTED_ORIGIN",
+        },
       },
     },
     {
