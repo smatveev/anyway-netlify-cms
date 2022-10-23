@@ -18,9 +18,14 @@ export default function FullWidthImage(props) {
         style={{
           display: "grid",
           alignItems: "center",
+          backgroundImage: `url(/img/bg3.jpg)`,
+          height: "50vh",
+          backgroundRepeat: "no-repeat",
+          backgroundPosition: "center",
+          backgroundSize: "cover",
         }}
       >
-        {img?.url ? (
+        {/* {img?.url ? (
           <img
             src={img}
             objectFit={"cover"}
@@ -54,7 +59,7 @@ export default function FullWidthImage(props) {
             alt=""
             formats={["auto", "webp", "avif"]}
           />
-        )}
+        )} */}
         {(title || subheading) && (
           <div
             style={{
@@ -92,7 +97,7 @@ export default function FullWidthImage(props) {
                   color: "white",
                   lineHeight: "1",
                   padding: "1rem",
-                  marginTop: "0.5rem",
+                  margin: "0.5rem",
                 }}
               >
                 {subheading}

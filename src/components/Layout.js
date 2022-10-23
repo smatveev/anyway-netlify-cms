@@ -16,6 +16,7 @@ const TemplateWrapper = ({ children }) => {
         
         <meta name="description" content={description} />
 
+        
         <link
           rel="apple-touch-icon"
           sizes="180x180"
@@ -51,7 +52,7 @@ const TemplateWrapper = ({ children }) => {
       </Helmet>
       <Navbar />
       <div>{children}</div>
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 };

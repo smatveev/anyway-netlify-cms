@@ -22,7 +22,12 @@ export const IndexPageTemplate = ({
 
   return (
     <div>
+      {/* заменил картинку на блок с /blog/index.js с бэкграунд */}
       <FullWidthImage img={heroImage} title={title} subheading={subheading} />
+      
+
+
+
       <section className="section section--gradient">
         <div className="container">
           <div className="section">
@@ -131,14 +136,6 @@ export const pageQuery = graphql`
         }
         description
         intro {
-          blurbs {
-            image {
-              childImageSharp {
-                gatsbyImageData(width: 240, quality: 64, layout: CONSTRAINED)
-              }
-            }
-            text
-          }
           heading
           description
         }
