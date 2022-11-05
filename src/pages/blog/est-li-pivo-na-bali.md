@@ -37,7 +37,7 @@ description: "Пиво на Бали. Сколько стоит, где купи
 
 
 
-[caption id="attachment_1114" align="aligncenter" width="720"][![Пиво на Бали в магазине Coco](http://anyway.today/wp-content/uploads/2015/06/IMG_8469.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_8469.jpg) Пиво на Бали в магазине Coco[/caption]
+[caption id="attachment_1114" align="aligncenter" width="720"][![Пиво на Бали в магазине Coco](https://anyway.today/wp-content/uploads/2015/06/IMG_8469.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_8469.jpg) Пиво на Бали в магазине Coco[/caption]
 
 
 ## Наш небольшой рейтинг индонезийских сортов пива.
