@@ -17,7 +17,7 @@ categories:
 <tbody >
 <tr >
 
-<td style="text-align: center;" >[![](http://anyway.today/wp-content/uploads/2013/04/1111-300x200.jpg)](http://anyway.today/wp-content/uploads/2013/04/1111.jpg)
+<td style="text-align: center;" >[![](https://anyway.today/wp-content/uploads/2013/04/1111.jpg)](https://anyway.today/wp-content/uploads/2013/04/1111.jpg)
 </td>
 </tr>
 <tr >
@@ -38,7 +38,7 @@ categories:
 <tbody >
 <tr >
 
-<td style="text-align: center;" >[![](http://anyway.today/wp-content/uploads/2013/04/222-300x225.jpg)](http://anyway.today/wp-content/uploads/2013/04/222.jpg)
+<td style="text-align: center;" >[![](https://anyway.today/wp-content/uploads/2013/04/222-300x225.jpg)](https://anyway.today/wp-content/uploads/2013/04/222.jpg)
 </td>
 </tr>
 <tr >
@@ -48,6 +48,6 @@ categories:
 </tr>
 </tbody>
 </table>
-Моя первая виртуальная встреча с Аризонской волной** **произошла[ **в Шарм-эль-Шейхе, при покупке экскурсии в Цветной каньон**](http://yanoteg.blogspot.ru/2014/06/blog-post_10.html) ))).
+Моя первая виртуальная встреча с Аризонской волной** **произошла[ **в Шарм-эль-Шейхе, при покупке экскурсии в Цветной каньон**](https://yanoteg.blogspot.ru/2014/06/blog-post_10.html) ))).
 
 

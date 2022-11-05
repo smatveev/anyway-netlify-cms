@@ -15,7 +15,7 @@ tags:
 - Хайнань
 ---
 
-Я думаю, что все кто в свое время собирался славно отдохнуть на острове Хайнань, и те кто только планирует посетить это место, столкнулись с вопросом:"Что выбрать для отдыха - бухту Ялуньвань или бухту [Дадунхай](http://anyway.today/buhta-dadunhai-hainan/)?".  Этот коварный вопрос, не имеющий однозначного ответа, пришлось решать и нам. Долгие вечера и ночи мы проверили в изучении правдивых отзывов наших предшественников, основываясь на них  мы выбрали бухту [Дадунхай](https://anyway.today/buhta-dadunhai-hainan/). Но и на пляж Ялуньвань мы, конечно же, попали. Так и что? Был ли ли верным наш выбор? Или мы остались в отпуске без китайского Баунти?
+Я думаю, что все кто в свое время собирался славно отдохнуть на острове Хайнань, и те кто только планирует посетить это место, столкнулись с вопросом:"Что выбрать для отдыха - бухту Ялуньвань или бухту [Дадунхай](https://anyway.today/buhta-dadunhai-hainan/)?".  Этот коварный вопрос, не имеющий однозначного ответа, пришлось решать и нам. Долгие вечера и ночи мы проверили в изучении правдивых отзывов наших предшественников, основываясь на них  мы выбрали бухту [Дадунхай](https://anyway.today/buhta-dadunhai-hainan/). Но и на пляж Ялуньвань мы, конечно же, попали. Так и что? Был ли ли верным наш выбор? Или мы остались в отпуске без китайского Баунти?
 
 
 <!-- more -->
@@ -42,7 +42,7 @@ tags:
 
 
 
-[caption id="attachment_1486" align="aligncenter" width="1024"][![Бухта Ялуньвань](http://anyway.today/wp-content/uploads/2016/02/IMG_0840.jpg)](http://anyway.today/wp-content/uploads/2016/02/IMG_0840.jpg) Автобус следующий до бухты Ялуньвань[/caption]
+[caption id="attachment_1486" align="aligncenter" width="1024"][![Бухта Ялуньвань](https://anyway.today/wp-content/uploads/2016/02/IMG_0840.jpg)](https://anyway.today/wp-content/uploads/2016/02/IMG_0840.jpg) Автобус следующий до бухты Ялуньвань[/caption]
 
 
 Ехать нужно по 25-ому маршруту до самого конца. Время в пути будет, приблизительно, около 30 минут. На входе  в автобус говорите девушке-контролеру заветное слово Ялуньвань, и она вам подскажет, что уже пора выходить, впрочем почти весь автобус будет ехать до пляжа. Проезд стоит семь юаней с человека.
@@ -103,9 +103,9 @@ tags:
 
 
 
-[caption id="attachment_1484" align="aligncenter" width="1024"][![Бухта Ялуньвань](http://anyway.today/wp-content/uploads/2016/02/IMG_0786.jpg)](http://anyway.today/wp-content/uploads/2016/02/IMG_0786.jpg) Идем через территорию отеля на пляж Ялуньвань[/caption]
+[caption id="attachment_1484" align="aligncenter" width="1024"][![Бухта Ялуньвань](https://anyway.today/wp-content/uploads/2016/02/IMG_0786.jpg)](https://anyway.today/wp-content/uploads/2016/02/IMG_0786.jpg) Идем через территорию отеля на пляж Ялуньвань[/caption]
 
-[caption id="attachment_1485" align="aligncenter" width="1024"][![Бухта Ялуньвань](http://anyway.today/wp-content/uploads/2016/02/IMG_0792.jpg)](http://anyway.today/wp-content/uploads/2016/02/IMG_0792.jpg) Территория отеля в бухте Ялуньвань[/caption]
+[caption id="attachment_1485" align="aligncenter" width="1024"][![Бухта Ялуньвань](https://anyway.today/wp-content/uploads/2016/02/IMG_0792.jpg)](https://anyway.today/wp-content/uploads/2016/02/IMG_0792.jpg) Территория отеля в бухте Ялуньвань[/caption]
 
 
 Ну что сказать  можно сказать о бухте Ялуньвань? Ну да, песочек мелкий и почти белый. Ну да, море прозрачное и нам даже показалось приличной температуры. Водичка манит купаться. Но блин, не бывает на Баунти такого бешеного количества народа, ну никак не бывает.
@@ -113,7 +113,7 @@ tags:
 
 
 
-[caption id="attachment_1488" align="aligncenter" width="1024"][![Бухта Ялуньвань](http://anyway.today/wp-content/uploads/2016/02/IMG_0827.jpg)](http://anyway.today/wp-content/uploads/2016/02/IMG_0827.jpg) Вот такое оно - китайское Баунти, бухта Ялуньвань[/caption]
+[caption id="attachment_1488" align="aligncenter" width="1024"][![Бухта Ялуньвань](https://anyway.today/wp-content/uploads/2016/02/IMG_0827.jpg)](https://anyway.today/wp-content/uploads/2016/02/IMG_0827.jpg) Вот такое оно - китайское Баунти, бухта Ялуньвань[/caption]
 
 
 По воде носятся водные мотоциклы, бананы. Части моря огороженные для купальщиков кишат народом. Люди на лежаках,  люди на песке, люди в возведенных на пляже палатках, толпы людей сидят прямо под мостом.
@@ -121,7 +121,7 @@ tags:
 
 
 
-[caption id="attachment_1489" align="aligncenter" width="1024"][![Бухта Ялуньвань](http://anyway.today/wp-content/uploads/2016/02/IMG_0793.jpg)](http://anyway.today/wp-content/uploads/2016/02/IMG_0793.jpg) Купальщики в бухте Ялуньвань[/caption]
+[caption id="attachment_1489" align="aligncenter" width="1024"][![Бухта Ялуньвань](https://anyway.today/wp-content/uploads/2016/02/IMG_0793.jpg)](https://anyway.today/wp-content/uploads/2016/02/IMG_0793.jpg) Купальщики в бухте Ялуньвань[/caption]
 
 
 За пределами этого, видимо публичного пляжа, есть практически пустые пляжи, но это территории других отелей они огорожены. Возможно, туда можно как то попасть, но мы не стали проводить эксперименты.
@@ -140,7 +140,7 @@ tags:
 
 
 
-[caption id="attachment_1490" align="aligncenter" width="1024"][![Бухта Ялуньвань](http://anyway.today/wp-content/uploads/2016/02/IMG_0796.jpg)](http://anyway.today/wp-content/uploads/2016/02/IMG_0796.jpg) Бесплатная раздевалка, бухта Ялуньвань[/caption]
+[caption id="attachment_1490" align="aligncenter" width="1024"][![Бухта Ялуньвань](https://anyway.today/wp-content/uploads/2016/02/IMG_0796.jpg)](https://anyway.today/wp-content/uploads/2016/02/IMG_0796.jpg) Бесплатная раздевалка, бухта Ялуньвань[/caption]
 
 
 Перед раздевалкой мини рынок, с пляжной одеждой, сувенирами и едой.
@@ -148,7 +148,7 @@ tags:
 
 
 
-[caption id="attachment_1491" align="aligncenter" width="1024"][![Лавка с сувенирами, Бухта Ялуньвань](http://anyway.today/wp-content/uploads/2016/02/IMG_0798.jpg)](http://anyway.today/wp-content/uploads/2016/02/IMG_0798.jpg) Лавка с сувенирами, Бухта Ялуньвань[/caption]
+[caption id="attachment_1491" align="aligncenter" width="1024"][![Лавка с сувенирами, Бухта Ялуньвань](https://anyway.today/wp-content/uploads/2016/02/IMG_0798.jpg)](https://anyway.today/wp-content/uploads/2016/02/IMG_0798.jpg) Лавка с сувенирами, Бухта Ялуньвань[/caption]
 
 
 Нарезанные фрукты стоят около 10 юаней, пиво 10 юаней. Шашлычки из кальмара и еще бог весть чего, тоже отпускают по 10 юаней. Перекусить при желании можно.
@@ -156,7 +156,7 @@ tags:
 
 
 
-[caption id="attachment_1492" align="aligncenter" width="1024"][![ Бухта Ялуньвань](http://anyway.today/wp-content/uploads/2016/02/IMG_0831.jpg)](http://anyway.today/wp-content/uploads/2016/02/IMG_0831.jpg) Лавки с едой, Бухта Ялуньвань[/caption]
+[caption id="attachment_1492" align="aligncenter" width="1024"][![ Бухта Ялуньвань](https://anyway.today/wp-content/uploads/2016/02/IMG_0831.jpg)](https://anyway.today/wp-content/uploads/2016/02/IMG_0831.jpg) Лавки с едой, Бухта Ялуньвань[/caption]
 
 
 ##  Бухта Ялуньвань наш отзыв
@@ -164,7 +164,7 @@ tags:
 
 По нашим ощущениям, бухта Ялуньвань это курорт с весьма дорогими отелями и хорошим морем. По дороге к пляжу меня не отпускало ощущение что это место специально только для отдыхающих и иной жизни тут нет. Пафосные отели, цветы, дорогие машины вокруг.
 
-[caption id="attachment_1503" align="aligncenter" width="1024"][![По дороге к бухте Ялуньвань](http://anyway.today/wp-content/uploads/2016/02/IMG_0839.jpg)](http://anyway.today/wp-content/uploads/2016/02/IMG_0839.jpg) По дороге к бухте Ялуньвань[/caption]
+[caption id="attachment_1503" align="aligncenter" width="1024"][![По дороге к бухте Ялуньвань](https://anyway.today/wp-content/uploads/2016/02/IMG_0839.jpg)](https://anyway.today/wp-content/uploads/2016/02/IMG_0839.jpg) По дороге к бухте Ялуньвань[/caption]
 
 
 По факту, недорогих мест где можно перекусить более существенно чем на пляже почти нет. До основных туристических достопримечательностей добираться из бухты Ялуньвань дольше (не сложнее, а именно только дольше). Несмотря на то, что море в бухте Дадунхай заметно хуже чем в бухте Ялуньвань, я рада, что мы сделали именно такой выбор. На Ялуньване, кроме моря нет ничего. При желании искупаться всегда легко и просто добраться туда. Так что, если для вас важен не только пляжный отдых, то Дадунхай, мне кажется более подходящим вариантом.

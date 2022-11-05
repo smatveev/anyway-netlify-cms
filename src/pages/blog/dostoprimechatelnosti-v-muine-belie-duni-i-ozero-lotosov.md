@@ -42,12 +42,12 @@ tags:
 
 
 
-Добраться до них можно на [мотобайках](http://anyway.today/arenda-motobaika-vo-vietname/), асфальтовая дорога на всем своем протяжении очень хорошего качества. И что интересно, дорога практически всегда пуста. Чаще всего по пути можно встретить таких же как и вы туристов. Намного реже проезжают местные.
+Добраться до них можно на [мотобайках](https://anyway.today/arenda-motobaika-vo-vietname/), асфальтовая дорога на всем своем протяжении очень хорошего качества. И что интересно, дорога практически всегда пуста. Чаще всего по пути можно встретить таких же как и вы туристов. Намного реже проезжают местные.
 
 
 
 
-[caption id="attachment_913" align="aligncenter" width="720"][![Дорога на](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0302.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0302.jpg) Дорога к Белым Дюнам[/caption]
+[caption id="attachment_913" align="aligncenter" width="720"][![Дорога на](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0302.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0302.jpg) Дорога к Белым Дюнам[/caption]
 
 
 Непосредственно перед самими белыми Дюнами, придется проехать небольшой не асфальтированный участок дороги. Но он, настолько укатан, что проблем не вызовет.
@@ -55,7 +55,7 @@ tags:
 
 
 
-[caption id="attachment_920" align="aligncenter" width="720"][![Как добраться к белым дюнам, вьетнам](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0316.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0316.jpg) Не асфальтированный участок дороги к Белым Дюнам[/caption]
+[caption id="attachment_920" align="aligncenter" width="720"][![Как добраться к белым дюнам, вьетнам](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0316.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0316.jpg) Не асфальтированный участок дороги к Белым Дюнам[/caption]
 
 
 Встречаются очень красивые пейзажи. Если честно, кое какие виды, мне понравились намного больше самих Белых дюн.  Так же дорога идет вдоль моря, мимо красивых и безлюдных пляжей. Мне показалось, что качество этих пляжей намного выше чем в самом Муйне. Вода голубая и волн гораздо меньше, чем в деревне.
@@ -83,7 +83,7 @@ tags:
 ## Красный каньон, Муйне
 
 
-[caption id="attachment_914" align="aligncenter" width="720"][![Красный Каньон, достопримечательности Муйне, Вьетнам](http://anyway.today/wp-content/uploads/2015/04/2014-10-21_Vietnam_0201.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-21_Vietnam_0201.jpg) Красный каньон[/caption]
+[caption id="attachment_914" align="aligncenter" width="720"][![Красный Каньон, достопримечательности Муйне, Вьетнам](https://anyway.today/wp-content/uploads/2015/04/2014-10-21_Vietnam_0201.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-21_Vietnam_0201.jpg) Красный каньон[/caption]
 
 
 Примерно, через две трети пути, находится Красный каньон. Если увлечься поездкой, то его можно легко проскочить. Мы Красный каньон обнаружили только при второй попытке доехать до Белых Дюн. Красный каньон с первого взгляда кажется совсем непривлекательным, но стоит остановиться и прогуляться к нему. По мере приближения к морю он становится выше, и открываются красивые виды.
@@ -107,13 +107,13 @@ tags:
 
 
 
-[caption id="attachment_977" align="aligncenter" width="720"][![белые дюны муйне](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0348.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0348.jpg) Маленький развратник[/caption]
+[caption id="attachment_977" align="aligncenter" width="720"][![белые дюны муйне](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0348.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0348.jpg) Маленький развратник[/caption]
 
 
 ## Озеро Лотосов, Муйне
 
 
-[caption id="attachment_922" align="aligncenter" width="720"][![Озеро лотосов, вьетнам, муйне](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0322.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0322.jpg) Озеро лотосов[/caption]
+[caption id="attachment_922" align="aligncenter" width="720"][![Озеро лотосов, вьетнам, муйне](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0322.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0322.jpg) Озеро лотосов[/caption]
 
 
 А вот Озеро Лотосов нас, к сожалению, совсем не впечатлило. На большом озере, лотосов и не было. Хотя само озеро конечно весьма красивое. Два болотца рядом были с лотосами. Но то ли не сезон, то ли лотосы так и выглядят... Но это просто были сухие листья, и ростки над водой.
@@ -121,7 +121,7 @@ tags:
 
 
 
-[caption id="attachment_921" align="aligncenter" width="720"][![Озеро лотосов Вьетнам, мУйне](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0320.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0320.jpg) Сухие лотосы на озере[/caption]
+[caption id="attachment_921" align="aligncenter" width="720"][![Озеро лотосов Вьетнам, мУйне](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0320.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0320.jpg) Сухие лотосы на озере[/caption]
 
 
 Удалось запечатлеть, только один распустившийся цветок лотоса. Возможно, в подходящее время озеро выглядело бы более свежим и красивым.
@@ -140,11 +140,11 @@ tags:
 
 
 
-[caption id="attachment_919" align="aligncenter" width="720"][![Белые дюны, Вьетнам муйне](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0315.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0315.jpg) Коровник по дороге к белым дюнам и лотосам[/caption]
+[caption id="attachment_919" align="aligncenter" width="720"][![Белые дюны, Вьетнам муйне](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0315.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0315.jpg) Коровник по дороге к белым дюнам и лотосам[/caption]
 
-[caption id="attachment_926" align="aligncenter" width="720"][![Озеро лотосов, вьетнам , муйне](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_03121.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_03121.jpg) Что то странное выращивается на полях[/caption]
+[caption id="attachment_926" align="aligncenter" width="720"][![Озеро лотосов, вьетнам , муйне](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_03121.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_03121.jpg) Что то странное выращивается на полях[/caption]
 
-[caption id="attachment_924" align="aligncenter" width="720"][![Белые Дюны во Вьетнаме муйне](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0349.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0349.jpg) Отличный вид, мало уступает Белым дюнам[/caption]
+[caption id="attachment_924" align="aligncenter" width="720"][![Белые Дюны во Вьетнаме муйне](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0349.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0349.jpg) Отличный вид, мало уступает Белым дюнам[/caption]
 
 
 Сами по себе Белые Дюны красивы и действительно достойны внимания. Возможно, вам удастся застать озеро Лотосов в подходящее время, тогда это тоже будет привлекательным зрелищем. По пути обязательно надо остановиться у Красного каньона. Сам по себе он находится достаточно далеко, что бы ехать на него специально, но по дороге на Белые дюны, нельзя упускать возможность остановиться у Красного каньона.

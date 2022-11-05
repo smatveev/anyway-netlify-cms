@@ -26,12 +26,12 @@ tags:
 
 Найти Сингапурские сады очень просто.  Gardens by the Bay находится на станции метро **HarbourFront.  **Карта сингапурского метро представлена ниже.
 
-[caption id="attachment_1119" align="aligncenter" width="720"][![Карта метро Сингапура](http://anyway.today/wp-content/uploads/2015/06/singapur-metro-map.jpg)](http://anyway.today/wp-content/uploads/2015/06/singapur-metro-map.jpg) Карта метро Сингапура[/caption]
+[caption id="attachment_1119" align="aligncenter" width="720"][![Карта метро Сингапура](https://anyway.today/wp-content/uploads/2015/06/singapur-metro-map.jpg)](https://anyway.today/wp-content/uploads/2015/06/singapur-metro-map.jpg) Карта метро Сингапура[/caption]
 
-Слева от торгового центра находится лифт, который поднимет вас к переходу. Поэтому переходу напрямую можно пройти к Сингапурским садам. Другой вариант, это обойти вокруг отеля [Марина Бэй](http://anyway.today/ekskursiya-na-marina-bei-sands-v-singapure) и зайти через главный вход. **
+Слева от торгового центра находится лифт, который поднимет вас к переходу. Поэтому переходу напрямую можно пройти к Сингапурским садам. Другой вариант, это обойти вокруг отеля [Марина Бэй](https://anyway.today/ekskursiya-na-marina-bei-sands-v-singapure) и зайти через главный вход. **
 **
 
-[caption id="attachment_1118" align="aligncenter" width="720"][![Мост к Сингапурским садам](http://anyway.today/wp-content/uploads/2015/06/MG_7389.jpg)](http://anyway.today/wp-content/uploads/2015/06/MG_7389.jpg) Мост к Сингапурским садам[/caption]
+[caption id="attachment_1118" align="aligncenter" width="720"][![Мост к Сингапурским садам](https://anyway.today/wp-content/uploads/2015/06/MG_7389.jpg)](https://anyway.today/wp-content/uploads/2015/06/MG_7389.jpg) Мост к Сингапурским садам[/caption]
 
 
 ## Сколько стоит посещение Сингапурских садов?
@@ -44,7 +44,7 @@ tags:
 
 
 
-[caption id="attachment_1222" align="aligncenter" width="720"][![Билеты в Сингапурские сады](http://anyway.today/wp-content/uploads/2015/06/singapur-garden.jpg)](http://anyway.today/wp-content/uploads/2015/06/singapur-garden.jpg) Билеты в Сингапурские сады[/caption]
+[caption id="attachment_1222" align="aligncenter" width="720"][![Билеты в Сингапурские сады](https://anyway.today/wp-content/uploads/2015/06/singapur-garden.jpg)](https://anyway.today/wp-content/uploads/2015/06/singapur-garden.jpg) Билеты в Сингапурские сады[/caption]
 
 
 ## Экскурсия сады у залива Gardens by the bay
@@ -68,7 +68,7 @@ tags:
 
 
 
-[caption id="attachment_1223" align="aligncenter" width="720"][![Сингапурские сады у залива](http://anyway.today/wp-content/uploads/2015/06/IMG_7509.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_7509.jpg) Ствол искусственного дерева[/caption]
+[caption id="attachment_1223" align="aligncenter" width="720"][![Сингапурские сады у залива](https://anyway.today/wp-content/uploads/2015/06/IMG_7509.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_7509.jpg) Ствол искусственного дерева[/caption]
 
 
 Деревья собирают дождевую воду, питаются солнечной энергией. Очищают воздух и создают прохладу. Но даже если опустить все технические чудеса, то выглядят эти деревья потрясающе. Как будто  попал в сказочный лес с гигантскими деревьями и ты  в этом лесу как букашка или лилипут.
@@ -76,7 +76,7 @@ tags:
 
 
 
-[caption id="attachment_1224" align="aligncenter" width="720"][![Сингапурские сады у залива](http://anyway.today/wp-content/uploads/2015/06/IMG_7537.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_7537.jpg) Сингапурские сады у залива[/caption]
+[caption id="attachment_1224" align="aligncenter" width="720"][![Сингапурские сады у залива](https://anyway.today/wp-content/uploads/2015/06/IMG_7537.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_7537.jpg) Сингапурские сады у залива[/caption]
 
 
 ## Garden Rhapsody
@@ -100,7 +100,7 @@ tags:
 
 
 
-[caption id="attachment_1225" align="aligncenter" width="720"][![Вид с моста Skyway](http://anyway.today/wp-content/uploads/2015/06/MG_7520.jpg)](http://anyway.today/wp-content/uploads/2015/06/MG_7520.jpg) Вид с моста Skyway[/caption]
+[caption id="attachment_1225" align="aligncenter" width="720"][![Вид с моста Skyway](https://anyway.today/wp-content/uploads/2015/06/MG_7520.jpg)](https://anyway.today/wp-content/uploads/2015/06/MG_7520.jpg) Вид с моста Skyway[/caption]
 
 
 Во первых, у желтого мостика между перила и пол сделаны из какой то железной сетки - просечки.  В результате этого у моста просвечивается пол, для меня это непреодолимое препятствие. Во вторых, мостик пошатывается. Я более чем уверена, что конструкция надежна, но пересилить себя я не смогла. И последнее, в то время когда мы были на мосту стала портится погода.
@@ -110,7 +110,7 @@ tags:
 
 
 
-[caption id="attachment_1226" align="aligncenter" width="720"][![Вид с моста Skyway](http://anyway.today/wp-content/uploads/2015/06/MG_7547.jpg)](http://anyway.today/wp-content/uploads/2015/06/MG_7547.jpg) Вид с моста Skyway[/caption]
+[caption id="attachment_1226" align="aligncenter" width="720"][![Вид с моста Skyway](https://anyway.today/wp-content/uploads/2015/06/MG_7547.jpg)](https://anyway.today/wp-content/uploads/2015/06/MG_7547.jpg) Вид с моста Skyway[/caption]
 
 **Если вам нравится наш блог и вы находите его в чем либо полезным для себя — вы всегда можете поддержать его оформив подписку на его новости:**
 
@@ -120,13 +120,13 @@ tags:
   * **подписаться на** [**E-mail**](https://feedburner.google.com/fb/a/mailverify?uri=Anywaytoday&amp;loc=en_US)
 
  	
-  * **наша группа** [**ВКонтакте**](http://vk.com/public90452188)
+  * **наша группа** [**ВКонтакте**](https://vk.com/public90452188)
 
  	
   * **наш [Twitter](https://twitter.com/TodayAnyway)**
 
  	
-  * **мы в [Одноклассниках](http://ok.ru/group/54402107244544)**
+  * **мы в [Одноклассниках](https://ok.ru/group/54402107244544)**
 
 
 **Дешевые авиабилеты Москва-Сингапур**

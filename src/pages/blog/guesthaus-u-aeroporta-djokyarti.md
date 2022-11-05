@@ -51,11 +51,11 @@ tags:
 
 
  Сам гест Ndalem Pundhi представляет из себя двухэтажное здание, на обоих этажах номера. На веранде перед номерами расположены столы для завтраков. Сам номер довольно маленький, вмещает в себя только кровать. Но кровать достаточно удобная, белье и полотенца чистые. 
-[![Отель у аэропорта в Джокьярте](http://anyway.today/wp-content/uploads/2015/06/IMG_8390.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_8390.jpg)
+[![Отель у аэропорта в Джокьярте](https://anyway.today/wp-content/uploads/2015/06/IMG_8390.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_8390.jpg)
 Так же в комнате есть телевизор и кондиционер.
-[caption id="attachment_1189" align="aligncenter" width="720"][![Отель у аэропорта в Джокьярте](http://anyway.today/wp-content/uploads/2015/06/IMG_8392.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_8392.jpg) Кондиционер[/caption]
+[caption id="attachment_1189" align="aligncenter" width="720"][![Отель у аэропорта в Джокьярте](https://anyway.today/wp-content/uploads/2015/06/IMG_8392.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_8392.jpg) Кондиционер[/caption]
  Самое приятное есть горячая вода. 
-[caption id="attachment_1188" align="aligncenter" width="720"][![Отель у аэропорта в Джокьярте](http://anyway.today/wp-content/uploads/2015/06/IMG_8391.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_8391.jpg) Душевая[/caption]
+[caption id="attachment_1188" align="aligncenter" width="720"][![Отель у аэропорта в Джокьярте](https://anyway.today/wp-content/uploads/2015/06/IMG_8391.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_8391.jpg) Душевая[/caption]
 Какие завтраки предоставляет гест, я не могу сказать, так как ушли мы из геста рано утром и не попали на завтрак. Отдельно хочется отметить доброту хозяев. Так получилось, что при бронировании номера мы перепутали даты прибывания. Несмотря на это хозява разрешили нам переночевать в тот день в который мы пришли и не потребовали при этом дополнительной оплаты. Плюс ко всему хозяйка геста вечером специально оставила нам кипяток, чай и кофе, за что ей отдельное спасибо.
 
 
@@ -69,7 +69,7 @@ tags:
 Из минусов, видимо совсем недавно в комнате провели ремонт и вскрыли потолок лаком. Запах лака был очень сильным. Но думаю это явление временное.
 
 
-[caption id="attachment_1190" align="aligncenter" width="1024"][![Отель у аэропорта в Джокьярте](http://anyway.today/wp-content/uploads/2015/06/IMG_8393-1024x683.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_8393.jpg) Тот самый потолок[/caption]
+[caption id="attachment_1190" align="aligncenter" width="1024"][![Отель у аэропорта в Джокьярте](https://anyway.today/wp-content/uploads/2015/06/IMG_8393-1024x683.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_8393.jpg) Тот самый потолок[/caption]
 
 
 
@@ -90,13 +90,13 @@ tags:
   * **подписаться на** [**E-mail**](https://feedburner.google.com/fb/a/mailverify?uri=Anywaytoday&amp;loc=en_US)
 
 	
-  * **наша группа** [**ВКонтакте**](http://vk.com/public90452188)
+  * **наша группа** [**ВКонтакте**](https://vk.com/public90452188)
 
 	
   * **наш [Twitter](https://twitter.com/TodayAnyway)**
 
 	
-  * **мы в [Одноклассниках](http://ok.ru/group/54402107244544)**
+  * **мы в [Одноклассниках](https://ok.ru/group/54402107244544)**
 
 
 

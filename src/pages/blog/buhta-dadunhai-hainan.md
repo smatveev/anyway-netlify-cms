@@ -63,7 +63,7 @@ tags:
 
 
 
-[caption id="attachment_1456" align="aligncenter" width="1024"][![Дадунхай, набережная](http://anyway.today/wp-content/uploads/2016/01/MG_1172.jpg)](http://anyway.today/wp-content/uploads/2016/01/MG_1172.jpg) Дадунхай, набережная[/caption]
+[caption id="attachment_1456" align="aligncenter" width="1024"][![Дадунхай, набережная](https://anyway.today/wp-content/uploads/2016/01/MG_1172.jpg)](https://anyway.today/wp-content/uploads/2016/01/MG_1172.jpg) Дадунхай, набережная[/caption]
 
 
 Отведать морепродуктов нам так и не удалось по ряду причин. Во первых, кафешки в буквальном смысле забиты местными и нет свободных мест. Компании из трех человек как то неудобно занимать самим  круглые огромные столы, рассчитанные человек на двадцать. Вторая неожиданность - достаточно высокие цены.

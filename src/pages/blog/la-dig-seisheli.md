@@ -38,18 +38,18 @@ tags:
 Сразу сойдя с парома можно арендовать велосипед. Аренда велосипеда на день стоит порядка 200 наших рублей, уже не помню точно. Если говорят больше, можно смело называть свою цену. Отдадут велосипед по ней. Велосипед можно везде смело бросать. Его никто не возьмет, он никуда не денется. 
 
 
-![](http://anyway.today/wp-content/uploads/2013/04/IMG_3245-300x200.jpg)
+![](https://anyway.today/wp-content/uploads/2013/04/IMG_3245.jpg)
 
 
 Мы приехали очень рано, первым паромом с [Праслина](https://anyway.today/tag/%D0%BF%D1%80%D0%B0%D1%81%D0%BB%D0%B8%D0%BD/). И первым делом двинулись на известный пляж Гранд Анс. Он разительно отличается от своего [тезки на Праслине](https://anyway.today/grand-anse-praslin-seisheli/). Зрелище ради которого стоило проснуться и успеть на первый паром. И более того, ради которого стоило так далеко лететь. Раннее утро, величественный Гранд Анс. Именно величественный, другого слова не подобрать. Огромные волны бьющие о берег. И никого вокруг.  Хочется зависнуть тут навсегда.
 
 
-![](http://anyway.today/wp-content/uploads/2013/04/115-300x200.jpg)
+![](https://anyway.today/wp-content/uploads/2013/04/115.jpg)
 
 Волны очень большие, я долго даже не рисковала зайти в воду. Потом когда меня потаскало немного по дну, решила просто созерцать))).
 
 
-[![](http://anyway.today/wp-content/uploads/2013/04/IMG_3808-300x200.jpg)](http://anyway.today/wp-content/uploads/2013/04/IMG_3808.jpg)
+[![](https://anyway.today/wp-content/uploads/2013/04/IMG_3808.jpg)](https://anyway.today/wp-content/uploads/2013/04/IMG_3808.jpg)
 
 
 
@@ -60,17 +60,17 @@ tags:
 
 
 
-[![](http://anyway.today/wp-content/uploads/2013/04/IMG_3357-300x200.jpg)](http://anyway.today/wp-content/uploads/2013/04/IMG_3357.jpg)
+[![](https://anyway.today/wp-content/uploads/2013/04/IMG_3357.jpg)](https://anyway.today/wp-content/uploads/2013/04/IMG_3357.jpg)
 
 
 
 
-[![](http://anyway.today/wp-content/uploads/2013/04/IMG_3369-300x200.jpg)](http://anyway.today/wp-content/uploads/2013/04/IMG_3369.jpg)
+[![](https://anyway.today/wp-content/uploads/2013/04/IMG_3369.jpg)](https://anyway.today/wp-content/uploads/2013/04/IMG_3369.jpg)
 
 
 
 
-[![](http://anyway.today/wp-content/uploads/2013/04/IMG_3376-300x200.jpg)](http://anyway.today/wp-content/uploads/2013/04/IMG_3376.jpg)
+[![](https://anyway.today/wp-content/uploads/2013/04/IMG_3376.jpg)](https://anyway.today/wp-content/uploads/2013/04/IMG_3376.jpg)
 
 
 
@@ -81,7 +81,7 @@ tags:
 
 
 
-[![](http://anyway.today/wp-content/uploads/2013/04/IMG_3380-300x200.jpg)](http://anyway.today/wp-content/uploads/2013/04/IMG_3380.jpg)
+[![](https://anyway.today/wp-content/uploads/2013/04/IMG_3380.jpg)](https://anyway.today/wp-content/uploads/2013/04/IMG_3380.jpg)
 
 
 
@@ -92,12 +92,12 @@ tags:
 Несколько фотографий с пляжа Анс Кокос
 
 
-[![](http://anyway.today/wp-content/uploads/2013/04/IMG_3599-300x200.jpg)](http://anyway.today/wp-content/uploads/2013/04/IMG_3599.jpg)
+[![](https://anyway.today/wp-content/uploads/2013/04/IMG_3599.jpg)](https://anyway.today/wp-content/uploads/2013/04/IMG_3599.jpg)
 
 
 
 
-[![](http://anyway.today/wp-content/uploads/2013/04/IMG_3538-300x200.jpg)](http://anyway.today/wp-content/uploads/2013/04/IMG_3538.jpg)
+[![](https://anyway.today/wp-content/uploads/2013/04/IMG_3538.jpg)](https://anyway.today/wp-content/uploads/2013/04/IMG_3538.jpg)
 
 
 
@@ -113,7 +113,7 @@ tags:
 
 
 
-[![](http://anyway.today/wp-content/uploads/2013/04/IMG_3795-300x200.jpg)](http://anyway.today/wp-content/uploads/2013/04/IMG_3795.jpg)
+[![](https://anyway.today/wp-content/uploads/2013/04/IMG_3795.jpg)](https://anyway.today/wp-content/uploads/2013/04/IMG_3795.jpg)
 
 
 
@@ -127,7 +127,7 @@ Source D'Argent - очень красивый пляж с необыкновен
 
 
 
-Приехали обратно в джетти. Не нашли кому можно вернуть велосипед, видимо их никто не считает. По примеру местных просто оставили в том месте где брали на прокат. Уставшие, но довольные отправились на [Праслин](http://yanoteg.blogspot.ru/search/label/%D0%9F%D1%80%D0%B0%D1%81%D0%BB%D0%B8%D0%BD).
+Приехали обратно в джетти. Не нашли кому можно вернуть велосипед, видимо их никто не считает. По примеру местных просто оставили в том месте где брали на прокат. Уставшие, но довольные отправились на [Праслин](https://yanoteg.blogspot.ru/search/label/%D0%9F%D1%80%D0%B0%D1%81%D0%BB%D0%B8%D0%BD).
 
 
 

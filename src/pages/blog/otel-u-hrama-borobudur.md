@@ -31,7 +31,7 @@ tags:
 
 
 
-[caption id="attachment_1206" align="aligncenter" width="720"][![Monahara resort территория](http://anyway.today/wp-content/uploads/2015/06/IMG_7804.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_7804.jpg) Monahara resort территория[/caption]
+[caption id="attachment_1206" align="aligncenter" width="720"][![Monahara resort территория](https://anyway.today/wp-content/uploads/2015/06/IMG_7804.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_7804.jpg) Monahara resort территория[/caption]
 
 
 Так же в пешей доступности находится вокзал с междугородними автобусами. Вы спокойно можете вернуться в Джокьярту или продолжить путь по своему маршруту. Если топать пешком лень, то моторикши обойдутся вам не дороже 10000 - 150000 индонезийских денег.
@@ -48,19 +48,19 @@ tags:
 Ночь проживания в отеле прямо скажем не дешевая. На момент нашего прибывания она составляла 4000 рублей. С актуальными ценами вы можете ознакомиться выше. Но, надо учесть, что вы получаете бесплатное неограниченное посещение Боробудура.
 
 
-[caption id="attachment_1207" align="aligncenter" width="720"][![Бесплатное посещение Боробудура от Monahara resort](http://anyway.today/wp-content/uploads/2015/06/image.jpg)](http://anyway.today/wp-content/uploads/2015/06/image.jpg) Бесплатное посещение Боробудура от Monahara resort[/caption]
+[caption id="attachment_1207" align="aligncenter" width="720"][![Бесплатное посещение Боробудура от Monahara resort](https://anyway.today/wp-content/uploads/2015/06/image.jpg)](https://anyway.today/wp-content/uploads/2015/06/image.jpg) Бесплатное посещение Боробудура от Monahara resort[/caption]
 
 
   Билет в Боробудур для туристов стоит 18 долларов. Так что с учетом билетов цена получается нормальной. К сожалению, в стоимость проживания не входит посещение рассвета. Билеты на встречу рассвета на Боробудуре придется покупать отдельно.
 
 
-[caption id="attachment_1208" align="aligncenter" width="720"][![Билеты на встречу рассвета на Боробудуре](http://anyway.today/wp-content/uploads/2015/06/image-1.jpg)](http://anyway.today/wp-content/uploads/2015/06/image-1.jpg) Билеты на встречу рассвета на Боробудуре[/caption]
+[caption id="attachment_1208" align="aligncenter" width="720"][![Билеты на встречу рассвета на Боробудуре](https://anyway.today/wp-content/uploads/2015/06/image-1.jpg)](https://anyway.today/wp-content/uploads/2015/06/image-1.jpg) Билеты на встречу рассвета на Боробудуре[/caption]
 
 
   С билетами вам подарят небольшие сувениры пояса с узорами.
 
 
-[caption id="attachment_1209" align="aligncenter" width="720"][![Сувениры прилагающиеся к билетам на рассвет на Боробудуре](http://anyway.today/wp-content/uploads/2015/06/image-2.jpg)](http://anyway.today/wp-content/uploads/2015/06/image-2.jpg) Сувениры прилагающиеся к билетам на рассвет на Боробудуре[/caption]
+[caption id="attachment_1209" align="aligncenter" width="720"][![Сувениры прилагающиеся к билетам на рассвет на Боробудуре](https://anyway.today/wp-content/uploads/2015/06/image-2.jpg)](https://anyway.today/wp-content/uploads/2015/06/image-2.jpg) Сувениры прилагающиеся к билетам на рассвет на Боробудуре[/caption]
 
 
   На самом деле с рассветом история следующая. Храм открывается для общего посещения с 6 утра, то есть можно подняться наверх абсолютно бесплатно. А на встречу рассвета начинают приблизительно с четырех утра. Если вам жалко платить лишние 18 долларов за рассвет, то вы практически ничего не потеряете поднявшись на храм в 6 утра. В 6 утра вид с Боробудура все так же прекрасен.   Бронировать номер в Monahare надо заранее, если вы просто приедете и попробуете поселиться в нем, скорее всего все номера будут заняты. Например, нам пришлось менять план своей поездки, что бы остановиться именно в этом отеле. Так как, в тот день в который мы расчитывали посетить Боробудур все места в отеле были уже заняты.  
@@ -74,23 +74,23 @@ tags:
 Номера в отеле Manohara Resort очень чистые и свежие. Есть ощущение свежего ремонта. В номере есть все что нужно и больше. Фен, чайник , телевизор, кондиционер, сейф даже сейчас всего и не припомню.
 
 
-[caption id="attachment_1199" align="aligncenter" width="720"][![Комната в Monahara resort](http://anyway.today/wp-content/uploads/2015/06/MG_7781.jpg)](http://anyway.today/wp-content/uploads/2015/06/MG_7781.jpg) Комната в Monahara resort[/caption]
+[caption id="attachment_1199" align="aligncenter" width="720"][![Комната в Monahara resort](https://anyway.today/wp-content/uploads/2015/06/MG_7781.jpg)](https://anyway.today/wp-content/uploads/2015/06/MG_7781.jpg) Комната в Monahara resort[/caption]
 
-[caption id="attachment_1200" align="aligncenter" width="720"][![Комната в Monahara resort](http://anyway.today/wp-content/uploads/2015/06/MG_7787.jpg)](http://anyway.today/wp-content/uploads/2015/06/MG_7787.jpg) Комната в Monahara resort[/caption]
+[caption id="attachment_1200" align="aligncenter" width="720"][![Комната в Monahara resort](https://anyway.today/wp-content/uploads/2015/06/MG_7787.jpg)](https://anyway.today/wp-content/uploads/2015/06/MG_7787.jpg) Комната в Monahara resort[/caption]
 
-[caption id="attachment_1201" align="aligncenter" width="694"][![Комната в Monahara resort](http://anyway.today/wp-content/uploads/2015/06/MG_7790.jpg)](http://anyway.today/wp-content/uploads/2015/06/MG_7790.jpg) Комната в Monahara resort[/caption]
+[caption id="attachment_1201" align="aligncenter" width="694"][![Комната в Monahara resort](https://anyway.today/wp-content/uploads/2015/06/MG_7790.jpg)](https://anyway.today/wp-content/uploads/2015/06/MG_7790.jpg) Комната в Monahara resort[/caption]
 
 
   Наличие горячей воды очень радует. Ванная комната тоже очень чистая. Постояльцы снабжены всеми необходимыми банными принадлежностями. В душевой вас будет ждать шампунь, гель для душа, бальзам для тела очень приятный и качественный набор.
 
 
-[caption id="attachment_1202" align="aligncenter" width="720"][![Душевая Monahara resort](http://anyway.today/wp-content/uploads/2015/06/MG_7796.jpg)](http://anyway.today/wp-content/uploads/2015/06/MG_7796.jpg) Душевая Monahara resort[/caption]
+[caption id="attachment_1202" align="aligncenter" width="720"][![Душевая Monahara resort](https://anyway.today/wp-content/uploads/2015/06/MG_7796.jpg)](https://anyway.today/wp-content/uploads/2015/06/MG_7796.jpg) Душевая Monahara resort[/caption]
 
 
   И еще очень приятный бонус. Каждый номер в Monahara resort снабжен отличнейшей террасой. На террасе есть стулья столик, вешалка для белья. Вид с террасы открывается отличный. Особо везучим может попасться номер с видом на Боробудур.   Еще в номере есть свечи и спички. Вот только не знаю чем это обусловлено, то ли это забота персонала о романтических вечерах постояльцев, то ли просто в отеле есть проблемы с энергоснабжением. Сдается мне, что скорее всего второе предположение самое верное.
 
 
-[caption id="attachment_1203" align="aligncenter" width="720"][![Monahara resort свечи](http://anyway.today/wp-content/uploads/2015/06/MG_7797.jpg)](http://anyway.today/wp-content/uploads/2015/06/MG_7797.jpg) Monahara resort свечи[/caption]
+[caption id="attachment_1203" align="aligncenter" width="720"][![Monahara resort свечи](https://anyway.today/wp-content/uploads/2015/06/MG_7797.jpg)](https://anyway.today/wp-content/uploads/2015/06/MG_7797.jpg) Monahara resort свечи[/caption]
 
 
 
@@ -109,7 +109,7 @@ tags:
 
 
 
-  Ответ однозначный, конечно посоветую. Более того, отговорю от любого отличного от Monahara resort варианта. Monahara resort это просто отличное сочетание расположения, цены и качества обслуживания. **[Еще больше отелей в Боробудуре](http://search.hotellook.com/?locationId=25021&checkIn=2015-06-27&checkOut=2015-06-28&adults=2&_ga=1.58959661.1063662009.1415294011&marker=14510)**
+  Ответ однозначный, конечно посоветую. Более того, отговорю от любого отличного от Monahara resort варианта. Monahara resort это просто отличное сочетание расположения, цены и качества обслуживания. **[Еще больше отелей в Боробудуре](https://search.hotellook.com/?locationId=25021&checkIn=2015-06-27&checkOut=2015-06-28&adults=2&_ga=1.58959661.1063662009.1415294011&marker=14510)**
 
 **Если вам нравится наш блог и вы находите его в чем либо полезным для себя — вы всегда можете поддержать его оформив подписку на его новости:**
 
@@ -122,13 +122,13 @@ tags:
       * **подписаться на [E-mail](https://feedburner.google.com/fb/a/mailverify?uri=Anywaytoday&amp;loc=en_US)**
 
 	
-      * **наша группа [ВКонтакте](http://vk.com/public90452188)**
+      * **наша группа [ВКонтакте](https://vk.com/public90452188)**
 
 	
       * **наш [Twitter](https://twitter.com/TodayAnyway)**
 
 	
-      * **мы в [Одноклассниках](http://ok.ru/group/54402107244544)**
+      * **мы в [Одноклассниках](https://ok.ru/group/54402107244544)**
 
 
 

@@ -73,17 +73,17 @@ tags:
 
 
 
-Меньше проблем у вас будет с арендой авто у крупных компаний прокатчиков. Если вы арендуете машину на время отпуска, то очевидным плюсом будет возможность забрать и вернуть авто в аэропорту. Это сразу же позволит вам сэкономить на такси или [трансфере](http://c1.travelpayouts.com/click?shmarker=14510&promo_id=151&source_type=link&type=click).
+Меньше проблем у вас будет с арендой авто у крупных компаний прокатчиков. Если вы арендуете машину на время отпуска, то очевидным плюсом будет возможность забрать и вернуть авто в аэропорту. Это сразу же позволит вам сэкономить на такси или [трансфере](https://c1.travelpayouts.com/click?shmarker=14510&promo_id=151&source_type=link&type=click).
 
 
 
 
-Цены, например на сайте [rentalcars.com](http://c13.travelpayouts.com/click?shmarker=14510&promo_id=456&source_type=link&type=click)  мало отличаются от цен у частников, даже насколько видно из выдачи, они немного ниже. Порядка 780 бат в сутки.
+Цены, например на сайте [rentalcars.com](https://c13.travelpayouts.com/click?shmarker=14510&promo_id=456&source_type=link&type=click)  мало отличаются от цен у частников, даже насколько видно из выдачи, они немного ниже. Порядка 780 бат в сутки.
 
 
 
 
-[caption id="attachment_2265" align="aligncenter" width="864"][![Аренда авто на Пхукете](https://anyway.today/wp-content/uploads/2016/09/TaiRentacar.png)](http://c13.travelpayouts.com/click?shmarker=14510&promo_id=456&source_type=link&type=click) Аренда авто на Пхукете[/caption]
+[caption id="attachment_2265" align="aligncenter" width="864"][![Аренда авто на Пхукете](https://anyway.today/wp-content/uploads/2016/09/TaiRentacar.png)](https://c13.travelpayouts.com/click?shmarker=14510&promo_id=456&source_type=link&type=click) Аренда авто на Пхукете[/caption]
 
 
 Аренда автомобиля в таком месте будет гораздо безопаснее. Вас не обманут со страховкой и дополнительный бонус получение и возврат авто в аэропорту, это очень удобно. Но вам и не снизят цену за длительную аренду. Размер депозита может быть ощутимее больше чем у частников. Арендовать у крупных фирм авто без кредитной карточки у вас не получится, если у вас наличные то вам необходимо обращаться только к частникам.

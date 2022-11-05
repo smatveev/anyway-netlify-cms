@@ -23,7 +23,7 @@ tags:
 <tbody >
 <tr >
 
-<td style="text-align: center;" >[![Отдых зимой в Египте](http://anyway.today/wp-content/uploads/2014/05/109_0995.jpg)](http://anyway.today/wp-content/uploads/2014/05/109_0995.jpg)
+<td style="text-align: center;" >[![Отдых зимой в Египте](https://anyway.today/wp-content/uploads/2014/05/109_0995.jpg)](https://anyway.today/wp-content/uploads/2014/05/109_0995.jpg)
 </td>
 </tr>
 <tr >
@@ -37,7 +37,7 @@ tags:
 <tbody >
 <tr >
 
-<td style="text-align: center;" >[![Отдых зимой в Египте, Дахаб](http://anyway.today/wp-content/uploads/2014/05/Egypt-Dahab-2013-2014_0933.jpg)](http://anyway.today/wp-content/uploads/2014/05/Egypt-Dahab-2013-2014_0933.jpg)
+<td style="text-align: center;" >[![Отдых зимой в Египте, Дахаб](https://anyway.today/wp-content/uploads/2014/05/Egypt-Dahab-2013-2014_0933.jpg)](https://anyway.today/wp-content/uploads/2014/05/Egypt-Dahab-2013-2014_0933.jpg)
 </td>
 </tr>
 <tr >
@@ -96,7 +96,7 @@ tags:
 <tbody >
 <tr >
 
-<td style="text-align: center;" >[![Отдых в Дахабе Зимой Египет ](http://anyway.today/wp-content/uploads/2014/05/Egypt-Dahab-2013-2014_0366.jpg)](http://anyway.today/wp-content/uploads/2014/05/Egypt-Dahab-2013-2014_0366.jpg)
+<td style="text-align: center;" >[![Отдых в Дахабе Зимой Египет ](https://anyway.today/wp-content/uploads/2014/05/Egypt-Dahab-2013-2014_0366.jpg)](https://anyway.today/wp-content/uploads/2014/05/Egypt-Dahab-2013-2014_0366.jpg)
 </td>
 </tr>
 <tr >
@@ -126,7 +126,7 @@ tags:
 <tbody >
 <tr >
 
-<td style="text-align: center;" >[![Дахаб, Отдых в Египте на Новый год](http://anyway.today/wp-content/uploads/2014/05/Egypt-Dahab-2013-2014_0204.jpg)](http://anyway.today/wp-content/uploads/2014/05/Egypt-Dahab-2013-2014_0204.jpg)
+<td style="text-align: center;" >[![Дахаб, Отдых в Египте на Новый год](https://anyway.today/wp-content/uploads/2014/05/Egypt-Dahab-2013-2014_0204.jpg)](https://anyway.today/wp-content/uploads/2014/05/Egypt-Dahab-2013-2014_0204.jpg)
 </td>
 </tr>
 <tr >
@@ -169,7 +169,7 @@ tags:
 
 
 
-[caption id="" align="aligncenter" width="640"][![Активный отдых в Египте](http://anyway.today/wp-content/uploads/2014/05/Egypt-Dahab-2013-2014_1083.jpg)](http://anyway.today/wp-content/uploads/2014/05/Egypt-Dahab-2013-2014_1083.jpg) Активный отдых в Египте[/caption]
+[caption id="" align="aligncenter" width="640"][![Активный отдых в Египте](https://anyway.today/wp-content/uploads/2014/05/Egypt-Dahab-2013-2014_1083.jpg)](https://anyway.today/wp-content/uploads/2014/05/Egypt-Dahab-2013-2014_1083.jpg) Активный отдых в Египте[/caption]
 
 
 

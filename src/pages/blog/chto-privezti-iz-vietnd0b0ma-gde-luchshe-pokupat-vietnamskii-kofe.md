@@ -120,13 +120,13 @@ tags:
 
 
 	
-  * [Как добраться из Хошимина в Далат](http://c1.travelpayouts.com/click?shmarker=14510&promo_id=150&source_type=link&type=click)
+  * [Как добраться из Хошимина в Далат](https://c1.travelpayouts.com/click?shmarker=14510&promo_id=150&source_type=link&type=click)
 
 	
-  * [Как добраться из Муй Не в Далат](http://c1.travelpayouts.com/click?shmarker=14510&promo_id=150&source_type=link&type=click)
+  * [Как добраться из Муй Не в Далат](https://c1.travelpayouts.com/click?shmarker=14510&promo_id=150&source_type=link&type=click)
 
 	
-  * [Как добраться из Нячанга в Далат](http://c1.travelpayouts.com/click?shmarker=14510&promo_id=150&source_type=link&type=click)
+  * [Как добраться из Нячанга в Далат](https://c1.travelpayouts.com/click?shmarker=14510&promo_id=150&source_type=link&type=click)
 
 
 

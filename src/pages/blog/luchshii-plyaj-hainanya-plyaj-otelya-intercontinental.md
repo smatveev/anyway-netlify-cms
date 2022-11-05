@@ -15,7 +15,7 @@ tags:
 - Хайнань
 ---
 
-Пляж отеля InterContinental Sanya Resort 5*  или бухта Сяодунхай, это весьма занятное место. У путешественников на Хайнане всегда пользуются популярностью две бухты, это широко известные  [бухта Дадунхай](http://anyway.today/buhta-dadunhai-hainan/) и [бухта Ялуньвань](http://anyway.today/buhta-yalunvan/). Места эти раскрученные и много про них, в том числе и в этом блоге, написано. Пляж отеля InterContinental пользуется гораздо меньшей популярностью, и я скажу что это несправедливо.
+Пляж отеля InterContinental Sanya Resort 5*  или бухта Сяодунхай, это весьма занятное место. У путешественников на Хайнане всегда пользуются популярностью две бухты, это широко известные  [бухта Дадунхай](https://anyway.today/buhta-dadunhai-hainan/) и [бухта Ялуньвань](https://anyway.today/buhta-yalunvan/). Места эти раскрученные и много про них, в том числе и в этом блоге, написано. Пляж отеля InterContinental пользуется гораздо меньшей популярностью, и я скажу что это несправедливо.
 
 
 
@@ -46,13 +46,13 @@ tags:
 
 
 
-[caption id="attachment_1517" align="aligncenter" width="1024"][![Лучший пляж на острове Хайнань](http://anyway.today/wp-content/uploads/2016/02/MG_0541.jpg)](http://anyway.today/wp-content/uploads/2016/02/MG_0541.jpg) Вид со смотровой площадки[/caption]
+[caption id="attachment_1517" align="aligncenter" width="1024"][![Лучший пляж на острове Хайнань](https://anyway.today/wp-content/uploads/2016/02/MG_0541.jpg)](https://anyway.today/wp-content/uploads/2016/02/MG_0541.jpg) Вид со смотровой площадки[/caption]
 
-[caption id="attachment_1525" align="aligncenter" width="1024"][![Лучший пляж на острове Хайнань](http://anyway.today/wp-content/uploads/2016/02/IMG_0519.jpg)](http://anyway.today/wp-content/uploads/2016/02/IMG_0519.jpg) Отели, отели ...[/caption]
+[caption id="attachment_1525" align="aligncenter" width="1024"][![Лучший пляж на острове Хайнань](https://anyway.today/wp-content/uploads/2016/02/IMG_0519.jpg)](https://anyway.today/wp-content/uploads/2016/02/IMG_0519.jpg) Отели, отели ...[/caption]
 
-[caption id="attachment_1519" align="aligncenter" width="1024"][![Лучший пляж на острове Хайнань](http://anyway.today/wp-content/uploads/2016/02/IMG_0504.jpg)](http://anyway.today/wp-content/uploads/2016/02/IMG_0504.jpg) По дороге к Сяодунхай[/caption]
+[caption id="attachment_1519" align="aligncenter" width="1024"][![Лучший пляж на острове Хайнань](https://anyway.today/wp-content/uploads/2016/02/IMG_0504.jpg)](https://anyway.today/wp-content/uploads/2016/02/IMG_0504.jpg) По дороге к Сяодунхай[/caption]
 
-[caption id="attachment_1524" align="aligncenter" width="1024"][![Лучший пляж на острове Хайнань](http://anyway.today/wp-content/uploads/2016/02/IMG_0534.jpg)](http://anyway.today/wp-content/uploads/2016/02/IMG_0534.jpg) Интерконтиненталь[/caption]
+[caption id="attachment_1524" align="aligncenter" width="1024"][![Лучший пляж на острове Хайнань](https://anyway.today/wp-content/uploads/2016/02/IMG_0534.jpg)](https://anyway.today/wp-content/uploads/2016/02/IMG_0534.jpg) Интерконтиненталь[/caption]
 
 
 Отдыхали мы Хайнане на новый, этот праздник тут не пользуется популярностью. Единственную новогоднюю елку мы тоже встретили по дороге к пляжу отеля Интерконтиненталь.
@@ -60,7 +60,7 @@ tags:
 
 
 
-[caption id="attachment_1520" align="aligncenter" width="1024"][![Лучший пляж на острове Хайнань](http://anyway.today/wp-content/uploads/2016/02/IMG_0503.jpg)](http://anyway.today/wp-content/uploads/2016/02/IMG_0503.jpg) Единственная елка встреченная нами на Хайнане[/caption]
+[caption id="attachment_1520" align="aligncenter" width="1024"][![Лучший пляж на острове Хайнань](https://anyway.today/wp-content/uploads/2016/02/IMG_0503.jpg)](https://anyway.today/wp-content/uploads/2016/02/IMG_0503.jpg) Единственная елка встреченная нами на Хайнане[/caption]
 
 
 ## Пляж отеля InterContinental Sanya Resort, Сяодунхай
@@ -73,17 +73,17 @@ tags:
 
 
 
-[![Лучший пляж на острове Хайнань](http://anyway.today/wp-content/uploads/2016/02/IMG_0515.jpg)](http://anyway.today/wp-content/uploads/2016/02/IMG_0515.jpg)
+[![Лучший пляж на острове Хайнань](https://anyway.today/wp-content/uploads/2016/02/IMG_0515.jpg)](https://anyway.today/wp-content/uploads/2016/02/IMG_0515.jpg)
 
 
 
 
-По сравнению с пляжами [Дадунхай ](http://anyway.today/buhta-dadunhai-hainan/)и [Ялуньвань](http://anyway.today/buhta-yalunvan/), Сяодунхай можно назвать даже немноголюдным. На берегу и в воде людей действительно очень мало. Дело в том что в отеле InterContinental останавливаются в основном обеспеченные китайцы, а у них в цене белоснежная кожа. Вот они и сидят вдалеке от моря в тени пальм, берегут свои светлые лица от загара. Выходят на берег они уже ближе к вечеру.
+По сравнению с пляжами [Дадунхай ](https://anyway.today/buhta-dadunhai-hainan/)и [Ялуньвань](https://anyway.today/buhta-yalunvan/), Сяодунхай можно назвать даже немноголюдным. На берегу и в воде людей действительно очень мало. Дело в том что в отеле InterContinental останавливаются в основном обеспеченные китайцы, а у них в цене белоснежная кожа. Вот они и сидят вдалеке от моря в тени пальм, берегут свои светлые лица от загара. Выходят на берег они уже ближе к вечеру.
 
 
 
 
-[caption id="attachment_1522" align="aligncenter" width="1024"][![Лучший пляж на острове Хайнань](http://anyway.today/wp-content/uploads/2016/02/IMG_0523.jpg)](http://anyway.today/wp-content/uploads/2016/02/IMG_0523.jpg) Местные не купаются[/caption]
+[caption id="attachment_1522" align="aligncenter" width="1024"][![Лучший пляж на острове Хайнань](https://anyway.today/wp-content/uploads/2016/02/IMG_0523.jpg)](https://anyway.today/wp-content/uploads/2016/02/IMG_0523.jpg) Местные не купаются[/caption]
 
 
 Даже если они на берегу, то море интересует их в меньшей степени, чем подвижные игры.
@@ -91,10 +91,10 @@ tags:
 
 
 
-[caption id="attachment_1523" align="aligncenter" width="1024"][![Лучший пляж на острове Хайнань](http://anyway.today/wp-content/uploads/2016/02/IMG_0524.jpg)](http://anyway.today/wp-content/uploads/2016/02/IMG_0524.jpg) Пляжный футбол[/caption]
+[caption id="attachment_1523" align="aligncenter" width="1024"][![Лучший пляж на острове Хайнань](https://anyway.today/wp-content/uploads/2016/02/IMG_0524.jpg)](https://anyway.today/wp-content/uploads/2016/02/IMG_0524.jpg) Пляжный футбол[/caption]
 
 
-Что дает нам отличную возможность насладиться чистым и красивым морем. Вход на пляж совершенно свободный на пляже вас ничем не ограничивают.  Один небольшой минус, на этом пляже заметно прохладнее и более ветрено нежели на пляже [Дадунхай](http://anyway.today/buhta-dadunhai-hainan/), с который он находится по соседству.
+Что дает нам отличную возможность насладиться чистым и красивым морем. Вход на пляж совершенно свободный на пляже вас ничем не ограничивают.  Один небольшой минус, на этом пляже заметно прохладнее и более ветрено нежели на пляже [Дадунхай](https://anyway.today/buhta-dadunhai-hainan/), с который он находится по соседству.
 
 
 
@@ -110,7 +110,7 @@ tags:
 
 
 
-[caption id="attachment_1526" align="aligncenter" width="1024"][![Лучшие пляжи хайнаня](http://anyway.today/wp-content/uploads/2016/02/IMG_0506.jpg)](http://anyway.today/wp-content/uploads/2016/02/IMG_0506.jpg) Ресторан Пекин[/caption]
+[caption id="attachment_1526" align="aligncenter" width="1024"][![Лучшие пляжи хайнаня](https://anyway.today/wp-content/uploads/2016/02/IMG_0506.jpg)](https://anyway.today/wp-content/uploads/2016/02/IMG_0506.jpg) Ресторан Пекин[/caption]
 
 
 По близости никаких магазинчиков с водой, едой и пивом практически нет. Так что если в планах проваляться на пляже полный день, то все съестные припасы лучше взять с собой. Купить покушать на Сяодунхай вряд ли получится, или получится но по соответствующим высоким ценам.

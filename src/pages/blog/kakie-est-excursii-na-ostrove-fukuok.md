@@ -30,7 +30,7 @@ tags:
 ## Посещение южной части острова
 
 
-[caption id="attachment_757" align="aligncenter" width="720"][![Достопримечательности на Фукуоке](http://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0762.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0762.jpg) Пляж Бай Сао[/caption]
+[caption id="attachment_757" align="aligncenter" width="720"][![Достопримечательности на Фукуоке](https://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0762.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0762.jpg) Пляж Бай Сао[/caption]
 
 
 В программу входит посещение пляжа Бай Сао. Пути к пляжу вам покажут жемчужные фермы, винодельческие предприятия на которых вам дадут продегустировать красные вина. В  программу также входит посещение Кокосовой тюрьмы.
@@ -38,7 +38,7 @@ tags:
 
 
 
-[caption id="attachment_758" align="aligncenter" width="720"][![достопримечательности Фукуока](http://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0798.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0798.jpg) Кокосовая тюрьма[/caption]
+[caption id="attachment_758" align="aligncenter" width="720"][![достопримечательности Фукуока](https://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0798.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0798.jpg) Кокосовая тюрьма[/caption]
 
 
 Время пребывания на пляже порядка нескольких часов. На пляже есть лежаки с зонтиками, отличные кафе (правда ценник в этих кафе завышен). Пляж Бай Сао считается одним из самых красивых на острове Фукуок.  На обратном пути обычно посещают водопад Чань, плантации черного перца, а так же пагоды.  Начало экскурсии приблизительно в 9:30 утра, окончание в 16:30.  Стоимость экскурсии по южной части острова Фукуок $50 на человека индивидуальный тур.  Групповой тур - $25 на одного человека.
@@ -55,7 +55,7 @@ tags:
 ## Путешествие на север острова Фукуок
 
 
-[caption id="attachment_800" align="aligncenter" width="720"][![Перечные плантации на острове Фукуок](http://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_1000.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_1000.jpg) Перечные плантации на острове Фукуок[/caption]
+[caption id="attachment_800" align="aligncenter" width="720"][![Перечные плантации на острове Фукуок](https://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_1000.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_1000.jpg) Перечные плантации на острове Фукуок[/caption]
 
 
 В программу этой экскурсии входит посещение перечных плантаций, посещение государственного заповедника. Посещение Крокодиловой фермы, на которой можно приобрести продукцию из крокодиловой кожи. После идет посещение пляжа и купание, осмотр границы между Вьетнамом и Камбоджей.
@@ -63,7 +63,7 @@ tags:
 
 
 
-[caption id="attachment_768" align="aligncenter" width="720"][![достопримечательности Фукуока](http://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_0968.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_0968.jpg) Вид на границу с Камбоджей[/caption]
+[caption id="attachment_768" align="aligncenter" width="720"][![достопримечательности Фукуока](https://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_0968.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_0968.jpg) Вид на границу с Камбоджей[/caption]
 
 
 Начало и окончание экскурсии как и для вышеописанной экскурсии по югу. С 9:30 до 16:00. Стоимость индивидуального тура $50, а стоимость группового $25.
@@ -80,7 +80,7 @@ tags:
 ## Ночная ловля кальмаров
 
 
-[caption id="attachment_879" align="aligncenter" width="720"][![Ловля кальмаров на Фукуоке](http://anyway.today/wp-content/uploads/2015/04/squid.jpg)](http://anyway.today/wp-content/uploads/2015/04/squid.jpg) Ловля кальмаров[/caption]
+[caption id="attachment_879" align="aligncenter" width="720"][![Ловля кальмаров на Фукуоке](https://anyway.today/wp-content/uploads/2015/04/squid.jpg)](https://anyway.today/wp-content/uploads/2015/04/squid.jpg) Ловля кальмаров[/caption]
 
 
 Экскурсия начинается в 16:30. На небольшом кораблике вы выходите в море как раз во время заката. Закаты на острове Фукуок очень красивые. Опытные рыбаки помогают ловить кальмаров на закате. Все рыболовные снасти и приманка предоставляется рыбаками. Свежие только выловленные кальмары будут тут же приготовлены на гриле. Так что помимо рыбалки вы получите вкусный ужин на лодке.  Заканчивается экскурсия в 21:30. Стоимость группового тура $17.
@@ -97,7 +97,7 @@ tags:
 ##  Сноркелинг на островах Hon Goi и Hon Thom
 
 
-[caption id="attachment_880" align="aligncenter" width="720"][![Экскурсии на Фукуоке](http://anyway.today/wp-content/uploads/2015/04/15132078901_7b1be7b0ce_o.jpg)](http://anyway.today/wp-content/uploads/2015/04/15132078901_7b1be7b0ce_o.jpg) Сноркеллинг на Фукуоке[/caption]
+[caption id="attachment_880" align="aligncenter" width="720"][![Экскурсии на Фукуоке](https://anyway.today/wp-content/uploads/2015/04/15132078901_7b1be7b0ce_o.jpg)](https://anyway.today/wp-content/uploads/2015/04/15132078901_7b1be7b0ce_o.jpg) Сноркеллинг на Фукуоке[/caption]
 
 
 Кораблик отправляется рано утром из порта Антхой. Путь пролегает через архипелаг Антхой, через 12 остров. Остановка около островов Hon Goi и Hon Thom. Тут по желание можно посноркать или порыбачить. В стоимость экскурсии входит обед из морепродуктов. После обеда, еще свободное время для сноркеленга и купания. В завершение посещение жемчужной фермы.  Стоимость группового тура $17.
@@ -111,13 +111,13 @@ tags:
   * подписаться на [E-mail](https://feedburner.google.com/fb/a/mailverify?uri=Anywaytoday&amp;loc=en_US)
 
 	
-  * наша группа [ВКонтакте](http://vk.com/public90452188)
+  * наша группа [ВКонтакте](https://vk.com/public90452188)
 
 	
   * наш [Twitter](https://twitter.com/TodayAnyway)
 
 	
-  * мы в [Одноклассниках](http://ok.ru/group/54402107244544)
+  * мы в [Одноклассниках](https://ok.ru/group/54402107244544)
 
 
 Дешевые перелеты Хошимин - Фукуок

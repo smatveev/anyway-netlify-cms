@@ -26,7 +26,7 @@ tags:
 
 
 
-[caption id="" align="aligncenter" width="400"][![Villa Bananier, Сейшелы, Праслин](http://anyway.today/wp-content/uploads/2013/01/MG_0310-300x200.jpg)](http://anyway.today/wp-content/uploads/2013/01/MG_0310.jpg) Villa Bananier, Сейшелы, Праслин[/caption]
+[caption id="" align="aligncenter" width="400"][![Villa Bananier, Сейшелы, Праслин](https://anyway.today/wp-content/uploads/2013/01/MG_0310.jpg)](https://anyway.today/wp-content/uploads/2013/01/MG_0310.jpg) Villa Bananier, Сейшелы, Праслин[/caption]
 
 
 
@@ -38,7 +38,7 @@ tags:
 
 
 
-[caption id="" align="aligncenter" width="400"][![Villa Bananier, Сейшелы, Праслин](http://anyway.today/wp-content/uploads/2013/01/IMG_0343-300x200.jpg)](http://anyway.today/wp-content/uploads/2013/01/IMG_0343.jpg) Villa Bananier, Сейшелы, Праслин[/caption]
+[caption id="" align="aligncenter" width="400"][![Villa Bananier, Сейшелы, Праслин](https://anyway.today/wp-content/uploads/2013/01/IMG_0343.jpg)](https://anyway.today/wp-content/uploads/2013/01/IMG_0343.jpg) Villa Bananier, Сейшелы, Праслин[/caption]
 
 
 

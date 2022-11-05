@@ -49,7 +49,7 @@ categories:
 
 
 
-Билеты по направлению [tp_link origin=MOW destination=BKK text_link="Москва - Бангкок" origin_date=1 destination_date=12 one_way=false type=1 subid="gidTai"], дешевле чем билеты Москва - Пхукет. Из [tp_link origin=BKK destination=HKT text_link="Банкгока на Пхукет" origin_date=1 destination_date=12 one_way=false type=1 subid="gidTai"] можно попасть на самолете, внутренние перелеты в Таиланде недорогие, если покупать билеты заранее. Так же , можно [добраться до Пхукета на автобусе](http://c44.travelpayouts.com/click?shmarker=14510&promo_id=1256&source_type=link&type=click). Что не сильно отличается по цене, но занимает гораздо больше времени.
+Билеты по направлению [tp_link origin=MOW destination=BKK text_link="Москва - Бангкок" origin_date=1 destination_date=12 one_way=false type=1 subid="gidTai"], дешевле чем билеты Москва - Пхукет. Из [tp_link origin=BKK destination=HKT text_link="Банкгока на Пхукет" origin_date=1 destination_date=12 one_way=false type=1 subid="gidTai"] можно попасть на самолете, внутренние перелеты в Таиланде недорогие, если покупать билеты заранее. Так же , можно [добраться до Пхукета на автобусе](https://c44.travelpayouts.com/click?shmarker=14510&promo_id=1256&source_type=link&type=click). Что не сильно отличается по цене, но занимает гораздо больше времени.
 
 
 
@@ -144,7 +144,7 @@ categories:
 
 
 
-О том как выбрать хорошую и дешевую туристическую страховку в Таиланд вы можете прочитать в статье "[Зачем нужна туристическая медицинская страховка и как ее выбрать](https://anyway.today/zachem-nujna-turisticheskaya-medizinskay-strahovka/)?". Мы покупаем страховку для своих путешествий на сайте [Cherehapa.ru](http://c24.travelpayouts.com/click?shmarker=14510&promo_id=520&source_type=link&type=click), поскольку он позволяет сравнивать цены у разных поставщиков услуг страхования.
+О том как выбрать хорошую и дешевую туристическую страховку в Таиланд вы можете прочитать в статье "[Зачем нужна туристическая медицинская страховка и как ее выбрать](https://anyway.today/zachem-nujna-turisticheskaya-medizinskay-strahovka/)?". Мы покупаем страховку для своих путешествий на сайте [Cherehapa.ru](https://c24.travelpayouts.com/click?shmarker=14510&promo_id=520&source_type=link&type=click), поскольку он позволяет сравнивать цены у разных поставщиков услуг страхования.
 
 
 
@@ -214,7 +214,7 @@ categories:
 
 
 
-Такси на Пхукете весьма недешевое. Например поездка по маршруту Аэропорт - Раваи обойдется вам в 1000 бат. Ездить между пляжами на такси будет очень невыгодно. Имеет смысл воспользоваться такси или [трансфером](http://c1.travelpayouts.com/click?shmarker=14510&promo_id=151&source_type=link&type=click) по дороге из аэропорта или в аэропорт и не более.
+Такси на Пхукете весьма недешевое. Например поездка по маршруту Аэропорт - Раваи обойдется вам в 1000 бат. Ездить между пляжами на такси будет очень невыгодно. Имеет смысл воспользоваться такси или [трансфером](https://c1.travelpayouts.com/click?shmarker=14510&promo_id=151&source_type=link&type=click) по дороге из аэропорта или в аэропорт и не более.
 
 
 

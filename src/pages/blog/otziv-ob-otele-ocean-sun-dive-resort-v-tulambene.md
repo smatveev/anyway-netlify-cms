@@ -46,7 +46,7 @@ tags:
 
 Территория отеля Ocean Sun Dive Resort совсем небольшая, но очень красивая и зеленая. Особенно понравилось газон. Не знаю что это за была трава, но ноги утопают в ней как в мягком ковре.
 
-[caption id="attachment_1247" align="aligncenter" width="720"][![Территория в Ocean Sun Dive Resort](http://anyway.today/wp-content/uploads/2015/06/IMG_9048.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_9048.jpg) Территория в Ocean Sun Dive Resort[/caption]
+[caption id="attachment_1247" align="aligncenter" width="720"][![Территория в Ocean Sun Dive Resort](https://anyway.today/wp-content/uploads/2015/06/IMG_9048.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_9048.jpg) Территория в Ocean Sun Dive Resort[/caption]
 
 По всей территории расположены интересные кресла для отдыха. Есть не сильно большой, но отличный чистый бассейн. С территории отеля открывается отличный вид на вулкан Агунг.
 
@@ -62,21 +62,21 @@ tags:
 
 Номер в отеле Ocean Sun Dive Resort не просто большой, он огромный.
 
-[caption id="attachment_1248" align="aligncenter" width="720"][![Номер в Ocean Sun Dive Resort](http://anyway.today/wp-content/uploads/2015/06/IMG_9034.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_9034.jpg) Номер в Ocean Sun Dive Resort[/caption]
+[caption id="attachment_1248" align="aligncenter" width="720"][![Номер в Ocean Sun Dive Resort](https://anyway.today/wp-content/uploads/2015/06/IMG_9034.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_9034.jpg) Номер в Ocean Sun Dive Resort[/caption]
 
-[caption id="attachment_1249" align="aligncenter" width="720"][![Номер в Ocean Sun Dive Resort](http://anyway.today/wp-content/uploads/2015/06/IMG_90341.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_90341.jpg) Номер в Ocean Sun Dive Resort[/caption]
+[caption id="attachment_1249" align="aligncenter" width="720"][![Номер в Ocean Sun Dive Resort](https://anyway.today/wp-content/uploads/2015/06/IMG_90341.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_90341.jpg) Номер в Ocean Sun Dive Resort[/caption]
 
-[caption id="attachment_1251" align="aligncenter" width="720"][![Номер в Ocean Sun Dive Resort](http://anyway.today/wp-content/uploads/2015/06/IMG_9036.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_9036.jpg) Номер в Ocean Sun Dive Resort[/caption]
+[caption id="attachment_1251" align="aligncenter" width="720"][![Номер в Ocean Sun Dive Resort](https://anyway.today/wp-content/uploads/2015/06/IMG_9036.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_9036.jpg) Номер в Ocean Sun Dive Resort[/caption]
 
 В номере высоченные потолки. И очень красивая и большая душевая. Это что то вроде душа на улице. Очень интересное решение.
 
-[caption id="attachment_1250" align="aligncenter" width="720"][![Душевая в Ocean Sun Dive Resort](http://anyway.today/wp-content/uploads/2015/06/IMG_9039.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_9039.jpg) Душевая в Ocean Sun Dive Resort[/caption]
+[caption id="attachment_1250" align="aligncenter" width="720"][![Душевая в Ocean Sun Dive Resort](https://anyway.today/wp-content/uploads/2015/06/IMG_9039.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_9039.jpg) Душевая в Ocean Sun Dive Resort[/caption]
 
-[caption id="attachment_1252" align="aligncenter" width="720"][![Душевая в Ocean Sun Dive Resort](http://anyway.today/wp-content/uploads/2015/06/IMG_9042.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_9042.jpg) Душевая в Ocean Sun Dive Resort[/caption]
+[caption id="attachment_1252" align="aligncenter" width="720"][![Душевая в Ocean Sun Dive Resort](https://anyway.today/wp-content/uploads/2015/06/IMG_9042.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_9042.jpg) Душевая в Ocean Sun Dive Resort[/caption]
 
 Так же у номера есть терраса со столом и креслами. В номере хороший кондиционер, на потолке вентилятор, есть сейф.
 
-[caption id="attachment_1253" align="aligncenter" width="720"][![Номер в Ocean Sun Dive Resort](http://anyway.today/wp-content/uploads/2015/06/IMG_9037.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_9037.jpg) Номер в Ocean Sun Dive Resort[/caption]
+[caption id="attachment_1253" align="aligncenter" width="720"][![Номер в Ocean Sun Dive Resort](https://anyway.today/wp-content/uploads/2015/06/IMG_9037.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_9037.jpg) Номер в Ocean Sun Dive Resort[/caption]
 
 
 
@@ -104,13 +104,13 @@ tags:
   1. **подписаться на** [**E-mail**](https://feedburner.google.com/fb/a/mailverify?uri=Anywaytoday&amp;loc=en_US)
 
  	
-  2. **наша группа** [**ВКонтакте**](http://vk.com/public90452188)
+  2. **наша группа** [**ВКонтакте**](https://vk.com/public90452188)
 
  	
   3. **наш [Twitter](https://twitter.com/TodayAnyway)**
 
  	
-  4. **мы в [Одноклассниках](http://ok.ru/group/54402107244544)**
+  4. **мы в [Одноклассниках](https://ok.ru/group/54402107244544)**
 
 
 **Купить авиабилеты Москва - Денпасар по выгодным ценам**

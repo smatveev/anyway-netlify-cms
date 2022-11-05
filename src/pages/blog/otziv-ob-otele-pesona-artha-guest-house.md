@@ -48,21 +48,21 @@ tags:
 ## Номер в Pesona Artha Guest House
 
 
-[caption id="attachment_1175" align="aligncenter" width="720"][![Где остановиться на одну ночь в Джокьярте?](http://anyway.today/wp-content/uploads/2015/06/IMG_7767.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_7767.jpg) Есть телевизор )[/caption]
+[caption id="attachment_1175" align="aligncenter" width="720"][![Где остановиться на одну ночь в Джокьярте?](https://anyway.today/wp-content/uploads/2015/06/IMG_7767.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_7767.jpg) Есть телевизор )[/caption]
 
 
 Как же выглядит номер в Pesona Artha Guest House? В номере есть необходимый минимум. Предоставлены полотенца, мыло, зубные щетки и паста. Есть кондиционер, но холодит он весьма слабо. Для кого важен горячий душ, сразу предупреждаю, горячей воды нет. Вода слегка теплая, периодически холодная. Но если учитывать температуру на улице, то вполне сносная.
 
 
-[caption id="attachment_1176" align="aligncenter" width="720"][![Где остановиться на одну ночь в Джокьярте?](http://anyway.today/wp-content/uploads/2015/06/IMG_7769.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_7769.jpg) Душевая[/caption]
+[caption id="attachment_1176" align="aligncenter" width="720"][![Где остановиться на одну ночь в Джокьярте?](https://anyway.today/wp-content/uploads/2015/06/IMG_7769.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_7769.jpg) Душевая[/caption]
 
-[caption id="attachment_1177" align="aligncenter" width="720"][![Где остановиться на одну ночь в Джокьярте?](http://anyway.today/wp-content/uploads/2015/06/IMG_7768.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_7768.jpg) Душевая[/caption]
+[caption id="attachment_1177" align="aligncenter" width="720"][![Где остановиться на одну ночь в Джокьярте?](https://anyway.today/wp-content/uploads/2015/06/IMG_7768.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_7768.jpg) Душевая[/caption]
 
 
 Особой чистотой номер не отличается. Очевидно свежие были простынь и наволочки на подушках. А вот для того что бы укрыться пледом не было ни пододеяльника ни дополнительной простыни. В номере уже весьма старый ремонт. Убрано только то что на видимой поверхности. То есть, пыли полным полно. Еще важное замечание для чутко спящих,  очень сильно слышно взлетающие и заходящие на посадку самолеты. Плюс рядом весьма шумная дорога. Мы к моменту нашей остановки в гесте были изрядно вымотаны и нам было все равно где лечь спать, но в другом состоянии это могло стать проблемой. 
 
 
-[caption id="attachment_1178" align="aligncenter" width="720"][![Где остановиться на одну ночь в Джокьярте?](http://anyway.today/wp-content/uploads/2015/06/IMG_7773.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_7773.jpg) Бассейн с рыбками у порога[/caption]
+[caption id="attachment_1178" align="aligncenter" width="720"][![Где остановиться на одну ночь в Джокьярте?](https://anyway.today/wp-content/uploads/2015/06/IMG_7773.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_7773.jpg) Бассейн с рыбками у порога[/caption]
 
 
 ## Уборка номеров в Pesona Artha Guest House
@@ -90,7 +90,7 @@ tags:
 
 
 	
-    * **наша группа** [**ВКонтакте**](http://vk.com/public90452188)
+    * **наша группа** [**ВКонтакте**](https://vk.com/public90452188)
 
 
 	
@@ -98,7 +98,7 @@ tags:
 
 
 	
-    * **мы в [Одноклассниках](http://ok.ru/group/54402107244544)**
+    * **мы в [Одноклассниках](https://ok.ru/group/54402107244544)**
 
 
 

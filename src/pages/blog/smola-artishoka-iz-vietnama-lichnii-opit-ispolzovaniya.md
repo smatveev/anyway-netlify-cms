@@ -101,7 +101,7 @@ tags:
 
 
 
-[caption id="attachment_743" align="aligncenter" width="720"][![Смола артишока из Вьетнама](http://anyway.today/wp-content/uploads/2015/03/IMG_7220.jpg)](http://anyway.today/wp-content/uploads/2015/03/IMG_7220.jpg) Смола артишока[/caption]
+[caption id="attachment_743" align="aligncenter" width="720"][![Смола артишока из Вьетнама](https://anyway.today/wp-content/uploads/2015/03/IMG_7220.jpg)](https://anyway.today/wp-content/uploads/2015/03/IMG_7220.jpg) Смола артишока[/caption]
 
 
 Внутри каждой упаковки  пакетик со смолой.
@@ -109,7 +109,7 @@ tags:
 
 
 
-[caption id="attachment_745" align="aligncenter" width="720"][![Смола артишока](http://anyway.today/wp-content/uploads/2015/03/IMG_7223.jpg)](http://anyway.today/wp-content/uploads/2015/03/IMG_7223.jpg) Смола артишока[/caption]
+[caption id="attachment_745" align="aligncenter" width="720"][![Смола артишока](https://anyway.today/wp-content/uploads/2015/03/IMG_7223.jpg)](https://anyway.today/wp-content/uploads/2015/03/IMG_7223.jpg) Смола артишока[/caption]
 
 
 На основной упаковке очень краткая инструкция по приему. Доза 10-20 грамм принимаем 3 раза в сутки. И все. Не больше ни меньше. Не производя сложные математические расчеты я прикинула что нам на двоих  одна маленькая стограммовая упаковка на сутки. 100 грамм артишока это довольно большой объем. Взяли по чайной ложке смолы и принялись ее жевать.
@@ -117,7 +117,7 @@ tags:
 
 
 
-[caption id="attachment_746" align="aligncenter" width="720"][![Смола артишока](http://anyway.today/wp-content/uploads/2015/03/IMG_7225.jpg)](http://anyway.today/wp-content/uploads/2015/03/IMG_7225.jpg) Смола артишока[/caption]
+[caption id="attachment_746" align="aligncenter" width="720"][![Смола артишока](https://anyway.today/wp-content/uploads/2015/03/IMG_7225.jpg)](https://anyway.today/wp-content/uploads/2015/03/IMG_7225.jpg) Смола артишока[/caption]
 
 
 На вкус это гадость очень редкостная, прилипает к зубам и лично у меня вызывало рвотные порывы. Следующий такой прием навел на мысль, что что-то идет совсем не так. Нельзя так мучить людей.  И я обратила внимание на маленькую упаковку, на ней желтым по красному была другая инструкция на английском. Видимо англоговорящие пользователи не так суровы как русские, для них инструкция по применению смолы артишока была более человечная. Предлагалось развести четверть чайной ложки смолы артишока в 200 граммах, то бишь стакане, кипяченной воды. И так же выпивать это два три раза в день. После того как мы начали пить смолу артишока разведенную в воде наступило счастье. Питье так же малоприятное, но зато его можно выпить быстро.
@@ -146,7 +146,7 @@ tags:
 
 
 
-Смолу артишока мы честно допили и как было обещано написали отзыв о применении этой смолы. [Итак имеет ли артишок заявленную чудодейственную силу](http://anyway.today/otziv-ob-ispolzovanii-smoli-artishoka/)?
+Смолу артишока мы честно допили и как было обещано написали отзыв о применении этой смолы. [Итак имеет ли артишок заявленную чудодейственную силу](https://anyway.today/otziv-ob-ispolzovanii-smoli-artishoka/)?
 
 
 

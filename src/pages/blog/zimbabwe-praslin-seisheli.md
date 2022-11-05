@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](http://anyway.today/wp-content/uploads/2013/03/IMG_1699-300x200.jpg)](http://anyway.today/wp-content/uploads/2013/03/IMG_1699.jpg)
+[![](https://anyway.today/wp-content/uploads/2013/03/IMG_1699.jpg)](https://anyway.today/wp-content/uploads/2013/03/IMG_1699.jpg)
 
 
 
@@ -34,7 +34,7 @@ tags:
 <!-- more -->
 
 
-[![](http://anyway.today/wp-content/uploads/2013/03/IMG_1721-300x200.jpg) ](http://anyway.today/wp-content/uploads/2013/03/IMG_1721.jpg)
+[![](https://anyway.today/wp-content/uploads/2013/03/IMG_1721.jpg) ](https://anyway.today/wp-content/uploads/2013/03/IMG_1721.jpg)
 
 
 
@@ -44,13 +44,13 @@ tags:
 
 
 
-[![](http://anyway.today/wp-content/uploads/2013/03/IMG_1559-300x200.jpg)](http://anyway.today/wp-content/uploads/2013/03/IMG_1559.jpg)
+[![](https://anyway.today/wp-content/uploads/2013/03/IMG_1559.jpg)](https://anyway.today/wp-content/uploads/2013/03/IMG_1559.jpg)
 
 
 Но мы не ищем простых путей. На автобусе прибыли к подножью.
 
 
-[![](http://anyway.today/wp-content/uploads/2013/03/IMG_1570-300x200.jpg) ](http://anyway.today/wp-content/uploads/2013/03/IMG_1570.jpg)
+[![](https://anyway.today/wp-content/uploads/2013/03/IMG_1570.jpg) ](https://anyway.today/wp-content/uploads/2013/03/IMG_1570.jpg)
 
 
 
@@ -60,13 +60,13 @@ tags:
 
 
 
-[![](http://anyway.today/wp-content/uploads/2013/03/IMG_16991-300x200.jpg)](http://anyway.today/wp-content/uploads/2013/03/IMG_16991.jpg)
+[![](https://anyway.today/wp-content/uploads/2013/03/IMG_16991.jpg)](https://anyway.today/wp-content/uploads/2013/03/IMG_16991.jpg)
 
 
 Вдоль дороги есть домики местного населения. Мы чуть не попали в чей то коровник. Мы топали наверх совсем не зная то же там нас ждет. А ждало нас вот это )))
 
 
-[![](http://anyway.today/wp-content/uploads/2013/03/IMG_1748-300x200.jpg)](http://anyway.today/wp-content/uploads/2013/03/IMG_1748.jpg)
+[![](https://anyway.today/wp-content/uploads/2013/03/IMG_1748.jpg)](https://anyway.today/wp-content/uploads/2013/03/IMG_1748.jpg)
 
 
 
@@ -77,13 +77,13 @@ tags:
 
 
 
-[![](http://anyway.today/wp-content/uploads/2013/03/IMG_1582-300x200.jpg)](http://anyway.today/wp-content/uploads/2013/03/IMG_1582.jpg)
+[![](https://anyway.today/wp-content/uploads/2013/03/IMG_1582.jpg)](https://anyway.today/wp-content/uploads/2013/03/IMG_1582.jpg)
 
 
 Красивые деревья с плоскими верхушками, как в Аватаре)) Да и вообще наверху прямо ветер и воздух свободы.
 
 
-[![](http://anyway.today/wp-content/uploads/2013/03/IMG_1715-300x200.jpg)](http://anyway.today/wp-content/uploads/2013/03/IMG_1715.jpg)
+[![](https://anyway.today/wp-content/uploads/2013/03/IMG_1715.jpg)](https://anyway.today/wp-content/uploads/2013/03/IMG_1715.jpg)
 
 
 
@@ -94,7 +94,7 @@ tags:
 
 
 
-Вид на пляж Лацио.[![](http://anyway.today/wp-content/uploads/2013/03/IMG_1832-300x200.jpg)](http://anyway.today/wp-content/uploads/2013/03/IMG_1832.jpg)
+Вид на пляж Лацио.[![](https://anyway.today/wp-content/uploads/2013/03/IMG_1832.jpg)](https://anyway.today/wp-content/uploads/2013/03/IMG_1832.jpg)
 
 
 
@@ -107,7 +107,7 @@ tags:
 
 
 
-[![](http://anyway.today/wp-content/uploads/2013/03/MG_1951-300x200.jpg)](http://anyway.today/wp-content/uploads/2013/03/MG_1951.jpg)
+[![](https://anyway.today/wp-content/uploads/2013/03/MG_1951.jpg)](https://anyway.today/wp-content/uploads/2013/03/MG_1951.jpg)
 
 
 
@@ -115,10 +115,10 @@ tags:
  Зашли освежить в придорожный "бар".
 
 
-![](http://anyway.today/wp-content/uploads/2013/03/IMG_1941-300x200.jpg)
-![](http://anyway.today/wp-content/uploads/2013/03/IMG_1943-300x200.jpg)
+![](https://anyway.today/wp-content/uploads/2013/03/IMG_1941.jpg)
+![](https://anyway.today/wp-content/uploads/2013/03/IMG_1943.jpg)
 Бармен вскрыл нам два кокосика
-![](http://anyway.today/wp-content/uploads/2013/03/IMG_1937-25D0-25BA-25D0-25BE-25D0-25BF-25D0-25B8-25D1-258F-300x200.jpg)
+![](https://anyway.today/wp-content/uploads/2013/03/IMG_1937-25D0-25BA-25D0-25BE-25D0-25BF-25D0-25B8-25D1-258F.jpg)
 И двинулись дальше в заповедник с коко-попами [Майская долина](https://anyway.today/maiskaya-dolina-praslin-seisheli/).
 
 

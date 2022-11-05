@@ -16,7 +16,7 @@ tags:
 - Индонезия
 ---
 
-Будучи в [Туламбене ](http://anyway.today/plyaji_bali_tulamben/)мы долго выбирали куда же мы двинемся дальше. В итоге выбрали пляж Джимбаран и отель [Sari Segara Resort Villas & Spa](http://anyway.today/gde-ostanovitsya-na-djimbarane/). Чем мы руководствовались при выборе этого пляжа? Во первых нам понравилось расположение, если арендовать мотобайк то можно спокойно объездить все близлежащие пляжи Куту, [Дримланд](http://anyway.today/playaji-bali-dreamland/) и так далее. Во вторых, Джимбаран считает достаточно хорошим для пляжного отдыха и в тоже время пригоден для начинающих серферов. Что же мы увидели на самом деле?
+Будучи в [Туламбене ](https://anyway.today/plyaji_bali_tulamben/)мы долго выбирали куда же мы двинемся дальше. В итоге выбрали пляж Джимбаран и отель [Sari Segara Resort Villas & Spa](https://anyway.today/gde-ostanovitsya-na-djimbarane/). Чем мы руководствовались при выборе этого пляжа? Во первых нам понравилось расположение, если арендовать мотобайк то можно спокойно объездить все близлежащие пляжи Куту, [Дримланд](https://anyway.today/playaji-bali-dreamland/) и так далее. Во вторых, Джимбаран считает достаточно хорошим для пляжного отдыха и в тоже время пригоден для начинающих серферов. Что же мы увидели на самом деле?
 
 
 
@@ -37,7 +37,7 @@ tags:
 
 
 
-[caption id="attachment_1307" align="aligncenter" width="720"][![Пляж Джимбаран - Бали](http://anyway.today/wp-content/uploads/2015/06/MG_9223.jpg)](http://anyway.today/wp-content/uploads/2015/06/MG_9223.jpg) Пляж Джимбаран[/caption]
+[caption id="attachment_1307" align="aligncenter" width="720"][![Пляж Джимбаран - Бали](https://anyway.today/wp-content/uploads/2015/06/MG_9223.jpg)](https://anyway.today/wp-content/uploads/2015/06/MG_9223.jpg) Пляж Джимбаран[/caption]
 
 
 На момент нашего прибывания море было совсем неспокойным. Были очень приличные волны. Я купаться так и не смогла. Муж немного попрыгал в волнах.
@@ -45,7 +45,7 @@ tags:
 
 
 
-[caption id="attachment_1308" align="aligncenter" width="720"][![Волны на Джимбаране, Бали](http://anyway.today/wp-content/uploads/2015/07/MG_9236.jpg)](http://anyway.today/wp-content/uploads/2015/07/MG_9236.jpg) Волны на Джимбаране[/caption]
+[caption id="attachment_1308" align="aligncenter" width="720"][![Волны на Джимбаране, Бали](https://anyway.today/wp-content/uploads/2015/07/MG_9236.jpg)](https://anyway.today/wp-content/uploads/2015/07/MG_9236.jpg) Волны на Джимбаране[/caption]
 
 
 По крайней мере в случае большой волны тут песочное дно. Вода была весьма прохладной и мутной. Муть это не грязь, а взбаламученный песок. Нам показался пляж очень неуютным. Вдоль пляжа на песке стояло множество столов, только вечером мы узнали для чего это.  Был не очень приятный запах рыбы, вдобавок ко всему мы увидели прямо на берегу дохлую крысу.
@@ -64,7 +64,7 @@ tags:
 
 
 
-[caption id="attachment_1310" align="aligncenter" width="720"][![Морепродукты на Джимбаране](http://anyway.today/wp-content/uploads/2015/07/MG_9226.jpg)](http://anyway.today/wp-content/uploads/2015/07/MG_9226.jpg) Морепродукты на Джимбаране[/caption]
+[caption id="attachment_1310" align="aligncenter" width="720"][![Морепродукты на Джимбаране](https://anyway.today/wp-content/uploads/2015/07/MG_9226.jpg)](https://anyway.today/wp-content/uploads/2015/07/MG_9226.jpg) Морепродукты на Джимбаране[/caption]
 
 
 Вечером, все кафе прямо на берегу расставляют множество столов. И начинают встречать гостей. Желающих поужинать на Джимбаране огромное количество, потому что помимо морепродуктов, можно ужинать и наблюдать закат. Если днем на Джимбаране совсем не многолюдно, то вечером целыми автобусами начинают привозить  туристов желающих поужинать на закате.
@@ -72,9 +72,9 @@ tags:
 
 
 
-[caption id="attachment_1309" align="aligncenter" width="720"][![Туристы фотографируются на закате, Джимбаран, Бали](http://anyway.today/wp-content/uploads/2015/07/MG_9257.jpg)](http://anyway.today/wp-content/uploads/2015/07/MG_9257.jpg) Туристы фотографируются на закате, Джимбаран[/caption]
+[caption id="attachment_1309" align="aligncenter" width="720"][![Туристы фотографируются на закате, Джимбаран, Бали](https://anyway.today/wp-content/uploads/2015/07/MG_9257.jpg)](https://anyway.today/wp-content/uploads/2015/07/MG_9257.jpg) Туристы фотографируются на закате, Джимбаран[/caption]
 
-[caption id="attachment_1311" align="aligncenter" width="720"][![Туристы фотографируются на закате, Джимбаран](http://anyway.today/wp-content/uploads/2015/07/MG_9254.jpg)](http://anyway.today/wp-content/uploads/2015/07/MG_9254.jpg) Туристы фотографируются на закате, Джимбаран[/caption]
+[caption id="attachment_1311" align="aligncenter" width="720"][![Туристы фотографируются на закате, Джимбаран](https://anyway.today/wp-content/uploads/2015/07/MG_9254.jpg)](https://anyway.today/wp-content/uploads/2015/07/MG_9254.jpg) Туристы фотографируются на закате, Джимбаран[/caption]
 
 
 Цены весьма не демократичные. Дорого все и морепродукты и спиртные напитки. По вкусу, я бы не сказала что самая вкусная рыба которую мы ели на Бали.
@@ -82,7 +82,7 @@ tags:
 
 
 
-[caption id="attachment_1313" align="aligncenter" width="720"][![Ужин на Джимбаране](http://anyway.today/wp-content/uploads/2015/07/MG_9329.jpg)](http://anyway.today/wp-content/uploads/2015/07/MG_9329.jpg) Ужин на Джимбаране[/caption]
+[caption id="attachment_1313" align="aligncenter" width="720"][![Ужин на Джимбаране](https://anyway.today/wp-content/uploads/2015/07/MG_9329.jpg)](https://anyway.today/wp-content/uploads/2015/07/MG_9329.jpg) Ужин на Джимбаране[/caption]
 
 
 Например, в Туламбене нас накормили гораздо вкуснее, и намного дешевле. Так же отличнейшую рыбу нам подавали на пляже Бинджин. По нашему мнению, единственное почему стоит поужинать в этом месте это закат.
@@ -90,7 +90,7 @@ tags:
 
 
 
-[caption id="attachment_1312" align="aligncenter" width="720"][![Закат на Джимбаране, Бали](http://anyway.today/wp-content/uploads/2015/07/MG_9228.jpg)](http://anyway.today/wp-content/uploads/2015/07/MG_9228.jpg) Закат на Джимбаране[/caption]
+[caption id="attachment_1312" align="aligncenter" width="720"][![Закат на Джимбаране, Бали](https://anyway.today/wp-content/uploads/2015/07/MG_9228.jpg)](https://anyway.today/wp-content/uploads/2015/07/MG_9228.jpg) Закат на Джимбаране[/caption]
 
 
 ## Наш отзыв о пляже Джимбаран
@@ -103,7 +103,7 @@ tags:
 
 
 
-Наш небольшой рейтинг [пляжей для купания на Бали](http://anyway.today/plyaji_dlya_kupaniya_na_bali/).
+Наш небольшой рейтинг [пляжей для купания на Бали](https://anyway.today/plyaji_dlya_kupaniya_na_bali/).
 
 
 **Если вам нравится наш блог и вы находите его в чем либо полезным для себя — вы всегда можете поддержать его оформив подписку на его новости:**
@@ -114,13 +114,13 @@ tags:
   * **подписаться на** [**E-mail**](https://feedburner.google.com/fb/a/mailverify?uri=Anywaytoday&amp;loc=en_US)
 
 	
-  * **наша группа** [**ВКонтакте**](http://vk.com/public90452188)
+  * **наша группа** [**ВКонтакте**](https://vk.com/public90452188)
 
 	
   * **наш [Twitter](https://twitter.com/TodayAnyway)**
 
 	
-  * **мы в [Одноклассниках](http://ok.ru/group/54402107244544)**
+  * **мы в [Одноклассниках](https://ok.ru/group/54402107244544)**
 
 
 

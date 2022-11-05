@@ -48,7 +48,7 @@ tags:
 <tbody >
 <tr >
 
-<td style="text-align: center;" >[![Развод туристов на Шри Ланке](http://anyway.today/wp-content/uploads/2014/03/2013-11-21_12-41-Sri-Lanka-180.jpg)](http://anyway.today/wp-content/uploads/2014/03/2013-11-21_12-41-Sri-Lanka-180.jpg)
+<td style="text-align: center;" >[![Развод туристов на Шри Ланке](https://anyway.today/wp-content/uploads/2014/03/2013-11-21_12-41-Sri-Lanka-180.jpg)](https://anyway.today/wp-content/uploads/2014/03/2013-11-21_12-41-Sri-Lanka-180.jpg)
 </td>
 </tr>
 <tr >
@@ -76,7 +76,7 @@ tags:
 
 
 
-[![](http://anyway.today/wp-content/uploads/2014/03/2013-11-23_15-52-Sri-Lanka-436.jpg)](http://anyway.today/wp-content/uploads/2014/03/2013-11-23_15-52-Sri-Lanka-436.jpg)
+[![](https://anyway.today/wp-content/uploads/2014/03/2013-11-23_15-52-Sri-Lanka-436.jpg)](https://anyway.today/wp-content/uploads/2014/03/2013-11-23_15-52-Sri-Lanka-436.jpg)
 
 
 

@@ -60,7 +60,7 @@ tags:
 
 
 
-[caption id="attachment_1440" align="aligncenter" width="558"][![Расписание следования бесплатного автобуса на Наньтянь](http://anyway.today/wp-content/uploads/2016/01/index.jpg)](http://anyway.today/wp-content/uploads/2016/01/index.jpg) Расписание следования бесплатного автобуса на Наньтянь[/caption]
+[caption id="attachment_1440" align="aligncenter" width="558"][![Расписание следования бесплатного автобуса на Наньтянь](https://anyway.today/wp-content/uploads/2016/01/index.jpg)](https://anyway.today/wp-content/uploads/2016/01/index.jpg) Расписание следования бесплатного автобуса на Наньтянь[/caption]
 
 [tp_hotel_widget hotel_id=485804 responsive=true]
 
@@ -117,7 +117,7 @@ tags:
 
 
 
-[caption id="attachment_1444" align="aligncenter" width="1024"][![Горячие источники Наньтянь](http://anyway.today/wp-content/uploads/2016/01/IMG_0759-1024x683.jpg)](http://anyway.today/wp-content/uploads/2016/01/IMG_0759.jpg) Горячие источники Наньтянь[/caption]
+[caption id="attachment_1444" align="aligncenter" width="1024"][![Горячие источники Наньтянь](https://anyway.today/wp-content/uploads/2016/01/IMG_0759-1024x683.jpg)](https://anyway.today/wp-content/uploads/2016/01/IMG_0759.jpg) Горячие источники Наньтянь[/caption]
 
 
 
@@ -131,7 +131,7 @@ tags:
 
 
 
-[caption id="attachment_1445" align="aligncenter" width="1024"][![Горячие источники Наньтянь](http://anyway.today/wp-content/uploads/2016/01/IMG_0782-1024x683.jpg)](http://anyway.today/wp-content/uploads/2016/01/IMG_0782.jpg) Горячие источники Наньтянь[/caption]
+[caption id="attachment_1445" align="aligncenter" width="1024"][![Горячие источники Наньтянь](https://anyway.today/wp-content/uploads/2016/01/IMG_0782-1024x683.jpg)](https://anyway.today/wp-content/uploads/2016/01/IMG_0782.jpg) Горячие источники Наньтянь[/caption]
 
 
 

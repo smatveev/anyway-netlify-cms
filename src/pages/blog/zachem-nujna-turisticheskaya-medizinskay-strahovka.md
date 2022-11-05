@@ -32,7 +32,7 @@ tags:
 
 
 
-Оформление туристической страховки мы никогда не делали, вплоть до поездки в Египет в [Дахаб](http://anyway.today/new-year-in-sharm-in-dahab/). До этой поездки, мы ездили с тур операторами или не думали о покупке страховки вовсе. На этот раз, мы организовали поездку самостоятельно, исходя из положительного опыта самостоятельного путешествия на [Сейшелы](http://anyway.today/kak-ne-isportit-otdih-na-seishelah/). Основной целью поездки был недельный курс обучения дайвингу и получение сертификата OWD. Тут возникли первые страхи, а что если… и что тогда делать. Мы были испуганы многочисленными рассказами товарищей о дороговизне использования барокамеры, а в нее мы должны были всенепременно попасть. Наслушавшись страшных историй, мы пришли к выводу, что купить расширенную туристическую страховку - дело нужное и полезное. Страховку купили онлайн в последний момент, буквально перед выездом в аэропорт.
+Оформление туристической страховки мы никогда не делали, вплоть до поездки в Египет в [Дахаб](https://anyway.today/new-year-in-sharm-in-dahab/). До этой поездки, мы ездили с тур операторами или не думали о покупке страховки вовсе. На этот раз, мы организовали поездку самостоятельно, исходя из положительного опыта самостоятельного путешествия на [Сейшелы](https://anyway.today/kak-ne-isportit-otdih-na-seishelah/). Основной целью поездки был недельный курс обучения дайвингу и получение сертификата OWD. Тут возникли первые страхи, а что если… и что тогда делать. Мы были испуганы многочисленными рассказами товарищей о дороговизне использования барокамеры, а в нее мы должны были всенепременно попасть. Наслушавшись страшных историй, мы пришли к выводу, что купить расширенную туристическую страховку - дело нужное и полезное. Страховку купили онлайн в последний момент, буквально перед выездом в аэропорт.
 
 
 
@@ -72,7 +72,7 @@ tags:
   3. Воспользоваться сайтом агрегатором туристических страховок .
 
 
-[caption id="attachment_1496" align="aligncenter" width="358"][![туристическая медицинская страховка, как залог страхования жизни](http://anyway.today/wp-content/uploads/2015/03/Turisticheskay-medizinskaya-strahovka.png)](http://anyway.today/wp-content/uploads/2015/03/Turisticheskay-medizinskaya-strahovka.png) Многообразие поставщиков услуг страхования[/caption]
+[caption id="attachment_1496" align="aligncenter" width="358"][![туристическая медицинская страховка, как залог страхования жизни](https://anyway.today/wp-content/uploads/2015/03/Turisticheskay-medizinskaya-strahovka.png)](https://anyway.today/wp-content/uploads/2015/03/Turisticheskay-medizinskaya-strahovka.png) Многообразие поставщиков услуг страхования[/caption]
 
 
 ## Оформление туристической страховки в агентстве
@@ -118,7 +118,7 @@ tags:
 
 
 
-Я оформляла страховку на [cherepaha.ru](https://c24.travelpayouts.com/click?shmarker=14510.kupitStrahovku&promo_id=659&source_type=customlink&type=click&custom_url=https%3A%2F%2Fcherehapa.ru%2F) несколько раз. Что такое сайт агрегатор я писала в раннее в статье "[Надежные сайты продажи дешевых авиабилетов](http://anyway.today/avia-faq-sites-of-cheap-tickets/)". Если кратко, то сайт агрегатор собирает информацию по ценам от всех страховых агентств и поставщиков услуг и отдает эту информацию пользователю. А мы уже сами можем выбирать вариант либо с более низкой ценой, либо от более известного для нас поставщика. По сути[ cherehapa.ru](https://c24.travelpayouts.com/click?shmarker=14510.kupitStrahovku&promo_id=659&source_type=customlink&type=click&custom_url=https%3A%2F%2Fcherehapa.ru%2F) это [aviasales.ru, ](http://www.aviasales.ru/?marker=14510)но только по туристическим страховкам. В отличии от [aviasales.ru](http://www.aviasales.ru/?marker=14510) на сайте [cherehapa.ru](https://c24.travelpayouts.com/click?shmarker=14510.kupitStrahovku&promo_id=659&source_type=customlink&type=click&custom_url=https%3A%2F%2Fcherehapa.ru%2F) можно не только найти подходящий и недорогой вариант туристического страхования, но и купить страховой полис онлайн.
+Я оформляла страховку на [cherepaha.ru](https://c24.travelpayouts.com/click?shmarker=14510.kupitStrahovku&promo_id=659&source_type=customlink&type=click&custom_url=https%3A%2F%2Fcherehapa.ru%2F) несколько раз. Что такое сайт агрегатор я писала в раннее в статье "[Надежные сайты продажи дешевых авиабилетов](https://anyway.today/avia-faq-sites-of-cheap-tickets/)". Если кратко, то сайт агрегатор собирает информацию по ценам от всех страховых агентств и поставщиков услуг и отдает эту информацию пользователю. А мы уже сами можем выбирать вариант либо с более низкой ценой, либо от более известного для нас поставщика. По сути[ cherehapa.ru](https://c24.travelpayouts.com/click?shmarker=14510.kupitStrahovku&promo_id=659&source_type=customlink&type=click&custom_url=https%3A%2F%2Fcherehapa.ru%2F) это [aviasales.ru, ](https://www.aviasales.ru/?marker=14510)но только по туристическим страховкам. В отличии от [aviasales.ru](https://www.aviasales.ru/?marker=14510) на сайте [cherehapa.ru](https://c24.travelpayouts.com/click?shmarker=14510.kupitStrahovku&promo_id=659&source_type=customlink&type=click&custom_url=https%3A%2F%2Fcherehapa.ru%2F) можно не только найти подходящий и недорогой вариант туристического страхования, но и купить страховой полис онлайн.
 
 
 
@@ -166,11 +166,11 @@ tags:
 
 
 
-[caption id="attachment_782" align="aligncenter" width="771"][![Туристическая медицинская страховка, как залог страхования жизни](http://anyway.today/wp-content/uploads/2015/03/cherehapa-1024x541.png)](http://anyway.today/wp-content/uploads/2015/03/cherehapa.png) Минимальный вариант страховки[/caption]
+[caption id="attachment_782" align="aligncenter" width="771"][![Туристическая медицинская страховка, как залог страхования жизни](https://anyway.today/wp-content/uploads/2015/03/cherehapa-1024x541.png)](https://anyway.today/wp-content/uploads/2015/03/cherehapa.png) Минимальный вариант страховки[/caption]
 
 А ниже предложит возможные расширения для страховки. Например, увеличение суммы страхового покрытия, и учет того, что вы собираетесь заниматься спортом и активно отдыхать. Так же, можно выбрать дополнительные опции в виде страхования багажа или гражданской ответственности.
 
-[caption id="attachment_783" align="aligncenter" width="724"][![туристическая медицинская страховка, как залог страхования жизни](http://anyway.today/wp-content/uploads/2015/03/cherehapa-2.png)](http://anyway.today/wp-content/uploads/2015/03/cherehapa-2.png) Расширения страховки[/caption]
+[caption id="attachment_783" align="aligncenter" width="724"][![туристическая медицинская страховка, как залог страхования жизни](https://anyway.today/wp-content/uploads/2015/03/cherehapa-2.png)](https://anyway.today/wp-content/uploads/2015/03/cherehapa-2.png) Расширения страховки[/caption]
 
 Вот собственно и все, после оплаты любым удобным для вас способом ваш страховой полис будет отправлен вам по почте. Приятных вам и безопасных путешествий!
 
@@ -182,13 +182,13 @@ tags:
   * **подписаться на** [**E-mail**](https://feedburner.google.com/fb/a/mailverify?uri=Anywaytoday&amp;loc=en_US)
 
  	
-  * **наша группа** [**ВКонтакте**](http://vk.com/public90452188)
+  * **наша группа** [**ВКонтакте**](https://vk.com/public90452188)
 
  	
   * **наш [Twitter](https://twitter.com/TodayAnyway)**
 
  	
-  * **мы в [Одноклассниках](http://ok.ru/group/54402107244544)**
+  * **мы в [Одноклассниках](https://ok.ru/group/54402107244544)**
 
  	
   * [Что бы не пропускать свежие статьи подписывайтесь на наш телеграм канал](https://t.me/anyway_today). На нашем канале мы публикуем свежие статьи и еще много полезной информации для путешественников.

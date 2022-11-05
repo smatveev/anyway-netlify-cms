@@ -16,7 +16,7 @@ tags:
 - Туламбен
 ---
 
-В деревню Туламбен мы попали по воле случая. Изначально мы собирались остановиться в Амеде. Амед славится своими черными песками на пляже и хорошим дайвингом и сноркелингом. Но обстоятельства сложились совсем иначе. Ранним утром мы отправились на шатл басе из Убуда в Амед. После четырех часов в пути мы были крайне удивлены тем, что оказывается наш отель [Ocean Sun Dive Resort](http://anyway.today/otziv-ob-otele-ocean-sun-dive-resort-v-tulambene) расположен не в Амеде, а в соседней деревушке Туламбен. А теперь всем на заметку:
+В деревню Туламбен мы попали по воле случая. Изначально мы собирались остановиться в Амеде. Амед славится своими черными песками на пляже и хорошим дайвингом и сноркелингом. Но обстоятельства сложились совсем иначе. Ранним утром мы отправились на шатл басе из Убуда в Амед. После четырех часов в пути мы были крайне удивлены тем, что оказывается наш отель [Ocean Sun Dive Resort](https://anyway.today/otziv-ob-otele-ocean-sun-dive-resort-v-tulambene) расположен не в Амеде, а в соседней деревушке Туламбен. А теперь всем на заметку:
 
 
 
@@ -47,11 +47,11 @@ _Амедом называется не одна конкретная дерев
 
 
 
-[caption id="attachment_1287" align="aligncenter" width="720"][![Центральная улица Туламбена](http://anyway.today/wp-content/uploads/2015/06/IMG_9091.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_9091.jpg) Центральная улица Туламбена[/caption]
+[caption id="attachment_1287" align="aligncenter" width="720"][![Центральная улица Туламбена](https://anyway.today/wp-content/uploads/2015/06/IMG_9091.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_9091.jpg) Центральная улица Туламбена[/caption]
 
-[caption id="attachment_1293" align="aligncenter" width="720"][![Плакат в Туламбене](http://anyway.today/wp-content/uploads/2015/06/IMG_9092.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_9092.jpg) Плакат о том как клево служить в индонезийской армии[/caption]
+[caption id="attachment_1293" align="aligncenter" width="720"][![Плакат в Туламбене](https://anyway.today/wp-content/uploads/2015/06/IMG_9092.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_9092.jpg) Плакат о том как клево служить в индонезийской армии[/caption]
 
-[caption id="attachment_1297" align="aligncenter" width="720"][![IMG_9146](http://anyway.today/wp-content/uploads/2015/06/IMG_9146.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_9146.jpg) Местный общественный транспорт[/caption]
+[caption id="attachment_1297" align="aligncenter" width="720"][![IMG_9146](https://anyway.today/wp-content/uploads/2015/06/IMG_9146.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_9146.jpg) Местный общественный транспорт[/caption]
 
 
 
@@ -61,12 +61,12 @@ _Амедом называется не одна конкретная дерев
 
 
 
-[caption id="attachment_1289" align="aligncenter" width="720"][![Вывески дайв центров в Туламбене](http://anyway.today/wp-content/uploads/2015/06/IMG_9107.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_9107.jpg) Вывески дайв центров в Туламбене[/caption]
+[caption id="attachment_1289" align="aligncenter" width="720"][![Вывески дайв центров в Туламбене](https://anyway.today/wp-content/uploads/2015/06/IMG_9107.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_9107.jpg) Вывески дайв центров в Туламбене[/caption]
 
-[caption id="attachment_1288" align="aligncenter" width="720"][![Вывески дайв центров в Туламбене](http://anyway.today/wp-content/uploads/2015/06/IMG_9105.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_9105.jpg) Вывески дайв центров в Туламбене[/caption]
+[caption id="attachment_1288" align="aligncenter" width="720"][![Вывески дайв центров в Туламбене](https://anyway.today/wp-content/uploads/2015/06/IMG_9105.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_9105.jpg) Вывески дайв центров в Туламбене[/caption]
 
 
-Таким образом основная публика в Туламбене это дайверы. В деревне много дайв центров, которые помогут с погружениями, так же можно тут же получить сертификаты PADI. При нашем отеле [Ocean Sun Dive Resort ](http://anyway.today/otziv-ob-otele-ocean-sun-dive-resort-v-tulambene)как раз был подобный дайв центр.
+Таким образом основная публика в Туламбене это дайверы. В деревне много дайв центров, которые помогут с погружениями, так же можно тут же получить сертификаты PADI. При нашем отеле [Ocean Sun Dive Resort ](https://anyway.today/otziv-ob-otele-ocean-sun-dive-resort-v-tulambene)как раз был подобный дайв центр.
 
 
 
@@ -82,7 +82,7 @@ _Амедом называется не одна конкретная дерев
 
 
 
-[caption id="attachment_1290" align="aligncenter" width="720"][![Дайверы топают на Либерти](http://anyway.today/wp-content/uploads/2015/06/IMG_9078.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_9078.jpg) Дайверы топают на Либерти[/caption]
+[caption id="attachment_1290" align="aligncenter" width="720"][![Дайверы топают на Либерти](https://anyway.today/wp-content/uploads/2015/06/IMG_9078.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_9078.jpg) Дайверы топают на Либерти[/caption]
 
 
 ## Как найти судно Либерти в Туламбене
@@ -95,7 +95,7 @@ _Амедом называется не одна конкретная дерев
 
 
 
-[caption id="attachment_1291" align="aligncenter" width="720"][![Дайверы Туламбен](http://anyway.today/wp-content/uploads/2015/06/IMG_9080.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_9080.jpg) Если вы видите дружную толпу дайверов, вы идете в верном направлении[/caption]
+[caption id="attachment_1291" align="aligncenter" width="720"][![Дайверы Туламбен](https://anyway.today/wp-content/uploads/2015/06/IMG_9080.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_9080.jpg) Если вы видите дружную толпу дайверов, вы идете в верном направлении[/caption]
 
 
 Мы не погружались, так как оставили свои сертификаты дома. Но зато сноркали. К сожалению, у нас не было фотоаппарата, но зрелище очень красивое. Корабль покрыт кораллами, вокруг него снуют множество рыбок. Прозрачность воды достаточно хорошая разглядеть можно очень многое. Сначала мы были занятыми кораблем и рыбками, но потом увидели более интересное зрелище. Множество пузырьков воздуха поднимающихся со дна от дайверов переливающихся в лучах солнца. Мы начали купаться в этих пузырьках, ловили их. Они приятно покалывают кожу, иногда и так много, что начинаешь терять ориентацию в пространстве. В целом именно пузырьки воздуха впечатлили меня гораздо больше затонувшего корабля Либерти.
@@ -103,7 +103,7 @@ _Амедом называется не одна конкретная дерев
 
 
 
-[caption id="attachment_1292" align="aligncenter" width="720"][![Дайверы Туламбен](http://anyway.today/wp-content/uploads/2015/06/IMG_9077.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_9077.jpg) Сейчас они соберутся и мы пойдем следом за ними ловить пузырь[/caption]
+[caption id="attachment_1292" align="aligncenter" width="720"][![Дайверы Туламбен](https://anyway.today/wp-content/uploads/2015/06/IMG_9077.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_9077.jpg) Сейчас они соберутся и мы пойдем следом за ними ловить пузырь[/caption]
 
 
 ## Пляж Туламбен
@@ -116,7 +116,7 @@ _Амедом называется не одна конкретная дерев
 
 
 
-[caption id="attachment_1294" align="aligncenter" width="720"][![Пляж в Туламбене](http://anyway.today/wp-content/uploads/2015/06/MG_9059.jpg)](http://anyway.today/wp-content/uploads/2015/06/MG_9059.jpg) Пляж в Туламбене[/caption]
+[caption id="attachment_1294" align="aligncenter" width="720"][![Пляж в Туламбене](https://anyway.today/wp-content/uploads/2015/06/MG_9059.jpg)](https://anyway.today/wp-content/uploads/2015/06/MG_9059.jpg) Пляж в Туламбене[/caption]
 
 
 Так что прогуливаться по пляжу весьма не комфортно. Дно тоже в тех же самых камнях. Зато, совсем нет типичных для [пляжей Бали](https://anyway.today/plyaji_dlya_kupaniya_na_bali/) волн. Можно спокойно плавать, не боясь получить по голове волной. В общем не самый идеальный пляж, но если входить в воду в тапочках то все весьма неплохо. А если учесть, что на Бали очень мало пляжей для простого купания, то пляж и вовсе прекрасен.
@@ -135,7 +135,7 @@ _Амедом называется не одна конкретная дерев
 
 
 
-[caption id="attachment_1295" align="aligncenter" width="720"][![Расписание шатл басов в Туламбене](http://anyway.today/wp-content/uploads/2015/06/IMG_9109.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_9109.jpg) Расписание шатл басов в Туламбене[/caption]
+[caption id="attachment_1295" align="aligncenter" width="720"][![Расписание шатл басов в Туламбене](https://anyway.today/wp-content/uploads/2015/06/IMG_9109.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_9109.jpg) Расписание шатл басов в Туламбене[/caption]
 
 
 Кафе найти очень просто, оно самое большое на улице, там есть вывеска с расписанием шатл баса, а так же там очень и очень говорливый хозяин.
@@ -149,7 +149,7 @@ _Амедом называется не одна конкретная дерев
 
 
 
-Наш небольшой рейтинг [пляжей для купания на Бали](http://anyway.today/plyaji_dlya_kupaniya_na_bali/).
+Наш небольшой рейтинг [пляжей для купания на Бали](https://anyway.today/plyaji_dlya_kupaniya_na_bali/).
 
 
 **Если вам нравится наш блог и вы находите его в чем либо полезным для себя — вы всегда можете поддержать его оформив подписку на его новости:**
@@ -160,13 +160,13 @@ _Амедом называется не одна конкретная дерев
   * **подписаться на** [**E-mail**](https://feedburner.google.com/fb/a/mailverify?uri=Anywaytoday&amp;loc=en_US)
 
  	
-  * **наша группа** [**ВКонтакте**](http://vk.com/public90452188)
+  * **наша группа** [**ВКонтакте**](https://vk.com/public90452188)
 
  	
   * **наш [Twitter](https://twitter.com/TodayAnyway)**
 
  	
-  * **мы в [Одноклассниках](http://ok.ru/group/54402107244544)**
+  * **мы в [Одноклассниках](https://ok.ru/group/54402107244544)**
 
 
 **Купить недорогие билеты Москва - Денпасар**

@@ -53,8 +53,8 @@ tags:
 
 
 
-Если вы прибываете ночью и не хотите заниматься поисками городского такси, то можно [заранее заказать такси онлайн](http://c1.travelpayouts.com/click?shmarker=14510&promo_id=647&source_type=customlink&type=click&custom_url=http%3A%2F%2Fkiwitaxi.ru%2FPhilippines%2FCebu-%3ECebu%20Port). Номер вашего рейса будут отслеживать и машину подадут к нужному времени. Оплатить поездку можно так же онлайн, что спасет вас от неприятных разбирательств с таксистами.
-[![Трансферы из аэропорта. Недорогое такси в Европе, Азии, США, России](http://c1.travelpayouts.com/content?promo_id=30&shmarker=14510&type=init)](http://c1.travelpayouts.com/click?shmarker=14510&promo_id=30&source_type=banner&type=click)Для тех кто любит водить авто самостоятельно можно [арендовать машину онлайн](http://c13.travelpayouts.com/click?shmarker=14510&promo_id=153&source_type=link&type=click). Но если честно, в таком трафике я бы не решилась это сделать. Не езда, а сплошное мучение.
+Если вы прибываете ночью и не хотите заниматься поисками городского такси, то можно [заранее заказать такси онлайн](https://c1.travelpayouts.com/click?shmarker=14510&promo_id=647&source_type=customlink&type=click&custom_url=http%3A%2F%2Fkiwitaxi.ru%2FPhilippines%2FCebu-%3ECebu%20Port). Номер вашего рейса будут отслеживать и машину подадут к нужному времени. Оплатить поездку можно так же онлайн, что спасет вас от неприятных разбирательств с таксистами.
+[![Трансферы из аэропорта. Недорогое такси в Европе, Азии, США, России](https://c1.travelpayouts.com/content?promo_id=30&shmarker=14510&type=init)](https://c1.travelpayouts.com/click?shmarker=14510&promo_id=30&source_type=banner&type=click)Для тех кто любит водить авто самостоятельно можно [арендовать машину онлайн](https://c13.travelpayouts.com/click?shmarker=14510&promo_id=153&source_type=link&type=click). Но если честно, в таком трафике я бы не решилась это сделать. Не езда, а сплошное мучение.
 
 
 

@@ -16,7 +16,7 @@ tags:
 - Муйне
 ---
 
-Достопримечательности Муйне я условно для себя разделяю на отдаленные и на те, которые находятся непосредственно в деревушке Муйне. К отдаленным я отношу [Белые Дюны и Озеро Лотосов](http://anyway.today/dostoprimechatelnosti-v-muine-belie-duni-i-ozero-lotosov/) о которых я писала раннее. Что бы осмотреть эти места, вам придется преодолеть чуть более 30 километров. Ближе к Муйне  есть ручей Фей, и [башни Чамов](https://anyway.today/dostoprimechatelnosti-muine-bashni-chamov/) и уже на выезде из деревни расположились [Красные дюны](https://anyway.today/dostoprimechatelnosti-v-muine-krasnie-duni/).
+Достопримечательности Муйне я условно для себя разделяю на отдаленные и на те, которые находятся непосредственно в деревушке Муйне. К отдаленным я отношу [Белые Дюны и Озеро Лотосов](https://anyway.today/dostoprimechatelnosti-v-muine-belie-duni-i-ozero-lotosov/) о которых я писала раннее. Что бы осмотреть эти места, вам придется преодолеть чуть более 30 километров. Ближе к Муйне  есть ручей Фей, и [башни Чамов](https://anyway.today/dostoprimechatelnosti-muine-bashni-chamov/) и уже на выезде из деревни расположились [Красные дюны](https://anyway.today/dostoprimechatelnosti-v-muine-krasnie-duni/).
 
 
 
@@ -59,7 +59,7 @@ tags:
 
 
 
-Ручей Фей или Красный ручей, пожалуй, самая легкодоступная достопримечательность в деревне Муйне. Добраться до него с одинаковым успехом можно как на [мотобайке ](http://anyway.today/arenda-motobaika-vo-vietname/)так и пешком. Найти его достаточно просто. Нужно двигаться в сторону рыбацкой деревни  и остановится у первого встреченного моста. Не ожидайте увидеть огромный мост, мост маленький и неприметный, затерянный в растительности. Мы ездили мимо этого моста несколько раз, до тех пор пока не поняли, что лужица протекающая внизу и есть тот самый Ручей Фей. Надпись над мостом тоже неприметна.
+Ручей Фей или Красный ручей, пожалуй, самая легкодоступная достопримечательность в деревне Муйне. Добраться до него с одинаковым успехом можно как на [мотобайке ](https://anyway.today/arenda-motobaika-vo-vietname/)так и пешком. Найти его достаточно просто. Нужно двигаться в сторону рыбацкой деревни  и остановится у первого встреченного моста. Не ожидайте увидеть огромный мост, мост маленький и неприметный, затерянный в растительности. Мы ездили мимо этого моста несколько раз, до тех пор пока не поняли, что лужица протекающая внизу и есть тот самый Ручей Фей. Надпись над мостом тоже неприметна.
 
 
 
@@ -87,7 +87,7 @@ tags:
 
 
 
-[caption id="attachment_967" align="aligncenter" width="720"][![Ручей Фей, Муйне, Вьетнам](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0270.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0270.jpg) Вот тут начинается прогулка по Ручью Фей.[/caption]
+[caption id="attachment_967" align="aligncenter" width="720"][![Ручей Фей, Муйне, Вьетнам](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0270.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0270.jpg) Вот тут начинается прогулка по Ручью Фей.[/caption]
 
 
 Честно говоря, не могу понять одну вещь. Ручей Фей позиционируется чуть ли не как главная достопримечательность Муйне. Сюда водят платные экскурсии, так почему не убрать мусор? Этот вопрос не отпускает меня до сих пор.
@@ -95,7 +95,7 @@ tags:
 
 
 
-[caption id="attachment_968" align="aligncenter" width="720"][![Ручей Фей, Муйне, Вьетнам](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0271.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0271.jpg) Мусор вдоль ручья Фей[/caption]
+[caption id="attachment_968" align="aligncenter" width="720"][![Ручей Фей, Муйне, Вьетнам](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0271.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0271.jpg) Мусор вдоль ручья Фей[/caption]
 
 
 Боремся с первым чувством отвращения и идем дальше. Как только вдоль ручья заканчиваются жилые дома, ситуация резко улучшается. Мусор исчезает, и уже со спокойной душой можно идти дальше.
@@ -103,7 +103,7 @@ tags:
 
 
 
-[caption id="attachment_969" align="aligncenter" width="720"][![Ручей Фей, Муйне, Вьетнам](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0275.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0275.jpg) Обитатели ручья Фей[/caption]
+[caption id="attachment_969" align="aligncenter" width="720"][![Ручей Фей, Муйне, Вьетнам](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0275.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0275.jpg) Обитатели ручья Фей[/caption]
 
 
 Ручей Фей неглубокий. Можно не опасаясь гулять по руслу. Но, есть пара мест, где нужно быть осторожными. Особенно людям с маленьким ростом. Предупреждаю так как сама попалась. Дно Ручья Фей песчаное и достаточно твердое, но кое где попадаются заводи то ли с илистым или с глинистым дном. Вот тут и кроется главная опасность. Если не проверять качество дна перед собой, то можно наступить так, что ноги начнет засасывать. Что бы подстраховать себя в случае вывиха ноги или еще какой либо травмы, лучше отправлять на прогулку купив [туристическую страховку](https://anyway.today/zachem-nujna-turisticheskaya-medizinskay-strahovka/). Понятно, что если бы это было действительно опасно, никаких экскурсий бы на Ручье Фей не было. Но обувь потерять таким образом вполне возможно. Да и намочить вещи выше чем ожидалось тоже просто.
@@ -111,7 +111,7 @@ tags:
 
 
 
-[caption id="attachment_970" align="aligncenter" width="720"][![Ручей Фей, Муйне, Вьетнам](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0289.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0289.jpg) Нечто, плавающее в Ручье Фей[/caption]
+[caption id="attachment_970" align="aligncenter" width="720"][![Ручей Фей, Муйне, Вьетнам](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0289.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0289.jpg) Нечто, плавающее в Ручье Фей[/caption]
 
 
 ### До каких пор идти вдоль Ручья Фей?
@@ -124,7 +124,7 @@ tags:
 
 
 
-[caption id="attachment_971" align="aligncenter" width="720"][![Ручей Фей, Муйне, Вьетнам](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0290.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0290.jpg) Ручей Фей[/caption]
+[caption id="attachment_971" align="aligncenter" width="720"][![Ручей Фей, Муйне, Вьетнам](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0290.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0290.jpg) Ручей Фей[/caption]
 
 
 До какой точки надо двигаться по ручью? Когда пора поворачивать обратно, если мы повернем прямо сейчас, не упустим ли мы что то интересное впереди?  Мы шли за одной парочкой, и они не останавливались, коллективным разумом было решено идти за ними до последнего.
@@ -143,7 +143,7 @@ tags:
 
 
 
-[caption id="attachment_972" align="aligncenter" width="720"][![Ручей Фей, Муйне, Вьетнам](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0297.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0297.jpg) Подход к водопаду[/caption]
+[caption id="attachment_972" align="aligncenter" width="720"][![Ручей Фей, Муйне, Вьетнам](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0297.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0297.jpg) Подход к водопаду[/caption]
 
 
 Водопад небольшой, слегка замусорен. Около него  плавают мелкие рыбки. Дальше идти некуда, можно смело возвращаться. Возвращались мы той же дорогой, только уже вооруженные знанием где может засосать и как это можно обойти. На обратном пути, мы встретили целую студию фотографии на выезде. Вьетнамцы снимали девушку в купальнике и в маске лошади на фоне Ручья Фей. Не знаю, что означала эта постановка, но выглядело очень забавно.
@@ -151,7 +151,7 @@ tags:
 
 
 
-[caption id="attachment_973" align="aligncenter" width="720"][![Ручей Фей, Муйне, Вьетнам](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0299.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0299.jpg) Эдакое вьетнамское порно на Ручье Фей[/caption]
+[caption id="attachment_973" align="aligncenter" width="720"][![Ручей Фей, Муйне, Вьетнам](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0299.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0299.jpg) Эдакое вьетнамское порно на Ручье Фей[/caption]
 
 
 ## Стоит ли посещать Ручей Фей?
@@ -170,13 +170,13 @@ tags:
   * **подписаться на** [**E-mail**](https://feedburner.google.com/fb/a/mailverify?uri=Anywaytoday&amp;loc=en_US)
 
  	
-  * **наша группа** [**ВКонтакте**](http://vk.com/public90452188)
+  * **наша группа** [**ВКонтакте**](https://vk.com/public90452188)
 
  	
   * **наш [Twitter](https://twitter.com/TodayAnyway)**
 
  	
-  * **мы в [Одноклассниках](http://ok.ru/group/54402107244544)**
+  * **мы в [Одноклассниках](https://ok.ru/group/54402107244544)**
 
 
 

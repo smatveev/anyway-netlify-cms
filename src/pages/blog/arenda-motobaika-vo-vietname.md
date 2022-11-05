@@ -32,7 +32,7 @@ tags:
 
 
 
-[caption id="attachment_677" align="aligncenter" width="725"][![Аренда байков во Вьетнаме](http://anyway.today/wp-content/uploads/2015/03/2014-10-20_Vietnam_0139.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-20_Vietnam_0139.jpg) Аренда байка во Вьетнаме. Красавец арендованный на Муйне.[/caption]
+[caption id="attachment_677" align="aligncenter" width="725"][![Аренда байков во Вьетнаме](https://anyway.today/wp-content/uploads/2015/03/2014-10-20_Vietnam_0139.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-20_Vietnam_0139.jpg) Аренда байка во Вьетнаме. Красавец арендованный на Муйне.[/caption]
 
 
 А вот на острове Фукуок цена еще зависит от степени "убитости" мотобайка. Хороший и новый мотобайк мы сняли за 200 тысяч донгов.
@@ -40,7 +40,7 @@ tags:
 
 
 
-[caption id="attachment_678" align="aligncenter" width="725"][![Аренда байков во Вьетнаме, остров Фукуок.](http://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0775.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0775.jpg) Мотобайк арендованный на острове Фукуок за 200 тысяч донгов.[/caption]
+[caption id="attachment_678" align="aligncenter" width="725"][![Аренда байков во Вьетнаме, остров Фукуок.](https://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0775.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0775.jpg) Мотобайк арендованный на острове Фукуок за 200 тысяч донгов.[/caption]
 
 
 Но надо понимать, что чем дороже мотобайк, в случае чего вам придется платить больше. На следующий день, нам очень дешево предложили убитый байк. Но это был эдакий мотобайк для камикадзе. Тормоза, не работали, стрелка уровня топлива и скорости тоже. Мы побоялись ехать на нем, и сняли уже за 130 тысяч донгов байк у которого не работала только стрелка уровня топлива. Приблизительно, такой разброс цен. Если вы захотите, арендовать байк сразу на неделю, скорее всего аренда будет дешевле. Деньги за мотобайк возьмут сразу. Никаких документов никто не просит. Если у вас стали требовать в залог паспорт, лучше поищите другое место.
@@ -114,7 +114,7 @@ tags:
 
 
 
-[caption id="attachment_693" align="aligncenter" width="509"][![Аренда мотобайков во Вьетнаме.](http://anyway.today/wp-content/uploads/2015/03/2014-10-20_Vietnam_0114-593x1024.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-20_Vietnam_0114.jpg) Вьетнамская заправка.[/caption]
+[caption id="attachment_693" align="aligncenter" width="509"][![Аренда мотобайков во Вьетнаме.](https://anyway.today/wp-content/uploads/2015/03/2014-10-20_Vietnam_0114-593x1024.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-20_Vietnam_0114.jpg) Вьетнамская заправка.[/caption]
 
 
 ## Где можно безопасно припарковать байк?
@@ -127,7 +127,7 @@ tags:
 
 
 
-[caption id="attachment_683" align="aligncenter" width="725"][![Аренда мотобайков во Вьетнаме.](http://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_0997.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_0997.jpg) Вьетнамская парковка[/caption]
+[caption id="attachment_683" align="aligncenter" width="725"][![Аренда мотобайков во Вьетнаме.](https://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_0997.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_0997.jpg) Вьетнамская парковка[/caption]
 
 
 ##  Качество дорог во Вьетнаме
@@ -154,11 +154,11 @@ tags:
 
 
 
-[caption id="attachment_685" align="aligncenter" width="725"][![Аренда байков во Вьетнаме.](http://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0831.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0831.jpg) Дороги острова Фукуок.[/caption]
+[caption id="attachment_685" align="aligncenter" width="725"][![Аренда байков во Вьетнаме.](https://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0831.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0831.jpg) Дороги острова Фукуок.[/caption]
 
-[caption id="attachment_686" align="aligncenter" width="725"][![Аренда мотобайка во Вьетнаме](http://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0832.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0832.jpg) Дороги острова Фукуок.[/caption]
+[caption id="attachment_686" align="aligncenter" width="725"][![Аренда мотобайка во Вьетнаме](https://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0832.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0832.jpg) Дороги острова Фукуок.[/caption]
 
-[caption id="attachment_687" align="aligncenter" width="725"][![Аренда мотобайков во Вьетнаме](http://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_0964.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_0964.jpg) Дорога на острове Фукуок после дождя[/caption]
+[caption id="attachment_687" align="aligncenter" width="725"][![Аренда мотобайков во Вьетнаме](https://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_0964.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_0964.jpg) Дорога на острове Фукуок после дождя[/caption]
 
 
 ## Манера вождения во Вьетнаме. Как водят мотобайки Вьетнамцы? Плотность движения во Вьетнаме.
@@ -171,7 +171,7 @@ tags:
 
 
 
-[caption id="attachment_680" align="aligncenter" width="725"][![Аренда байка во Вьетнаме](http://anyway.today/wp-content/uploads/2015/03/2014-10-17_Vietnam_0013.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-17_Vietnam_0013.jpg) Трафик на дорогах в Хошимине.[/caption]
+[caption id="attachment_680" align="aligncenter" width="725"][![Аренда байка во Вьетнаме](https://anyway.today/wp-content/uploads/2015/03/2014-10-17_Vietnam_0013.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-17_Vietnam_0013.jpg) Трафик на дорогах в Хошимине.[/caption]
 
 
 На самом деле, правил в городе практически никто не соблюдает. Хотя в Хошимине еще более дисциплинированные водители, обращают внимание на сигналы светофора, да и сами светофоры присутствуют. На мой взгляд, самая большая опасность в Хошимине на дороге, это довольно интенсивное движение.
@@ -184,7 +184,7 @@ tags:
 
 
 
-[caption id="attachment_681" align="aligncenter" width="725"][![Аренда байков во Вьетнаме](http://anyway.today/wp-content/uploads/2015/03/2014-10-22_Vietnam_0313.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-22_Vietnam_0313.jpg) Пустые трассы Вьетнама[/caption]
+[caption id="attachment_681" align="aligncenter" width="725"][![Аренда байков во Вьетнаме](https://anyway.today/wp-content/uploads/2015/03/2014-10-22_Vietnam_0313.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-22_Vietnam_0313.jpg) Пустые трассы Вьетнама[/caption]
 
 
 Правила местами не соблюдают очень жестко. Будут сами нарушать и угрожающе вам сигналить.
@@ -192,4 +192,4 @@ tags:
 
 
 
-[caption id="attachment_682" align="aligncenter" width="725"][![Аренда мотобайков во Вьетнаме.](http://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_1010.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_1010.jpg) Дорожный трафик на острове Фукуок.[/caption]
+[caption id="attachment_682" align="aligncenter" width="725"][![Аренда мотобайков во Вьетнаме.](https://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_1010.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_1010.jpg) Дорожный трафик на острове Фукуок.[/caption]

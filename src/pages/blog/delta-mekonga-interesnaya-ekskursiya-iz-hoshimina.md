@@ -21,7 +21,7 @@ tags:
 
 
 
-[![2014-10-18_Vietnam_0045](http://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0045.jpg)](http://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0045.jpg)
+[![2014-10-18_Vietnam_0045](https://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0045.jpg)](https://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0045.jpg)
 
 
 
@@ -37,12 +37,12 @@ tags:
 
 
 
-Цена экскурсии на дельту Меконга оказалась невысокой. Это были 200000 донгов с одного человека. В эту стоимость входила экскурсия на весь день, катание на лодках, посещение трех островов в дельте Меконга, и вполне себе сытный обед. Мне кажется, что цена за целый день развлечений совсем невысокая. Небольшая особенность, экскурсия доступна только на английском языке.  Возможно есть и с русскоговорящим гидом, но увы мы не нашли, и [наши родители в следующий заезд ](http://anyway.today/stoimost-poezdki-vo-vietnam-zeni-vo-vietname/)тоже не обнаружили такую.
+Цена экскурсии на дельту Меконга оказалась невысокой. Это были 200000 донгов с одного человека. В эту стоимость входила экскурсия на весь день, катание на лодках, посещение трех островов в дельте Меконга, и вполне себе сытный обед. Мне кажется, что цена за целый день развлечений совсем невысокая. Небольшая особенность, экскурсия доступна только на английском языке.  Возможно есть и с русскоговорящим гидом, но увы мы не нашли, и [наши родители в следующий заезд ](https://anyway.today/stoimost-poezdki-vo-vietnam-zeni-vo-vietname/)тоже не обнаружили такую.
 
 
 
 
-[![2014-10-18_Vietnam_0033](http://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0033.jpg)](http://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0033.jpg)
+[![2014-10-18_Vietnam_0033](https://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0033.jpg)](https://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0033.jpg)
 
 
 
@@ -58,7 +58,7 @@ tags:
 
 
 
-[![2014-10-18_Vietnam_0036](http://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0036.jpg)](http://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0036.jpg)
+[![2014-10-18_Vietnam_0036](https://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0036.jpg)](https://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0036.jpg)
 
 
 
@@ -68,7 +68,7 @@ tags:
 
 
 
-[![2014-10-18_Vietnam_0034](http://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0034.jpg)](http://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0034.jpg)
+[![2014-10-18_Vietnam_0034](https://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0034.jpg)](https://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0034.jpg)
 
 
 
@@ -84,7 +84,7 @@ tags:
 
 
 
-[![2014-10-18_Vietnam_0045](http://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0045.jpg)](http://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0045.jpg)
+[![2014-10-18_Vietnam_0045](https://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0045.jpg)](https://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0045.jpg)
 
 
 
@@ -98,7 +98,7 @@ tags:
 ## Фабрика по производству кокосовых конфет
 
 
-[![2014-10-18_Vietnam_0055](http://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0055.jpg)](http://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0055.jpg)
+[![2014-10-18_Vietnam_0055](https://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0055.jpg)](https://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0055.jpg)
 
 
 Фабрика это конечно очень громкое название этого места. Это небольшой навес, в котором находится чан в котором варят конфеты, и стол на котором рубят и вручную фасуют кокосовую сладость. Конфеты производят с разными вкусами, например дуриан или шоколад. Каждую конфету вручную заворачивают в кусочек рисовой бумаги. Эта бумага съедобная, поэтому можно не выковыривать подтаявшую конфету из фантика, есть ее прямо с ним. На вкус конфетки на любителя). Если у вас есть пломбы, то вы их можете мигом лишиться. Некоторые туристы прямо выплевывали эти конфеты, как по мне вкус своеобразный, но интересный.
@@ -106,7 +106,7 @@ tags:
 
 
 
-[![2014-10-18_Vietnam_0056](http://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0056.jpg)](http://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0056.jpg)
+[![2014-10-18_Vietnam_0056](https://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0056.jpg)](https://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0056.jpg)
 
 
 
@@ -116,7 +116,7 @@ tags:
 
 
 
-[![2014-10-18_Vietnam_0060](http://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0060.jpg)](http://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0060.jpg)
+[![2014-10-18_Vietnam_0060](https://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0060.jpg)](https://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0060.jpg)
 
 
 
@@ -143,7 +143,7 @@ tags:
 
 
 
-[![2014-10-18_Vietnam_0041](http://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0041.jpg)](http://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0041.jpg)
+[![2014-10-18_Vietnam_0041](https://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0041.jpg)](https://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0041.jpg)
 
 
 
@@ -152,7 +152,7 @@ tags:
 ## Остров с крокодилами
 
 
-[![2014-10-18_Vietnam_0072](http://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0072.jpg)](http://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0072.jpg)
+[![2014-10-18_Vietnam_0072](https://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0072.jpg)](https://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0072.jpg)
 
 
 В конечной точке предлагают обед. Обед входящий в стоимость экскурсии очень достойный. Но при желании можно заказать все что вам пожелается. В меню есть рыба слон - обитатель реки Меконг, личинки шелкопряда и еще много разнообразной пакости.
@@ -165,7 +165,7 @@ tags:
 
 
 
-[![2014-10-18_Vietnam_0065](http://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0065.jpg)](http://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0065.jpg)
+[![2014-10-18_Vietnam_0065](https://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0065.jpg)](https://anyway.today/wp-content/uploads/2015/05/2014-10-18_Vietnam_0065.jpg)
 
 
 
@@ -199,13 +199,13 @@ tags:
   * **подписаться на** [**E-mail**](https://feedburner.google.com/fb/a/mailverify?uri=Anywaytoday&amp;loc=en_US)
 
 	
-  * **наша группа** [**ВКонтакте**](http://vk.com/public90452188)
+  * **наша группа** [**ВКонтакте**](https://vk.com/public90452188)
 
 	
   * **наш [Twitter](https://twitter.com/TodayAnyway)**
 
 	
-  * **мы в [Одноклассниках](http://ok.ru/group/54402107244544)**
+  * **мы в [Одноклассниках](https://ok.ru/group/54402107244544)**
 
 
 
@@ -214,9 +214,9 @@ tags:
 
 
 **Рекомендованные отели в Хошимине**
-[Beautiful Saigon 3* - Хошимин](http://anyway.today/otzivi-ob-otele-beautiful-saigon-3/)
+[Beautiful Saigon 3* - Хошимин](https://anyway.today/otzivi-ob-otele-beautiful-saigon-3/)
 
-[Freedomland 1* - Хошимин](http://anyway.today/otzivi-ob-otelyh-vo-vietame-freedomland/)
+[Freedomland 1* - Хошимин](https://anyway.today/otzivi-ob-otelyh-vo-vietame-freedomland/)
 
 **Дешевые отели в Хошимине**
 

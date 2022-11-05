@@ -30,7 +30,7 @@ tags:
 ### Номера в отеле Arcadia Phu Quoc Resort
 
 
-[caption id="attachment_487" align="aligncenter" width="720"][![Бунгало в отеле Arcadia Phu Quoc Resort](http://anyway.today/wp-content/uploads/2015/01/2014-10-26_Vietnam_0648.jpg)](http://anyway.today/wp-content/uploads/2015/01/2014-10-26_Vietnam_0648.jpg) Бунгало в отеле Arcadia Phu Quoc Resort[/caption]
+[caption id="attachment_487" align="aligncenter" width="720"][![Бунгало в отеле Arcadia Phu Quoc Resort](https://anyway.today/wp-content/uploads/2015/01/2014-10-26_Vietnam_0648.jpg)](https://anyway.today/wp-content/uploads/2015/01/2014-10-26_Vietnam_0648.jpg) Бунгало в отеле Arcadia Phu Quoc Resort[/caption]
 
 
 
@@ -54,7 +54,7 @@ tags:
 ### Пляж отеля Arcadia Phu Quoc Resort
 
 
-[caption id="attachment_489" align="aligncenter" width="720"][![Пляж Long Beach на острове Фукуок](http://anyway.today/wp-content/uploads/2015/02/2014-10-27_Vietnam_0704.jpg)](http://anyway.today/wp-content/uploads/2015/02/2014-10-27_Vietnam_0704.jpg) Пляж Long Beach на острове Фукуок[/caption]
+[caption id="attachment_489" align="aligncenter" width="720"][![Пляж Long Beach на острове Фукуок](https://anyway.today/wp-content/uploads/2015/02/2014-10-27_Vietnam_0704.jpg)](https://anyway.today/wp-content/uploads/2015/02/2014-10-27_Vietnam_0704.jpg) Пляж Long Beach на острове Фукуок[/caption]
 
 
 
@@ -62,7 +62,7 @@ tags:
 Отель располагается на пляже Long Beach. Пляж изумительный. Чистейшая и теплая вода, полный штиль. У берега большое количество морских звезд, они судя по всему, безвредны. Дети их спокойно брали голыми руками.
 
 
-[caption id="attachment_488" align="aligncenter" width="720"][![Морские звезды. Пляж Long Beach на острове Фукуок.](http://anyway.today/wp-content/uploads/2015/02/2014-10-27_Vietnam_0697.jpg)](http://anyway.today/wp-content/uploads/2015/02/2014-10-27_Vietnam_0697.jpg) Морские звезды. Пляж Long Beach на острове Фукуок.[/caption]
+[caption id="attachment_488" align="aligncenter" width="720"][![Морские звезды. Пляж Long Beach на острове Фукуок.](https://anyway.today/wp-content/uploads/2015/02/2014-10-27_Vietnam_0697.jpg)](https://anyway.today/wp-content/uploads/2015/02/2014-10-27_Vietnam_0697.jpg) Морские звезды. Пляж Long Beach на острове Фукуок.[/caption]
 
 
 Пару раз по вечерам приносило к берегу мусор, всякие водоросли. Но персонал сразу очищал пляж. Так же уборку пляжа проводили каждое утро. Повторюсь, что мы отдыхали в конце октября, в межсезонье, поэтому на пляже было не сильно много лежаков и зонтиков. К нашему отъезду стали устанавливать дополнительные грибки. Персонал по началу не следил за лежаками, и постояльцем не всегда хватало мест. Но в конце, сотрудники взяли пляж под контроль. Арендовать лежак, можно было только за дополнительную плату. Мест стало сразу резко больше.

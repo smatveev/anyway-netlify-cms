@@ -16,7 +16,7 @@ tags:
 - Индонезия
 ---
 
-Фотографии балийского пляжа Дримланд (Dreamland) мы разглядывали еще собираясь на Бали. Мы хотели или остановиться на этом пляже или хотя бы заехать и посмотреть и искупаться на этом пляже. На [Джимбаране](http://anyway.today/plyaji_bali_djimbaran/) мы арендовали мотобайк и двинули по соседним пляжам. Первый пляж до которого мы добрались был именно Дримланд.
+Фотографии балийского пляжа Дримланд (Dreamland) мы разглядывали еще собираясь на Бали. Мы хотели или остановиться на этом пляже или хотя бы заехать и посмотреть и искупаться на этом пляже. На [Джимбаране](https://anyway.today/plyaji_bali_djimbaran/) мы арендовали мотобайк и двинули по соседним пляжам. Первый пляж до которого мы добрались был именно Дримланд.
 
 
 
@@ -37,7 +37,7 @@ tags:
 
 
 
-[caption id="attachment_1320" align="aligncenter" width="720"][![Вид на пляж Дримленд со скал](http://anyway.today/wp-content/uploads/2015/06/MG_9616.jpg)](http://anyway.today/wp-content/uploads/2015/06/MG_9616.jpg) Вид на пляж Дримленд со скал[/caption]
+[caption id="attachment_1320" align="aligncenter" width="720"][![Вид на пляж Дримленд со скал](https://anyway.today/wp-content/uploads/2015/06/MG_9616.jpg)](https://anyway.today/wp-content/uploads/2015/06/MG_9616.jpg) Вид на пляж Дримленд со скал[/caption]
 
 
 К сожалению это совсем не так. На Дримленде очень высокие волны и довольно серьезные течения. Именно за это он ценится у серферов.
@@ -45,9 +45,9 @@ tags:
 
 
 
-[caption id="attachment_1323" align="aligncenter" width="720"][![Типичный для Дримленд цвет флага ](http://anyway.today/wp-content/uploads/2015/07/MG_9337.jpg)](http://anyway.today/wp-content/uploads/2015/07/MG_9337.jpg) Типичный для Дримленд цвет флага[/caption]
+[caption id="attachment_1323" align="aligncenter" width="720"][![Типичный для Дримленд цвет флага ](https://anyway.today/wp-content/uploads/2015/07/MG_9337.jpg)](https://anyway.today/wp-content/uploads/2015/07/MG_9337.jpg) Типичный для Дримленд цвет флага[/caption]
 
-[caption id="attachment_1321" align="aligncenter" width="720"][![Волны на Дримленд, Бали](http://anyway.today/wp-content/uploads/2015/07/MG_9454.jpg)](http://anyway.today/wp-content/uploads/2015/07/MG_9454.jpg) Волны на Дримленд, Бали[/caption]
+[caption id="attachment_1321" align="aligncenter" width="720"][![Волны на Дримленд, Бали](https://anyway.today/wp-content/uploads/2015/07/MG_9454.jpg)](https://anyway.today/wp-content/uploads/2015/07/MG_9454.jpg) Волны на Дримленд, Бали[/caption]
 
 
 Но если вы неплохой пловец, и не планируете заходить далеко и глубоко, то при невысоких волнах можно вполне искупаться. За все время прибывания на Бали именно на Дримленде я искупалась с самым большим удовольствием.
@@ -55,7 +55,7 @@ tags:
 
 
 
-[caption id="attachment_1322" align="aligncenter" width="720"][![Дримланд - искупаться все таки можно](http://anyway.today/wp-content/uploads/2015/07/MG_9340.jpg)](http://anyway.today/wp-content/uploads/2015/07/MG_9340.jpg) Дримланд - искупаться все таки можно[/caption]
+[caption id="attachment_1322" align="aligncenter" width="720"][![Дримланд - искупаться все таки можно](https://anyway.today/wp-content/uploads/2015/07/MG_9340.jpg)](https://anyway.today/wp-content/uploads/2015/07/MG_9340.jpg) Дримланд - искупаться все таки можно[/caption]
 
 
 ## Инфраструктура на пляже  Дримленд
@@ -68,7 +68,7 @@ tags:
 
 
 
-[caption id="attachment_1324" align="aligncenter" width="720"][![Пляж Дримланд, Бали](http://anyway.today/wp-content/uploads/2015/07/MG_9339.jpg)](http://anyway.today/wp-content/uploads/2015/07/MG_9339.jpg) Пляж Дримланд, Бали[/caption]
+[caption id="attachment_1324" align="aligncenter" width="720"][![Пляж Дримланд, Бали](https://anyway.today/wp-content/uploads/2015/07/MG_9339.jpg)](https://anyway.today/wp-content/uploads/2015/07/MG_9339.jpg) Пляж Дримланд, Бали[/caption]
 
 
 ## Как добраться до пляжа Дримленд?
@@ -81,7 +81,7 @@ tags:
 
 
 
-Наш небольшой рейтинг [пляжей для купания на Бали](http://anyway.today/plyaji_dlya_kupaniya_na_bali/).
+Наш небольшой рейтинг [пляжей для купания на Бали](https://anyway.today/plyaji_dlya_kupaniya_na_bali/).
 
 
 **Если вам нравится наш блог и вы находите его в чем либо полезным для себя — вы всегда можете поддержать его оформив подписку на его новости:**
@@ -92,13 +92,13 @@ tags:
   * **подписаться на** [**E-mail**](https://feedburner.google.com/fb/a/mailverify?uri=Anywaytoday&amp;loc=en_US)
 
 	
-  * **наша группа** [**ВКонтакте**](http://vk.com/public90452188)
+  * **наша группа** [**ВКонтакте**](https://vk.com/public90452188)
 
 	
   * **наш [Twitter](https://twitter.com/TodayAnyway)**
 
 	
-  * **мы в [Одноклассниках](http://ok.ru/group/54402107244544)**
+  * **мы в [Одноклассниках](https://ok.ru/group/54402107244544)**
 
 
 

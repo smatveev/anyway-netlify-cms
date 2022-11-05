@@ -37,7 +37,7 @@ tags:
 #### Seafood
 
 
-[caption id="attachment_456" align="aligncenter" width="720"][![Улитки. Что попробовать во Вьетнаме](http://anyway.today/wp-content/uploads/2015/01/2014-10-19_Vietnam_0102-1024x683.jpg)](http://anyway.today/wp-content/uploads/2015/01/2014-10-19_Vietnam_0102.jpg) Seafood. Что попробовать во Вьетнаме[/caption]
+[caption id="attachment_456" align="aligncenter" width="720"][![Улитки. Что попробовать во Вьетнаме](https://anyway.today/wp-content/uploads/2015/01/2014-10-19_Vietnam_0102-1024x683.jpg)](https://anyway.today/wp-content/uploads/2015/01/2014-10-19_Vietnam_0102.jpg) Seafood. Что попробовать во Вьетнаме[/caption]
 
 
 
@@ -47,7 +47,7 @@ tags:
 #### Гребешки
 
 
-[caption id="attachment_461" align="aligncenter" width="724"][![Гребешки. Что попробовать во Вьетнаме](http://anyway.today/wp-content/uploads/2015/01/2014-10-26_Vietnam_0687-1024x683.jpg)](http://anyway.today/wp-content/uploads/2015/01/2014-10-26_Vietnam_0687.jpg) Гребешки. Что попробовать во Вьетнаме[/caption]
+[caption id="attachment_461" align="aligncenter" width="724"][![Гребешки. Что попробовать во Вьетнаме](https://anyway.today/wp-content/uploads/2015/01/2014-10-26_Vietnam_0687-1024x683.jpg)](https://anyway.today/wp-content/uploads/2015/01/2014-10-26_Vietnam_0687.jpg) Гребешки. Что попробовать во Вьетнаме[/caption]
 
 Нас очаровали морские гребешки на гриле. На Муй Не их подают просто с луковым соусом, а вот на острове Фукуок к гребешка подается свежий лук, орешки, по желанию соус чили. Гребешки на гриле получаются очень нежные и вкусные. Готовят их прямо сразу после заказа на открытом огне.
 
@@ -55,7 +55,7 @@ tags:
 #### Морской окунь
 
 
-[caption id="attachment_462" align="aligncenter" width="718"][![Морской окунь, Снаппер. Что попробовать во Вьетнаме](http://anyway.today/wp-content/uploads/2015/01/2014-10-26_Vietnam_0688-1024x683.jpg)](http://anyway.today/wp-content/uploads/2015/01/2014-10-26_Vietnam_0688.jpg) Морской окунь, Снаппер. Что попробовать во Вьетнаме[/caption]
+[caption id="attachment_462" align="aligncenter" width="718"][![Морской окунь, Снаппер. Что попробовать во Вьетнаме](https://anyway.today/wp-content/uploads/2015/01/2014-10-26_Vietnam_0688-1024x683.jpg)](https://anyway.today/wp-content/uploads/2015/01/2014-10-26_Vietnam_0688.jpg) Морской окунь, Снаппер. Что попробовать во Вьетнаме[/caption]
 
 Красный морской окунь или ред снаппер. Супер рыба. Белое легкое мясо. На гриле просто бесподобен. Лучшего снаппера мы ели  острове Фукуок. Готовят его очень быстро. Кидают на гриль, пять минут на огне и готово. Так как рыбу не передерживают на огне, она остается сочной.
 
@@ -70,7 +70,7 @@ tags:
 #### Улитки
 
 
-[caption id="attachment_471" align="aligncenter" width="640"][![Улитки. Что попробовать во Вьетнаме](http://anyway.today/wp-content/uploads/2015/01/2014-10-31_Vietnam_1035-1024x683.jpg)](http://anyway.today/wp-content/uploads/2015/01/2014-10-31_Vietnam_1035.jpg) Улитки. Что попробовать во Вьетнаме[/caption]
+[caption id="attachment_471" align="aligncenter" width="640"][![Улитки. Что попробовать во Вьетнаме](https://anyway.today/wp-content/uploads/2015/01/2014-10-31_Vietnam_1035-1024x683.jpg)](https://anyway.today/wp-content/uploads/2015/01/2014-10-31_Vietnam_1035.jpg) Улитки. Что попробовать во Вьетнаме[/caption]
 
 Не знаю как даже описать. Очень странный вкус, прямо таки скажем на любителя. Но попробовать нужно. С чем сравнить не знаю, только со вкусом улитки. Что то резиновое, тягучее.
 
@@ -78,7 +78,7 @@ tags:
 #### Морские ежики
 
 
-[caption id="attachment_469" align="aligncenter" width="640"][![Морские ежи. Что попробовать во Вьетнаме](http://anyway.today/wp-content/uploads/2015/01/2014-10-27_Vietnam_0739-1024x683.jpg)](http://anyway.today/wp-content/uploads/2015/01/2014-10-27_Vietnam_0739.jpg) Морские ежи. Что попробовать во Вьетнаме[/caption]
+[caption id="attachment_469" align="aligncenter" width="640"][![Морские ежи. Что попробовать во Вьетнаме](https://anyway.today/wp-content/uploads/2015/01/2014-10-27_Vietnam_0739-1024x683.jpg)](https://anyway.today/wp-content/uploads/2015/01/2014-10-27_Vietnam_0739.jpg) Морские ежи. Что попробовать во Вьетнаме[/caption]
 
 Морских ежей едят сырыми, а также их можно готовить на гриле. Я ко всему сырому отношусь предвзято. Заказали на гриле, возможно это и было нашей основной ошибкой. Получили просто пустые шкурки ежей с луковым соусом и орешками. Реально, есть в ежике нечего.
 
@@ -86,7 +86,7 @@ tags:
 #### Нечто с рожками
 
 
-[caption id="attachment_470" align="aligncenter" width="640"][![Нечто с рожками.  Что попробовать во Вьетнаме](http://anyway.today/wp-content/uploads/2015/01/2014-10-27_Vietnam_0742-1024x683.jpg)](http://anyway.today/wp-content/uploads/2015/01/2014-10-27_Vietnam_0742.jpg) Нечто с рожками. Что попробовать во Вьетнаме[/caption]
+[caption id="attachment_470" align="aligncenter" width="640"][![Нечто с рожками.  Что попробовать во Вьетнаме](https://anyway.today/wp-content/uploads/2015/01/2014-10-27_Vietnam_0742-1024x683.jpg)](https://anyway.today/wp-content/uploads/2015/01/2014-10-27_Vietnam_0742.jpg) Нечто с рожками. Что попробовать во Вьетнаме[/caption]
 
 Не знаю как это называется, такое вот нечто с рожками в раковине. Возможно, этого моллюска просто не умеют готовить, возможно, он и на самом деле он такой. Но прожевать это реально невозможно. Но один раз попробовать интересно.
 
@@ -94,7 +94,7 @@ tags:
 #### Крокодил
 
 
-[caption id="attachment_457" align="aligncenter" width="640"][![Крокодил.  Что попробовать во Вьетнаме](http://anyway.today/wp-content/uploads/2015/01/2014-10-21_Vietnam_0262-1024x683.jpg)](http://anyway.today/wp-content/uploads/2015/01/2014-10-21_Vietnam_0262.jpg) Крокодил. Что попробовать во Вьетнаме[/caption]
+[caption id="attachment_457" align="aligncenter" width="640"][![Крокодил.  Что попробовать во Вьетнаме](https://anyway.today/wp-content/uploads/2015/01/2014-10-21_Vietnam_0262-1024x683.jpg)](https://anyway.today/wp-content/uploads/2015/01/2014-10-21_Vietnam_0262.jpg) Крокодил. Что попробовать во Вьетнаме[/caption]
 
 Из мяса крокодила делают жаркое, суп, котлеты. В идеале самое вкусное место это хвост. Его то, традиционно и едят.
 
@@ -102,7 +102,7 @@ tags:
 #### Лягушки
 
 
-[caption id="attachment_458" align="aligncenter" width="640"][![Лягушки.  Что попробовать во Вьетнаме](http://anyway.today/wp-content/uploads/2015/01/2014-10-21_Vietnam_0263-1024x683.jpg)](http://anyway.today/wp-content/uploads/2015/01/2014-10-21_Vietnam_0263.jpg) Лягушки. Что попробовать во Вьетнаме[/caption]
+[caption id="attachment_458" align="aligncenter" width="640"][![Лягушки.  Что попробовать во Вьетнаме](https://anyway.today/wp-content/uploads/2015/01/2014-10-21_Vietnam_0263-1024x683.jpg)](https://anyway.today/wp-content/uploads/2015/01/2014-10-21_Vietnam_0263.jpg) Лягушки. Что попробовать во Вьетнаме[/caption]
 
 Муж давно мечтал отведать лягушек. Мечта сбылась. Как много везде, пишут похоже на курицу, только кушать почти  нечего. Главное попросите, что бы обязательно снимали с лягушки кожу. Иначе это есть невозможно.
 
@@ -122,7 +122,7 @@ tags:
 ### Суп Фо
 
 
-[caption id="attachment_472" align="aligncenter" width="640"][![Суп Фо. Что попробовать во Вьетнаме](http://anyway.today/wp-content/uploads/2015/01/2014-11-02_Vietnam_1080-1024x683.jpg)](http://anyway.today/wp-content/uploads/2015/01/2014-11-02_Vietnam_1080.jpg) Суп Фо. Что попробовать во Вьетнаме[/caption]
+[caption id="attachment_472" align="aligncenter" width="640"][![Суп Фо. Что попробовать во Вьетнаме](https://anyway.today/wp-content/uploads/2015/01/2014-11-02_Vietnam_1080-1024x683.jpg)](https://anyway.today/wp-content/uploads/2015/01/2014-11-02_Vietnam_1080.jpg) Суп Фо. Что попробовать во Вьетнаме[/caption]
 
 
 Знаменитый суп Фо заслуживает отдельного внимания. Мимо этого блюда пройти никак нельзя. Этот суп бывает с говядиной, морепродуктами, а так же с курицей. Подается всегда с ростками сои, травами, лаймом и перцем чили. А дальше собери сам на свой вкус. Вкус просто незабываемый. Размер тарелок невообразимый. На мой взгляд подают примерно два литра супа в одной тарелке. Сами вьетнамцы его очень любят. Место где попробовать этот суп надо тщательно выбирать. Я бы не рекомендовала его есть на Муй Не или Фукуоке. Лучше провести дегустацию в Хошимине. Есть места, в которых кроме этого супа ничего не подают. Вот именно туда и следует отправляться снимать пробу. Большое количество местных в таких местах - есть признак вкусного Фо. Рекомендую обязательно попробовать это блюдо.

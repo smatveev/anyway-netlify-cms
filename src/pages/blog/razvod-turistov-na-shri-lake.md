@@ -24,7 +24,7 @@ tags:
 
 
 
-[caption id="" align="aligncenter" width="640"][![Развод туристов на Шри Ланке](http://anyway.today/wp-content/uploads/2014/03/2013-11-23_15-55-Sri-Lanka-441.jpg)](http://anyway.today/wp-content/uploads/2014/03/2013-11-23_15-55-Sri-Lanka-441.jpg) Развод туристов на Шри Ланке[/caption]
+[caption id="" align="aligncenter" width="640"][![Развод туристов на Шри Ланке](https://anyway.today/wp-content/uploads/2014/03/2013-11-23_15-55-Sri-Lanka-441.jpg)](https://anyway.today/wp-content/uploads/2014/03/2013-11-23_15-55-Sri-Lanka-441.jpg) Развод туристов на Шри Ланке[/caption]
 
 <!-- more -->
 
@@ -60,7 +60,7 @@ tags:
 ### **Шри Ланка тук-тук**
 
 
-[caption id="" align="aligncenter" width="640"]![Развод туристов на Шри Ланке](http://anyway.today/wp-content/uploads/2014/03/2013-11-23_20-03-Sri-Lanka-627.jpg) Развод туристов на Шри Ланке[/caption]
+[caption id="" align="aligncenter" width="640"]![Развод туристов на Шри Ланке](https://anyway.today/wp-content/uploads/2014/03/2013-11-23_20-03-Sri-Lanka-627.jpg) Развод туристов на Шри Ланке[/caption]
 
 
 
@@ -86,7 +86,7 @@ tags:
 **
 
 
-[caption id="" align="aligncenter" width="426"]![Развод туристов на Шри Ланке](http://anyway.today/wp-content/uploads/2014/03/2013-11-24_16-30-Sri-Lanka-888.jpg) Развод туристов на Шри Ланке[/caption]
+[caption id="" align="aligncenter" width="426"]![Развод туристов на Шри Ланке](https://anyway.today/wp-content/uploads/2014/03/2013-11-24_16-30-Sri-Lanka-888.jpg) Развод туристов на Шри Ланке[/caption]
 
 
 

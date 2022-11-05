@@ -74,7 +74,7 @@ tags:
 ## Башни Чамов Тап Пошану
 
 
-[caption id="attachment_1027" align="aligncenter" width="720"][![Башни Чамов, Муйне](http://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_04581.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_04581.jpg) Башни Чамов, Муйне[/caption]
+[caption id="attachment_1027" align="aligncenter" width="720"][![Башни Чамов, Муйне](https://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_04581.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_04581.jpg) Башни Чамов, Муйне[/caption]
 
 
 Башни Чамов это единственная историческая достопримечательность на Муйне. Представляет из себя остаток из трех башен от некогда большого храмового комплекс. Храм посвящен богу Шиве. Около этих башен вьетнамцы проводят зрелищные фестивали и массовые гулянья. Рыбаки  просят хорошего улова и спокойного моря.
@@ -87,7 +87,7 @@ tags:
 
 
 
-К башням очень просто добраться находятся рядом с Муйне, что делает их еще более популярными у туристов. Как добраться до Башен Чамов и какие там проходят фестивали мы подробно описали в статье "[Достопримечательности Муйне: Башни Чамов Тап Пошану](http://anyway.today/dostoprimechatelnosti-muine-bashni-chamov)".
+К башням очень просто добраться находятся рядом с Муйне, что делает их еще более популярными у туристов. Как добраться до Башен Чамов и какие там проходят фестивали мы подробно описали в статье "[Достопримечательности Муйне: Башни Чамов Тап Пошану](https://anyway.today/dostoprimechatelnosti-muine-bashni-chamov)".
 
 
 
@@ -96,7 +96,7 @@ tags:
 ## Ручей Фей или Fairy Stream
 
 
-[caption id="attachment_966" align="aligncenter" width="720"][![Ручей Фей, Вьетнам](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0281.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0281.jpg) Ручей Фей, Вьетнам[/caption]
+[caption id="attachment_966" align="aligncenter" width="720"][![Ручей Фей, Вьетнам](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0281.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0281.jpg) Ручей Фей, Вьетнам[/caption]
 
 
 Ручей Фей относится к природным красотам Муйне. Как говорят все путеводители: "_Это место где вы сможете соприкоснуться с природой Вьетнама._" Действительно прогулка по Ручью Фей приносит не только свежесть и прохладу, но и дает возможность красоты вьетнамской природы.
@@ -104,7 +104,7 @@ tags:
 
 
 
-Основной плюс этой достопримечательности в том, что она находится в самой деревне Муйне. Добраться до нее можно на мотобайке или вовсе пешком. Как найти Ручей Фей можно прочитать в статье [тут](http://anyway.today/dostoprimechatelnosti-muine-ruchei-fei/).
+Основной плюс этой достопримечательности в том, что она находится в самой деревне Муйне. Добраться до нее можно на мотобайке или вовсе пешком. Как найти Ручей Фей можно прочитать в статье [тут](https://anyway.today/dostoprimechatelnosti-muine-ruchei-fei/).
 
 
 
@@ -113,15 +113,15 @@ tags:
 ## Рыбацкая деревня Муйне - смотровая площадка
 
 
-[caption id="attachment_958" align="aligncenter" width="720"][![Рыбацкая деревня, Муйне](http://anyway.today/wp-content/uploads/2015/04/2014-10-20_Vietnam_0117.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-20_Vietnam_0117.jpg) Рыбацкая деревня, Муйне[/caption]
+[caption id="attachment_958" align="aligncenter" width="720"][![Рыбацкая деревня, Муйне](https://anyway.today/wp-content/uploads/2015/04/2014-10-20_Vietnam_0117.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-20_Vietnam_0117.jpg) Рыбацкая деревня, Муйне[/caption]
 
 
-Смотровая площадка в рыбацкой деревне Муйне, как по мне, позволяет увидеть самую необычную для нашего глаза панораму. То есть, [Ручей Фей](http://anyway.today/dostoprimechatelnosti-muine-ruchei-fei/)  на самом деле просто красивый ручей и не более. [Красные ](http://anyway.today/dostoprimechatelnosti-v-muine-krasnie-duni)и [Белые Дюны](http://anyway.today/dostoprimechatelnosti-v-muine-belie-duni-i-ozero-lotosov/)  это пески, по сути мини пустыни, которые более величественны в том же Египте. А вот вид открывающийся со смотровой характерен только для Вьетнама. Где еще можно увидеть в одном мести сотни голубых и зеленоватых лодок. Очень и очень красивое место.
+Смотровая площадка в рыбацкой деревне Муйне, как по мне, позволяет увидеть самую необычную для нашего глаза панораму. То есть, [Ручей Фей](https://anyway.today/dostoprimechatelnosti-muine-ruchei-fei/)  на самом деле просто красивый ручей и не более. [Красные ](https://anyway.today/dostoprimechatelnosti-v-muine-krasnie-duni)и [Белые Дюны](https://anyway.today/dostoprimechatelnosti-v-muine-belie-duni-i-ozero-lotosov/)  это пески, по сути мини пустыни, которые более величественны в том же Египте. А вот вид открывающийся со смотровой характерен только для Вьетнама. Где еще можно увидеть в одном мести сотни голубых и зеленоватых лодок. Очень и очень красивое место.
 
 
 
 
-Добраться до рыбацкой деревни достаточно легко, если вы на [мотобайке и](http://anyway.today/arenda-motobaika-vo-vietname/)ли на велосипеде. Дойти пешком уже сложнее, но при желании выполнимо. Более подробно о рыбацкой деревне можно прочитать [тут](http://anyway.today/dostoprimechatelnosti-v-muine-krasnie-duni).
+Добраться до рыбацкой деревни достаточно легко, если вы на [мотобайке и](https://anyway.today/arenda-motobaika-vo-vietname/)ли на велосипеде. Дойти пешком уже сложнее, но при желании выполнимо. Более подробно о рыбацкой деревне можно прочитать [тут](https://anyway.today/dostoprimechatelnosti-v-muine-krasnie-duni).
 
 
 
@@ -130,10 +130,10 @@ tags:
 ## Красные Дюны, Муйне
 
 
-[caption id="attachment_957" align="aligncenter" width="720"][![Красные Дюны, Муйне, Вьетнам](http://anyway.today/wp-content/uploads/2015/04/2014-10-20_Vietnam_0165.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-20_Vietnam_0165.jpg) Красные дюны, Вьетнам[/caption]
+[caption id="attachment_957" align="aligncenter" width="720"][![Красные Дюны, Муйне, Вьетнам](https://anyway.today/wp-content/uploads/2015/04/2014-10-20_Vietnam_0165.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-20_Vietnam_0165.jpg) Красные дюны, Вьетнам[/caption]
 
 
-Красные Дюны находятся на выезде из деревни Муйне. Это такая мини пустыня с красным и розовым песком. Местные будут предлагать свои услуги в качестве гидов, не отказывайтесь. Они не только покажут вам самые красивые виды. Но и покатают вас по песку на санках. Слетать на санках с горы песка, очень увлекательное занятие. Думаю в детстве многие пытались такое проворачивать да взрослые ругали. А тут безнаказанно, да и кучи песка поболее чем у нас во дворах.  Подробнее о Красных Дюнах можно прочитать [тут](http://anyway.today/dostoprimechatelnosti-v-muine-krasnie-duni).
+Красные Дюны находятся на выезде из деревни Муйне. Это такая мини пустыня с красным и розовым песком. Местные будут предлагать свои услуги в качестве гидов, не отказывайтесь. Они не только покажут вам самые красивые виды. Но и покатают вас по песку на санках. Слетать на санках с горы песка, очень увлекательное занятие. Думаю в детстве многие пытались такое проворачивать да взрослые ругали. А тут безнаказанно, да и кучи песка поболее чем у нас во дворах.  Подробнее о Красных Дюнах можно прочитать [тут](https://anyway.today/dostoprimechatelnosti-v-muine-krasnie-duni).
 
 
 
@@ -149,7 +149,7 @@ tags:
 
 
 
-[caption id="attachment_923" align="aligncenter" width="720"][![Белые Дюны во Вьетнаме, Муйне](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0330.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0330.jpg) Белые Дюны во Вьетнаме, Муйне[/caption]
+[caption id="attachment_923" align="aligncenter" width="720"][![Белые Дюны во Вьетнаме, Муйне](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0330.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0330.jpg) Белые Дюны во Вьетнаме, Муйне[/caption]
 
 
 Белые Дюны это тоже небольшая пустыня из белоснежного мелкого песка. Голубое небо, белые пески и тут же рядом голубое озеро создают очень впечатляющий вид. При желании по дюнам можно погонять на квадроциклах. Но после 30 километров на мотобайке, у нас такого желания не возникло.
@@ -157,7 +157,7 @@ tags:
 
 
 
-[caption id="attachment_922" align="aligncenter" width="720"][![Озеро лотосов, вьетнам, муйне](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0322.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0322.jpg) Озеро лотосов[/caption]
+[caption id="attachment_922" align="aligncenter" width="720"][![Озеро лотосов, вьетнам, муйне](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0322.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-22_Vietnam_0322.jpg) Озеро лотосов[/caption]
 
 
 Логично предположить, что на Озере Лотосов произрастает очень много лотосов)).  Нам немного не повезло, и лотосы в большинстве своем были засохшими. Но если повезет с погодой, думаю, что зрелище должно быть завораживающим.
@@ -165,7 +165,7 @@ tags:
 
 
 
-[caption id="attachment_914" align="aligncenter" width="720"][![Красный Каньон, достопримечательности Муйне, Вьетнам](http://anyway.today/wp-content/uploads/2015/04/2014-10-21_Vietnam_0201.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-21_Vietnam_0201.jpg) Красный каньон[/caption]
+[caption id="attachment_914" align="aligncenter" width="720"][![Красный Каньон, достопримечательности Муйне, Вьетнам](https://anyway.today/wp-content/uploads/2015/04/2014-10-21_Vietnam_0201.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-21_Vietnam_0201.jpg) Красный каньон[/caption]
 
 
 Красный Каньон это тоже пример вьетнамской природы. На мотобайке его можно просто проскочить, он кажется довольно невзрачным. Но остановиться и прогуляться по каньону стоит, ближе к морю он становится все выше и красивее.
@@ -173,7 +173,7 @@ tags:
 
 
 
-Более подробно о Белых Дюнах, озерах и каньоне мы написали в статье "[Достопримечательности Муйне: Белые дюны, Озеро Лотосов, Красный Каньон](http://anyway.today/dostoprimechatelnosti-v-muine-belie-duni-i-ozero-lotosov/)".
+Более подробно о Белых Дюнах, озерах и каньоне мы написали в статье "[Достопримечательности Муйне: Белые дюны, Озеро Лотосов, Красный Каньон](https://anyway.today/dostoprimechatelnosti-v-muine-belie-duni-i-ozero-lotosov/)".
 
 
 
@@ -195,13 +195,13 @@ tags:
   * **подписаться на** [**E-mail**](https://feedburner.google.com/fb/a/mailverify?uri=Anywaytoday&amp;loc=en_US)
 
  	
-  * **наша группа** [**ВКонтакте**](http://vk.com/public90452188)
+  * **наша группа** [**ВКонтакте**](https://vk.com/public90452188)
 
  	
   * **наш [Twitter](https://twitter.com/TodayAnyway)**
 
  	
-  * **мы в [Одноклассниках](http://ok.ru/group/54402107244544)**
+  * **мы в [Одноклассниках](https://ok.ru/group/54402107244544)**
 
 
 

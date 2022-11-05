@@ -19,7 +19,7 @@ tags:
 - Остров Фукуок
 ---
 
-Во время подготовки к путешествию на Фукуок  мы перелопатили массу информации.  Очень часто в сети встречалось мнение что на это острове заняться то особо и не чем. Отличное место для пляжного отдыха  и не более. Как я уже писала раннее, на Фукуоке, как всегда в туристической зоне, предлагают массу различных [экскурсий](http://anyway.today/kakie-est-excursii-na-ostrove-fukuok). Все тоже самое и больше можно посетить самостоятельно. Выбирать как осмотреть достопримечательности Фукуока, с экскурсией или самостоятельно только вам. Узнать цены и купить экскурсии по Вьетнаму вы можете по [ссылке](https://c11.travelpayouts.com/click?shmarker=14510.dostPhukok&promo_id=652&source_type=customlink&type=click&custom_url=https%3A%2F%2Fexperience.tripster.ru%2Fdestinations%2Fvietnam%2F).
+Во время подготовки к путешествию на Фукуок  мы перелопатили массу информации.  Очень часто в сети встречалось мнение что на это острове заняться то особо и не чем. Отличное место для пляжного отдыха  и не более. Как я уже писала раннее, на Фукуоке, как всегда в туристической зоне, предлагают массу различных [экскурсий](https://anyway.today/kakie-est-excursii-na-ostrove-fukuok). Все тоже самое и больше можно посетить самостоятельно. Выбирать как осмотреть достопримечательности Фукуока, с экскурсией или самостоятельно только вам. Узнать цены и купить экскурсии по Вьетнаму вы можете по [ссылке](https://c11.travelpayouts.com/click?shmarker=14510.dostPhukok&promo_id=652&source_type=customlink&type=click&custom_url=https%3A%2F%2Fexperience.tripster.ru%2Fdestinations%2Fvietnam%2F).
 
 
 
@@ -44,10 +44,10 @@ tags:
 ## Пляж Бай Сао
 
 
-[caption id="attachment_757" align="aligncenter" width="720"][![Достопримечательности на Фукуоке](http://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0762.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0762.jpg) Пляж Бай Сао[/caption]
+[caption id="attachment_757" align="aligncenter" width="720"][![Достопримечательности на Фукуоке](https://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0762.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0762.jpg) Пляж Бай Сао[/caption]
 
 
-В южной части острова находится пляж Бай Сао. Он считается самым красивым на  острове.  Пляж находится в небольшой бухте. В центральной части пляжа отличный песочный берег.  По краям бухты много живописных камней. Чем то отдаленно этот пляж напоминает [сейшельские пляжи](http://anyway.today/la-dig-seisheli/).  На берегу все облагорожено, есть лежаки с зонтиками. Вокруг есть кафе где можно как просто перекусить, так и полноценно покушать.  Есть стоянка для [мотобайков](https://anyway.today/arenda-baikov-online/). Найти пляж достаточно просто, надо ехать по центральной дороге на юг. И потом по указателям свернуть налево.  Мы немного заплутали и проехали поворот. Но любой местный вам без проблем кажет верное направление.
+В южной части острова находится пляж Бай Сао. Он считается самым красивым на  острове.  Пляж находится в небольшой бухте. В центральной части пляжа отличный песочный берег.  По краям бухты много живописных камней. Чем то отдаленно этот пляж напоминает [сейшельские пляжи](https://anyway.today/la-dig-seisheli/).  На берегу все облагорожено, есть лежаки с зонтиками. Вокруг есть кафе где можно как просто перекусить, так и полноценно покушать.  Есть стоянка для [мотобайков](https://anyway.today/arenda-baikov-online/). Найти пляж достаточно просто, надо ехать по центральной дороге на юг. И потом по указателям свернуть налево.  Мы немного заплутали и проехали поворот. Но любой местный вам без проблем кажет верное направление.
 
 
 
@@ -56,7 +56,7 @@ tags:
 ## Кокосовая тюрьма
 
 
-[caption id="attachment_758" align="aligncenter" width="720"][![достопримечательности Фукуока](http://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0798.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0798.jpg) Кокосовая тюрьма[/caption]
+[caption id="attachment_758" align="aligncenter" width="720"][![достопримечательности Фукуока](https://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0798.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0798.jpg) Кокосовая тюрьма[/caption]
 
 
 Кокосовая тюрьма сейчас уже история, а в прошлом это было самое ужасное место на острове. Эта тюрьма  была построена французскими колонизаторами, а во время войны во Вьетнаме американцы использовали её как концлагерь, где пытали и уничтожали тысячи людей. В своё время территория этого места занимала площадь в почти что 40 гектар. Место, скажем прямо, очень мрачное. Но является неотъемлемой историей вьетнамцев. Сейчас кое какие бараки восстановлены, сделаны различные композиции показывающие ужасы тех лет.
@@ -64,7 +64,7 @@ tags:
 
 
 
-[caption id="attachment_759" align="aligncenter" width="720"][![достопримечательности Фукуока](http://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0803.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0803.jpg) Кокосовая тюрьма[/caption]
+[caption id="attachment_759" align="aligncenter" width="720"][![достопримечательности Фукуока](https://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0803.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0803.jpg) Кокосовая тюрьма[/caption]
 
 
 Открыта кокосовая тюрьма строго по расписанию каждый день кроме понедельника с 07-30 до 11-00 и с 13-30 до 17-00. Так что планируя поездку стоит это учитывать. Нам говорили, что для посещения музея надо покупать билет. Но по факту, вход бесплатный для всех желающих. При желании, можно оставить деньги в ящике для сбора пожертвований на входе музея.
@@ -77,7 +77,7 @@ tags:
 
 
 
-[caption id="attachment_760" align="aligncenter" width="720"][![достопримечательности Фукуока](http://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0778.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0778.jpg) Монумент памяти погибшим в Кокосовой тюрьме[/caption]
+[caption id="attachment_760" align="aligncenter" width="720"][![достопримечательности Фукуока](https://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0778.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-28_Vietnam_0778.jpg) Монумент памяти погибшим в Кокосовой тюрьме[/caption]
 
 
 Там же рядом располагается военное училище. Мы сначала решили, что это и есть музей, охранник на входе указал нам верное направление.
@@ -89,7 +89,7 @@ tags:
 ## Государственный заповедник Фукуока
 
 
-[caption id="attachment_761" align="aligncenter" width="720"][![достопримечательности Фукуока](http://anyway.today/wp-content/uploads/2015/03/2014-10-29_Vietnam_0923.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-29_Vietnam_0923.jpg) Государственный заповедник на острове Фукуок[/caption]
+[caption id="attachment_761" align="aligncenter" width="720"][![достопримечательности Фукуока](https://anyway.today/wp-content/uploads/2015/03/2014-10-29_Vietnam_0923.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-29_Vietnam_0923.jpg) Государственный заповедник на острове Фукуок[/caption]
 
 
  Вход в государственный заповедник Фукуока бесплатный. За мотобайком присмотрят за совершенно символическую оплату в 5000 донгов. На входе заповедника много красивых скульптур отлитых из бетона.
@@ -97,7 +97,7 @@ tags:
 
 
 
-[caption id="attachment_762" align="aligncenter" width="720"][![достопримечательности Фукуока](http://anyway.today/wp-content/uploads/2015/03/2014-10-29_Vietnam_0917.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-29_Vietnam_0917.jpg) Государственный заповедник на Острове Фукуок[/caption]
+[caption id="attachment_762" align="aligncenter" width="720"][![достопримечательности Фукуока](https://anyway.today/wp-content/uploads/2015/03/2014-10-29_Vietnam_0917.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-29_Vietnam_0917.jpg) Государственный заповедник на Острове Фукуок[/caption]
 
 
 Но не это привлекает. Пройдя дальше за искусственные красоты, попадаешь почти в настоящий лес. Прогулка идет вверх вдоль реки стекающей по крупным камням. В конце пути предстает настоящий водопад. Можно искупаться в водопаде, сделать интересные фото.
@@ -105,7 +105,7 @@ tags:
 
 
 
-[caption id="attachment_763" align="aligncenter" width="720"][![достопримечательности Фукуока](http://anyway.today/wp-content/uploads/2015/03/2014-10-29_Vietnam_0876.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-29_Vietnam_0876.jpg) Водопад в национальном заповеднике на Фукуоке[/caption]
+[caption id="attachment_763" align="aligncenter" width="720"][![достопримечательности Фукуока](https://anyway.today/wp-content/uploads/2015/03/2014-10-29_Vietnam_0876.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-29_Vietnam_0876.jpg) Водопад в национальном заповеднике на Фукуоке[/caption]
 
 
 Так же есть тропка позволяющая подняться на вершину водопада. Нам посещение заповедника принесло очень большое удовольствие. Во первых это прохлада в жаркий день, а во-вторых возможность поплескаться в пресной воде.
@@ -117,7 +117,7 @@ tags:
 ## Ночной рынок
 
 
-[caption id="attachment_764" align="aligncenter" width="720"][![достопримечательности Фукуока](http://anyway.today/wp-content/uploads/2015/03/2014-10-27_Vietnam_0737.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-27_Vietnam_0737.jpg) Ночной рынок на острове Фукуок[/caption]
+[caption id="attachment_764" align="aligncenter" width="720"][![достопримечательности Фукуока](https://anyway.today/wp-content/uploads/2015/03/2014-10-27_Vietnam_0737.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-27_Vietnam_0737.jpg) Ночной рынок на острове Фукуок[/caption]
 
 
 Многие говорят, что это единственное развлечение на Фукуоке. С чем я конечно, не согласна. Ночной рынок начинает свою работу около пяти часов вечера, ведь на то он и ночной. На рынке много разных кафе предлагающих отведать самую неведомую морскую живность.
@@ -125,7 +125,7 @@ tags:
 
 
 
-[caption id="attachment_765" align="aligncenter" width="720"][![достопримечательности Фукуока](http://anyway.today/wp-content/uploads/2015/03/2014-10-27_Vietnam_0717.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-27_Vietnam_0717.jpg) Ночной рынок на острове Фукуок[/caption]
+[caption id="attachment_765" align="aligncenter" width="720"][![достопримечательности Фукуока](https://anyway.today/wp-content/uploads/2015/03/2014-10-27_Vietnam_0717.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-27_Vietnam_0717.jpg) Ночной рынок на острове Фукуок[/caption]
 
 
 Любую выбранную вами рыбу тут же готовят на гриле. Я несколько раз сталкивалась с мнением, что ночном рынке дешевые продукты. Я с этим полностью не согласна, цены выше и иногда намного чем в любой обычной кафешке. Качество приготовленных блюд мне тоже не особо понравилось. Сказывается спешка и желание завлечь как можно больше клиентов. Все готовится без каких либо затей. В общем, пойти прогуляться посмотреть на огромные лодки с морепродуктами, на аквариумы с неведомыми рыбками.
@@ -133,7 +133,7 @@ tags:
 
 
 
-[caption id="attachment_766" align="aligncenter" width="720"][![достопримечательности Фукуока](http://anyway.today/wp-content/uploads/2015/03/2014-10-27_Vietnam_0723.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-27_Vietnam_0723.jpg) Оказывается, это тоже едят...[/caption]
+[caption id="attachment_766" align="aligncenter" width="720"][![достопримечательности Фукуока](https://anyway.today/wp-content/uploads/2015/03/2014-10-27_Vietnam_0723.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-27_Vietnam_0723.jpg) Оказывается, это тоже едят...[/caption]
 
 
 Обязательно отужинать там. И не более. На острове масса мест где готовят намного вкуснее и обстановка не антисанитарная. Это не шутка, на рынке действительно анти санитария. На случай отравления, нужно [купить туристическую страховку](https://anyway.today/zachem-nujna-turisticheskaya-medizinskay-strahovka/).
@@ -150,7 +150,7 @@ tags:
 ## Кафе с видом на Камбоджу
 
 
-[caption id="attachment_767" align="aligncenter" width="720"][![достопримечательности Фукуока](http://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_0982.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_0982.jpg) Кафе с видом на границу с Камбоджей[/caption]
+[caption id="attachment_767" align="aligncenter" width="720"][![достопримечательности Фукуока](https://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_0982.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_0982.jpg) Кафе с видом на границу с Камбоджей[/caption]
 
 
 С берега на самом севере острова можно увидеть Камбоджу. Не сказать, что такое вот захватывающее зрелище, на Фукуоке почти везде красота. Но в этом есть определенная романтика. Проделав путешествие на мотобайке в северную часть острова очень здорово остановиться и передохнуть в этом месте. Подают традиционно свежие морепродукты, вьетнамский кофе со льдом или безо льда. Сидишь отдыхаешь, ешь море продукты и понимаешь что видишь не много ни мало, а соседнюю страну - Камбоджу.
@@ -158,13 +158,13 @@ tags:
 
 
 
-[caption id="attachment_768" align="aligncenter" width="720"][![достопримечательности Фукуока](http://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_0968.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_0968.jpg) Вид на границу с Камбоджей[/caption]
+[caption id="attachment_768" align="aligncenter" width="720"][![достопримечательности Фукуока](https://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_0968.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_0968.jpg) Вид на границу с Камбоджей[/caption]
 
 
 ## Город Дуонг-Донг
 
 
-[caption id="attachment_769" align="aligncenter" width="720"][![достопримечательности Фукуока](http://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_1009.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_1009.jpg) Город Дуонг Дуонг[/caption]
+[caption id="attachment_769" align="aligncenter" width="720"][![достопримечательности Фукуока](https://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_1009.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_1009.jpg) Город Дуонг Дуонг[/caption]
 
 
 Нам показалось очень интересным прокатиться просто по городу Дуонг-Донг. По дороге попадались небольшие рынки с фруктами.
@@ -172,7 +172,7 @@ tags:
 
 
 
-[caption id="attachment_771" align="aligncenter" width="720"][![достопримечательности Фукуока](http://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_1012.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_1012.jpg) Фруктовый рынок[/caption]
+[caption id="attachment_771" align="aligncenter" width="720"][![достопримечательности Фукуока](https://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_1012.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_1012.jpg) Фруктовый рынок[/caption]
 
 
 Очень красивые и характерные для Вьетнама рыбацкие лодки. Мы увидели вьетнамские мотомойки.
@@ -180,7 +180,7 @@ tags:
 
 
 
-[caption id="attachment_770" align="aligncenter" width="720"][![достопримечательности Фукуока](http://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_1007.jpg)](http://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_1007.jpg) Мотомойка в Дуонг Донге[/caption]
+[caption id="attachment_770" align="aligncenter" width="720"][![достопримечательности Фукуока](https://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_1007.jpg)](https://anyway.today/wp-content/uploads/2015/03/2014-10-30_Vietnam_1007.jpg) Мотомойка в Дуонг Донге[/caption]
 
 
 Довелось проехать по невероятно узким улочкам, я бы даже сказала щелям. Все это очень интересно и позволяет увидеть настоящую жизнь и быт  вьетнамцев, которые очень сильно отличаются от нашей с вами повседневной жизни.

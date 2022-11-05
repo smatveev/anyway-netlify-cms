@@ -48,15 +48,15 @@ tags:
 
 
 
-[caption id="attachment_2357" align="aligncenter" width="988"][![Перелет Москва Фукуок](https://anyway.today/wp-content/uploads/2016/09/Москва-Фукуок.png)](http://www.aviasales.ru/route/MOW/PQC/?marker=14510.gidViet) Перелет Москва Фукуок[/caption]
+[caption id="attachment_2357" align="aligncenter" width="988"][![Перелет Москва Фукуок](https://anyway.today/wp-content/uploads/2016/09/Москва-Фукуок.png)](https://www.aviasales.ru/route/MOW/PQC/?marker=14510.gidViet) Перелет Москва Фукуок[/caption]
 
 А теперь, альтернативный вариант. Рассмотрим те же даты, только теперь будем искать перелет [tp_link origin=MOW destination=SGN text_link="Москва - Хошимин" origin_date=1 destination_date=12 one_way=false type=1 subid="gidViet"], стоимость перелета 28 774 рубля.
 
-[caption id="attachment_2356" align="aligncenter" width="984"][![Перелет Москва Хошимин](https://anyway.today/wp-content/uploads/2016/09/Москва-Хошимин.png)](http://www.aviasales.ru/route/MOW/SGN/?marker=14510.gidViet) Перелет Москва Хошимин[/caption]
+[caption id="attachment_2356" align="aligncenter" width="984"][![Перелет Москва Хошимин](https://anyway.today/wp-content/uploads/2016/09/Москва-Хошимин.png)](https://www.aviasales.ru/route/MOW/SGN/?marker=14510.gidViet) Перелет Москва Хошимин[/caption]
 
 И теперь ищем внутренний перелет [tp_link origin=SGN destination=PQC text_link="Хошимин - Фукуок" origin_date=1 destination_date=12 one_way=false type=1 subid="gidViet"].
 
-[caption id="attachment_2358" align="aligncenter" width="987"][![Внутренний перелет Хошимин Фукуок](https://anyway.today/wp-content/uploads/2016/09/Хошимин-Фукуок.png)](http://www.aviasales.ru/route/SGN/PQC/?marker=14510) Внутренний перелет Хошимин Фукуок[/caption]
+[caption id="attachment_2358" align="aligncenter" width="987"][![Внутренний перелет Хошимин Фукуок](https://anyway.today/wp-content/uploads/2016/09/Хошимин-Фукуок.png)](https://www.aviasales.ru/route/SGN/PQC/?marker=14510) Внутренний перелет Хошимин Фукуок[/caption]
 
 
 Стоимость гуманная, всего 2 374. Итого путешествие обошлось вам 31 148 рублей против начальной стоимости 40 375 рублей. Выгода очевидна, учитывайте эту особенность при планировании самостоятельной поездки во Вьетнам.
@@ -116,7 +116,7 @@ tags:
 
 
 
-Официального требования всем туристам оформлять туристическую страховку для поездки во Вьетнам нет. Но непривычная еда, езда на мотобайке потенциально могут быть опасны для вашего здоровья. Так, например, на Фукуоке мы упали с мотобайка. По этому я бы рекомендовала, для любой поездки заграницу приобретать [страховку](http://c24.travelpayouts.com/click?shmarker=14510&promo_id=519&source_type=link&type=click). Более подробно о нашем опыте использования страховки можно прочитать в статье "[Зачем нужна туристическая медицинская страховка?](https://anyway.today/zachem-nujna-turisticheskaya-medizinskay-strahovka/)".
+Официального требования всем туристам оформлять туристическую страховку для поездки во Вьетнам нет. Но непривычная еда, езда на мотобайке потенциально могут быть опасны для вашего здоровья. Так, например, на Фукуоке мы упали с мотобайка. По этому я бы рекомендовала, для любой поездки заграницу приобретать [страховку](https://c24.travelpayouts.com/click?shmarker=14510&promo_id=519&source_type=link&type=click). Более подробно о нашем опыте использования страховки можно прочитать в статье "[Зачем нужна туристическая медицинская страховка?](https://anyway.today/zachem-nujna-turisticheskaya-medizinskay-strahovka/)".
 
 
 

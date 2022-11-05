@@ -184,10 +184,10 @@ tags:
 
 
  	
-  * [http://www.phuketspace.com/](http://www.phuketspace.com/rawai-studio-apartments.htm)
+  * [https://www.phuketspace.com/](https://www.phuketspace.com/rawai-studio-apartments.htm)
 
  	
-  * [http://housebuddy.net](http://housebuddy.net)
+  * [https://housebuddy.net](https://housebuddy.net)
 
 
 

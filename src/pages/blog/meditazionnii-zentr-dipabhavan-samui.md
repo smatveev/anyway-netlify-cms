@@ -215,7 +215,7 @@ tags:
 
 Из Бангкока лучше отправиться на Самуи каким нибудь наземным транспортом.
 
-Самый удобный способ предлагает компания Lomprayah, это [единый билет на автобус плюс паром до острова Самуи](http://c44.travelpayouts.com/click?shmarker=14510.retrit&promo_id=1305&source_type=customlink&type=click&custom_url=https%3A%2F%2F12go.asia%2Fru%2Ftravel%2Fbangkok%2Fkoh-samui%3Fdate%3D2017-04-24).  Компания перевозчик Lomprayah предлагает хорошие новые комфортабельные автобусы и скоростной паром. Время в пути составит 14 часов, но и цена будет гораздо ниже перелета - примерно 2300 с человека. Расстояние которое придется преодолеть приблизительно  475 км. Так же, единый билет можно купить на [поезд+автобус+паром](http://c44.travelpayouts.com/click?shmarker=14510.retrit&promo_id=1305&source_type=customlink&type=click&custom_url=https%3A%2F%2F12go.asia%2Fru%2Ftravel%2Fbangkok%2Fkoh-samui%3Fdate%3D2017-04-24). Время в пути составит порядка 18 часов, зато в поезде можно удобно спать. Отзывы о тайских поезда самые положительные.
+Самый удобный способ предлагает компания Lomprayah, это [единый билет на автобус плюс паром до острова Самуи](https://c44.travelpayouts.com/click?shmarker=14510.retrit&promo_id=1305&source_type=customlink&type=click&custom_url=https%3A%2F%2F12go.asia%2Fru%2Ftravel%2Fbangkok%2Fkoh-samui%3Fdate%3D2017-04-24).  Компания перевозчик Lomprayah предлагает хорошие новые комфортабельные автобусы и скоростной паром. Время в пути составит 14 часов, но и цена будет гораздо ниже перелета - примерно 2300 с человека. Расстояние которое придется преодолеть приблизительно  475 км. Так же, единый билет можно купить на [поезд+автобус+паром](https://c44.travelpayouts.com/click?shmarker=14510.retrit&promo_id=1305&source_type=customlink&type=click&custom_url=https%3A%2F%2F12go.asia%2Fru%2Ftravel%2Fbangkok%2Fkoh-samui%3Fdate%3D2017-04-24). Время в пути составит порядка 18 часов, зато в поезде можно удобно спать. Отзывы о тайских поезда самые положительные.
 
 
 
@@ -226,7 +226,7 @@ tags:
 
 
 
-Из аэропорта [tp_link origin=HKT destination=USM text_link="Пхукета на Самуи" origin_date=1 destination_date=12 one_way=false type=1 subid="retret"] есть прямые рейсы. Но такие перелеты достаточно дорогие, как и в случае с Бангкоком тут лучше воспользоваться другим транспортом. [С острова Пхукет добраться до Самуи](http://c44.travelpayouts.com/click?shmarker=14510.retrit&promo_id=1305&source_type=customlink&type=click&custom_url=https%3A%2F%2F12go.asia%2Fru%2Ftravel%2Fphuket%2Fkoh-samui%3Fdate%3D2017-05-19) можно при помощи двух транспортных компаний Phantip 1970 и Lomprayaрh. Эти две компании предлагают единый билет на автобус и паром. Цены у Phantip 1970 ниже, но и сами автобусы  и паром похуже, чем у Lomprayaрh. В обоих случаях время в пути будет приблизительно 7 часов.
+Из аэропорта [tp_link origin=HKT destination=USM text_link="Пхукета на Самуи" origin_date=1 destination_date=12 one_way=false type=1 subid="retret"] есть прямые рейсы. Но такие перелеты достаточно дорогие, как и в случае с Бангкоком тут лучше воспользоваться другим транспортом. [С острова Пхукет добраться до Самуи](https://c44.travelpayouts.com/click?shmarker=14510.retrit&promo_id=1305&source_type=customlink&type=click&custom_url=https%3A%2F%2F12go.asia%2Fru%2Ftravel%2Fphuket%2Fkoh-samui%3Fdate%3D2017-05-19) можно при помощи двух транспортных компаний Phantip 1970 и Lomprayaрh. Эти две компании предлагают единый билет на автобус и паром. Цены у Phantip 1970 ниже, но и сами автобусы  и паром похуже, чем у Lomprayaрh. В обоих случаях время в пути будет приблизительно 7 часов.
 
 
 
@@ -238,7 +238,7 @@ tags:
 
 
 
-Самостоятельно добраться до медитационного центра сложно, по причине того, что он находится в горах острова Самуи. Поэтому сотрудники центра предоставляют трансфер в центр из определенной точки сбора.  Это отель «[tp_link hotel_id="hotelId=421652" text_link="Utopia Resort" check_in=1 check_out=12 type=2 subid="retrit"]» («[tp_link hotel_id="hotelId=421652" text_link="Утопия Резорт" check_in=1 check_out=12 type=2 subid="retrit"]») на пляже Lamai (Ламай).  Трансфер бесплатен. Подробную инструкцию как добраться до центра из аэропорта и обоих пирсов Самуи можно посмотреть на [сайте медитационного центра](http://ru.dipabhavan.org/105010721082-107610861073108810721090110010891103.html).
+Самостоятельно добраться до медитационного центра сложно, по причине того, что он находится в горах острова Самуи. Поэтому сотрудники центра предоставляют трансфер в центр из определенной точки сбора.  Это отель «[tp_link hotel_id="hotelId=421652" text_link="Utopia Resort" check_in=1 check_out=12 type=2 subid="retrit"]» («[tp_link hotel_id="hotelId=421652" text_link="Утопия Резорт" check_in=1 check_out=12 type=2 subid="retrit"]») на пляже Lamai (Ламай).  Трансфер бесплатен. Подробную инструкцию как добраться до центра из аэропорта и обоих пирсов Самуи можно посмотреть на [сайте медитационного центра](https://ru.dipabhavan.org/105010721082-107610861073108810721090110010891103.html).
 
 
 Сохранить

@@ -17,7 +17,7 @@ tags:
 - Что привезти из Вьетнама
 ---
 
-**Что хорошего можно купить в Хошимине**? Как я уже писала ранее, во Вьетнаме очень много различной сувенирной продукции. В каждом регионе Вьетнама можно купить что то особенное. И**[з Далата можно привезти отличный вьетнамский кофе](http://anyway.today/chto-privezti-iz-vietnаma-gde-luchshe-pokupat-vietnamskii-kofe).  **На Муй Не продают красивые изделия из **[крокодиловой кожи](%20http://anyway.today/chto-privezti-izvietnama-muine/)** и **[одежду из бамбука](%20http://anyway.today/chto-privezti-izvietnama-muine/)**. А на острове Фукуок **[хороший жемчуг](http://anyway.today/chto-privezti-iz-vietnama-fukuok) **и очень **[ароматные специи](http://anyway.today/chto-privezti-iz-vietnama-fukuok)**. Что же можно купить в Хошимине? И что мы привезли из Хошимина домой?
+**Что хорошего можно купить в Хошимине**? Как я уже писала ранее, во Вьетнаме очень много различной сувенирной продукции. В каждом регионе Вьетнама можно купить что то особенное. И**[з Далата можно привезти отличный вьетнамский кофе](https://anyway.today/chto-privezti-iz-vietnаma-gde-luchshe-pokupat-vietnamskii-kofe).  **На Муй Не продают красивые изделия из **[крокодиловой кожи](%20https://anyway.today/chto-privezti-izvietnama-muine/)** и **[одежду из бамбука](%20https://anyway.today/chto-privezti-izvietnama-muine/)**. А на острове Фукуок **[хороший жемчуг](https://anyway.today/chto-privezti-iz-vietnama-fukuok) **и очень **[ароматные специи](https://anyway.today/chto-privezti-iz-vietnama-fukuok)**. Что же можно купить в Хошимине? И что мы привезли из Хошимина домой?
 
 
 <!-- more -->
@@ -33,7 +33,7 @@ tags:
 
 
 
-[caption id="attachment_599" align="aligncenter" width="777"][![Что привезти из Хошимина? Что купить в Хошимине?](http://anyway.today/wp-content/uploads/2015/02/album-vietnam-1024x610.jpg)](http://anyway.today/wp-content/uploads/2015/02/album-vietnam.jpg) Лаковый альбом из Вьетнама[/caption]
+[caption id="attachment_599" align="aligncenter" width="777"][![Что привезти из Хошимина? Что купить в Хошимине?](https://anyway.today/wp-content/uploads/2015/02/album-vietnam-1024x610.jpg)](https://anyway.today/wp-content/uploads/2015/02/album-vietnam.jpg) Лаковый альбом из Вьетнама[/caption]
 
 
 ## Сувенирка, магнитики и брелки
@@ -41,7 +41,7 @@ tags:
 
 Сувенирка мне тоже понравилась больше в Хошимине. В местных лавочках их целые залежи. Цены на Муй Не. И магниты, по-моему мнению более креативные.
 
-[caption id="attachment_601" align="aligncenter" width="720"][![Что привезти из Вьетнама? Что купить в Хошимине?](http://anyway.today/wp-content/uploads/2015/02/MG_7200.jpg)](http://anyway.today/wp-content/uploads/2015/02/MG_7200.jpg) Что привезти из Вьетнама? Магнитики и брелки[/caption]
+[caption id="attachment_601" align="aligncenter" width="720"][![Что привезти из Вьетнама? Что купить в Хошимине?](https://anyway.today/wp-content/uploads/2015/02/MG_7200.jpg)](https://anyway.today/wp-content/uploads/2015/02/MG_7200.jpg) Что привезти из Вьетнама? Магнитики и брелки[/caption]
 
 Почти везде в ларьках стоят сувенирные бутылочки змеевки. Возможно посещали мы не те места, но годных к употреблению экземпляров мы не нашли. Если только на рынке Бен Тхань.
 
@@ -51,7 +51,7 @@ tags:
 
 
 
-Вдоль улицы масса магазинов с чаем и вьетнамским кофе. Но тут уже вы вряд ли найдете  тот же лювак, который так популярен на [Муй Не](http://anyway.today/chto-privezti-iz-vietnаma-gde-luchshe-pokupat-vietnamskii-kofe).  Вьетнамцы даже не понимают, что такое лювак и спрашивать про этот кофе бесполезно. Но на рынке Бен Тхань вам могут предложить этот лювак.
+Вдоль улицы масса магазинов с чаем и вьетнамским кофе. Но тут уже вы вряд ли найдете  тот же лювак, который так популярен на [Муй Не](https://anyway.today/chto-privezti-iz-vietnаma-gde-luchshe-pokupat-vietnamskii-kofe).  Вьетнамцы даже не понимают, что такое лювак и спрашивать про этот кофе бесполезно. Но на рынке Бен Тхань вам могут предложить этот лювак.
 
 
 
@@ -67,13 +67,13 @@ tags:
 
 
 
-[caption id="attachment_604" align="aligncenter" width="721"][![Что привезти из Вьетнама? Что купить в Хошимине?](http://anyway.today/wp-content/uploads/2015/02/sumki-crumpler-1024x768.jpg)](http://anyway.today/wp-content/uploads/2015/02/sumki-crumpler.jpg) Что привезти из Вьетнама? Что купить в Хошимине?[/caption]
+[caption id="attachment_604" align="aligncenter" width="721"][![Что привезти из Вьетнама? Что купить в Хошимине?](https://anyway.today/wp-content/uploads/2015/02/sumki-crumpler-1024x768.jpg)](https://anyway.today/wp-content/uploads/2015/02/sumki-crumpler.jpg) Что привезти из Вьетнама? Что купить в Хошимине?[/caption]
 
 
 ## Оригинальные кроксы
 
 
-[caption id="attachment_606" align="aligncenter" width="600"][![Что привезти из Вьетнама? Что купить в Хошимине?](http://anyway.today/wp-content/uploads/2015/02/croksi.jpg)](http://anyway.today/wp-content/uploads/2015/02/croksi.jpg) Что привезти из Вьетнама?[/caption]
+[caption id="attachment_606" align="aligncenter" width="600"][![Что привезти из Вьетнама? Что купить в Хошимине?](https://anyway.today/wp-content/uploads/2015/02/croksi.jpg)](https://anyway.today/wp-content/uploads/2015/02/croksi.jpg) Что привезти из Вьетнама?[/caption]
 
 
 Еще Вьетнам является родиной кроксов. Да да, этих удобных и страшных на вид тапочек. Всегда думала, что кроксы это только вот эти тапки. На самом деле, во Вьетнаме можно найти красивые лодочки из каучука, резные босоножки и всякие другие оригинальные туфли. Но цены на обувь этой фирмы ничем не отличаются от московских.

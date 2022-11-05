@@ -31,7 +31,7 @@ tags:
 <tbody >
 <tr >
 
-<td style="text-align: center;" >[![Экскурсии из Шарм эль Шейха](http://anyway.today/wp-content/uploads/2014/06/0_ac45e_c355bc1f_orig.jpg)](http://anyway.today/wp-content/uploads/2014/06/0_ac45e_c355bc1f_orig.jpg)
+<td style="text-align: center;" >[![Экскурсии из Шарм эль Шейха](https://anyway.today/wp-content/uploads/2014/06/0_ac45e_c355bc1f_orig.jpg)](https://anyway.today/wp-content/uploads/2014/06/0_ac45e_c355bc1f_orig.jpg)
 </td>
 </tr>
 <tr >
@@ -51,7 +51,7 @@ tags:
 <tbody >
 <tr >
 
-<td style="text-align: center;" >[![Экскурсии из Шарм эль Шейха, заповедник Рас-Мохаммед](http://anyway.today/wp-content/uploads/2014/06/0_ac56c_6c488b11_orig.jpg)](http://anyway.today/wp-content/uploads/2014/06/0_ac56c_6c488b11_orig.jpg)
+<td style="text-align: center;" >[![Экскурсии из Шарм эль Шейха, заповедник Рас-Мохаммед](https://anyway.today/wp-content/uploads/2014/06/0_ac56c_6c488b11_orig.jpg)](https://anyway.today/wp-content/uploads/2014/06/0_ac56c_6c488b11_orig.jpg)
 </td>
 </tr>
 <tr >
@@ -66,7 +66,7 @@ tags:
 <tbody >
 <tr >
 
-<td style="text-align: center;" >[![Экскурсии из Шарм эль Шейха, Цветной каньон](http://anyway.today/wp-content/uploads/2014/06/0_ac4b7_c3f030d0_orig.jpg)](http://anyway.today/wp-content/uploads/2014/06/0_ac4b7_c3f030d0_orig.jpg)
+<td style="text-align: center;" >[![Экскурсии из Шарм эль Шейха, Цветной каньон](https://anyway.today/wp-content/uploads/2014/06/0_ac4b7_c3f030d0_orig.jpg)](https://anyway.today/wp-content/uploads/2014/06/0_ac4b7_c3f030d0_orig.jpg)
 </td>
 </tr>
 <tr >
@@ -89,7 +89,7 @@ tags:
 <tbody >
 <tr >
 
-<td style="text-align: center;" >[![Экскурсии из Шарм эль Шейха, квадроциклы](http://anyway.today/wp-content/uploads/2014/06/0_ac5c8_3c1afc53_orig.jpg)](http://anyway.today/wp-content/uploads/2014/06/0_ac5c8_3c1afc53_orig.jpg)
+<td style="text-align: center;" >[![Экскурсии из Шарм эль Шейха, квадроциклы](https://anyway.today/wp-content/uploads/2014/06/0_ac5c8_3c1afc53_orig.jpg)](https://anyway.today/wp-content/uploads/2014/06/0_ac5c8_3c1afc53_orig.jpg)
 </td>
 </tr>
 <tr >
@@ -104,7 +104,7 @@ tags:
 <tbody >
 <tr >
 
-<td style="text-align: center;" >[![Экскурсии из Шарм эль Шейха в Израиль](http://anyway.today/wp-content/uploads/2014/06/0_ac61c_99a4e5ee_orig1.jpg)](http://anyway.today/wp-content/uploads/2014/06/0_ac61c_99a4e5ee_orig1.jpg)
+<td style="text-align: center;" >[![Экскурсии из Шарм эль Шейха в Израиль](https://anyway.today/wp-content/uploads/2014/06/0_ac61c_99a4e5ee_orig1.jpg)](https://anyway.today/wp-content/uploads/2014/06/0_ac61c_99a4e5ee_orig1.jpg)
 </td>
 </tr>
 <tr >

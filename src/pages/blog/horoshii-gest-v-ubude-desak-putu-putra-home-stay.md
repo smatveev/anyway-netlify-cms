@@ -47,15 +47,15 @@ tags:
 Как таковой территории в гесте нет. Она очень маленькая. Зато вся утопает в зелени и традиционных для Убуда статуях. Номер в гесте очень просторный и чистый. Хотя и слегка потрепанный.
 
 
-[caption id="attachment_1232" align="aligncenter" width="720"][![Номер в Desak Putu Putra](http://anyway.today/wp-content/uploads/2015/06/IMG_8419.jpg)](http://anyway.today/wp-content/uploads/2015/06/IMG_8419.jpg) Номер в Desak Putu Putra[/caption]
+[caption id="attachment_1232" align="aligncenter" width="720"][![Номер в Desak Putu Putra](https://anyway.today/wp-content/uploads/2015/06/IMG_8419.jpg)](https://anyway.today/wp-content/uploads/2015/06/IMG_8419.jpg) Номер в Desak Putu Putra[/caption]
 
-[caption id="attachment_1233" align="aligncenter" width="720"][![Номер в Desak Putu Putra](http://anyway.today/wp-content/uploads/2015/06/MG_8417.jpg)](http://anyway.today/wp-content/uploads/2015/06/MG_8417.jpg) Номер в Desak Putu Putra[/caption]
+[caption id="attachment_1233" align="aligncenter" width="720"][![Номер в Desak Putu Putra](https://anyway.today/wp-content/uploads/2015/06/MG_8417.jpg)](https://anyway.today/wp-content/uploads/2015/06/MG_8417.jpg) Номер в Desak Putu Putra[/caption]
 
 
 В номере есть кондиционер, представлены все необходимые банные принадлежности. Так же на этаже есть общий холодильник.  Так же в наличии горячая вода. Но с ней есть явная проблема, скорее всего плохо настроены водонагреватели. Вода либо прохладная, либо конкретный кипяток. Так что приходилось всячески подстраиваться под такие особенности душа.
 
 
-[caption id="attachment_1234" align="aligncenter" width="720"][![Душевая](http://anyway.today/wp-content/uploads/2015/06/MG_8424.jpg)](http://anyway.today/wp-content/uploads/2015/06/MG_8424.jpg) Душевая[/caption]
+[caption id="attachment_1234" align="aligncenter" width="720"][![Душевая](https://anyway.today/wp-content/uploads/2015/06/MG_8424.jpg)](https://anyway.today/wp-content/uploads/2015/06/MG_8424.jpg) Душевая[/caption]
 
 
 Уборка номера ежедневная, моют полы, заправляют постель. Белье за три дня нам не меняли. Полотенца меняют если их бросить на пол. Если полотенце будет висеть на вешалке его точно не заменят.
@@ -63,7 +63,7 @@ tags:
 Еще одна замечательная особенность номера, это большая терраса перед номером. Вся терраса утопает в зелени и цветах. На террасе есть стол и и две кушетки. Тут отлично отдыхать вечером и завтракать утром.
 
 
-[caption id="attachment_1235" align="aligncenter" width="717"][![Терраса](http://anyway.today/wp-content/uploads/2015/06/MG_8421.jpg)](http://anyway.today/wp-content/uploads/2015/06/MG_8421.jpg) Терраса[/caption]
+[caption id="attachment_1235" align="aligncenter" width="717"][![Терраса](https://anyway.today/wp-content/uploads/2015/06/MG_8421.jpg)](https://anyway.today/wp-content/uploads/2015/06/MG_8421.jpg) Терраса[/caption]
 
 
 ## Завтраки в гестхаусе Desak Putu Putra Home Stay
@@ -90,13 +90,13 @@ tags:
     * подписаться на [E-mail](https://feedburner.google.com/fb/a/mailverify?uri=Anywaytoday&amp;loc=en_US)
 
 	
-    * наша группа [ВКонтакте](http://vk.com/public90452188)
+    * наша группа [ВКонтакте](https://vk.com/public90452188)
 
 	
     * наш [Twitter](https://twitter.com/TodayAnyway)
 
 	
-    * мы в [Одноклассниках](http://ok.ru/group/54402107244544)
+    * мы в [Одноклассниках](https://ok.ru/group/54402107244544)
 
 
 

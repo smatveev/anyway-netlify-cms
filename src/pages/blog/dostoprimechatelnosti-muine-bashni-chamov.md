@@ -56,7 +56,7 @@ tags:
 
 
 
-[caption id="attachment_1029" align="aligncenter" width="720"][![Башни Чамов, Муйне](http://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0420.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0420.jpg) Проехав мимо башен[/caption]
+[caption id="attachment_1029" align="aligncenter" width="720"][![Башни Чамов, Муйне](https://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0420.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0420.jpg) Проехав мимо башен[/caption]
 
 
 Но перед башнями на возвышении, мы приметили, какой то яркий золотой храм.  Мы поднялись туда, и как оказалось совсем не зря. На момент нашего пребывания в Муйне, этот храм находился в стадии  то ли стройки, то ли реставрации. Но выглядел очень красиво.
@@ -64,11 +64,11 @@ tags:
 
 
 
-[caption id="attachment_1030" align="aligncenter" width="720"][![Башни Чамов, Муйне](http://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0434.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0434.jpg) Храм по дороге к Башням[/caption]
+[caption id="attachment_1030" align="aligncenter" width="720"][![Башни Чамов, Муйне](https://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0434.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0434.jpg) Храм по дороге к Башням[/caption]
 
-[caption id="attachment_1031" align="aligncenter" width="720"][![Башни Чамов, Муйне](http://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0422.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0422.jpg) По дороге к башням Чамов[/caption]
+[caption id="attachment_1031" align="aligncenter" width="720"][![Башни Чамов, Муйне](https://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0422.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0422.jpg) По дороге к башням Чамов[/caption]
 
-[caption id="attachment_1032" align="aligncenter" width="720"][![Башни Чамов, Муйне](http://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0435.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0435.jpg) По дороге к башням[/caption]
+[caption id="attachment_1032" align="aligncenter" width="720"][![Башни Чамов, Муйне](https://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0435.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0435.jpg) По дороге к башням[/caption]
 
 
 За символичные деньги нам разрешили войти во внутрь. Да и вокруг, мы мы смогли сделать много интересных фото.  Если надумаете посмотреть Башни Чамов, то заезжайте в этот храм, точно не пожалеете. Найти его очень легко, он виден прямо с дороги по левой стороне, если ехать из Муйне.
@@ -76,7 +76,7 @@ tags:
 
 
 
-[caption id="attachment_1033" align="aligncenter" width="720"][![Башни Чамов, Муйне](http://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0431.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0431.jpg) Скульптуры ждут своей очереди[/caption]
+[caption id="attachment_1033" align="aligncenter" width="720"][![Башни Чамов, Муйне](https://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0431.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0431.jpg) Скульптуры ждут своей очереди[/caption]
 
 
 ## Где припарковать байк и стоимость входа на Башни Чамов
@@ -84,7 +84,7 @@ tags:
 
 
 
-Вход на территории где расположены Башни Чамов платный. Но стоимость, как и во многих местах во Вьетнаме, чисто символическая, всего 5000 донгов. В эту сумму входит [стоимость парковки мотобайка](http://anyway.today/arenda-motobaika-vo-vietname/). Оставлять байк можно смело, за ним обязательно присмотрят. Мы отправились к башням 23 октября, оказалось что именно в эти даты около башен проходило какое то празднество, входя  на территорию во время праздников был абсолютно  бесплатный для всех без исключения.
+Вход на территории где расположены Башни Чамов платный. Но стоимость, как и во многих местах во Вьетнаме, чисто символическая, всего 5000 донгов. В эту сумму входит [стоимость парковки мотобайка](https://anyway.today/arenda-motobaika-vo-vietname/). Оставлять байк можно смело, за ним обязательно присмотрят. Мы отправились к башням 23 октября, оказалось что именно в эти даты около башен проходило какое то празднество, входя  на территорию во время праздников был абсолютно  бесплатный для всех без исключения.
 
 
 
@@ -123,7 +123,7 @@ tags:
 
 
 
-[caption id="attachment_1034" align="aligncenter" width="720"][![Башни Чамов, Муйне](http://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0459.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0459.jpg) Башни Чамов, Муйне[/caption]
+[caption id="attachment_1034" align="aligncenter" width="720"][![Башни Чамов, Муйне](https://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0459.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0459.jpg) Башни Чамов, Муйне[/caption]
 
 
 Башни Чамов располагаются на очень большом возвышении. С этого возвышения открываются отличные виды на Фантьет и на Муйне.  Если подняться еще намного выше, то вы найдете монумент посвященный независимости Вьетнама.
@@ -131,7 +131,7 @@ tags:
 
 
 
-[caption id="attachment_1035" align="aligncenter" width="720"][![Башни Чамов, Муйне](http://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0450.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0450.jpg) Монумент, Башни Чамов[/caption]
+[caption id="attachment_1035" align="aligncenter" width="720"][![Башни Чамов, Муйне](https://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0450.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0450.jpg) Монумент, Башни Чамов[/caption]
 
 
 Война с Америкой для вьетнамцев очень больная тема, и различные памятные знаки широко распространены по всей стране.
@@ -139,7 +139,7 @@ tags:
 
 
 
-[caption id="attachment_1036" align="aligncenter" width="720"][![Башни Чамов, Муйне](http://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0451.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0451.jpg) Подпись у монумента[/caption]
+[caption id="attachment_1036" align="aligncenter" width="720"][![Башни Чамов, Муйне](https://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0451.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0451.jpg) Подпись у монумента[/caption]
 
 
 Если подняться на самый пик можно найти старые укрепления. Несколько комнат и башня. Вход в башню открыт. Но лестницы внутри нее нет никакой, да и сама она внутри ничем не примечательна. Зато с этой точки открываются еще более красивые виды на Муйне и город Фантьет.
@@ -147,9 +147,9 @@ tags:
 
 
 
-[caption id="attachment_1037" align="aligncenter" width="720"][![Башни Чамов, Муйне](http://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0452.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0452.jpg) Укрепления и башня[/caption]
+[caption id="attachment_1037" align="aligncenter" width="720"][![Башни Чамов, Муйне](https://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0452.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0452.jpg) Укрепления и башня[/caption]
 
-[caption id="attachment_1038" align="aligncenter" width="720"][![Башни Чамов, Муйне](http://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0454.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0454.jpg) Башня внутри[/caption]
+[caption id="attachment_1038" align="aligncenter" width="720"][![Башни Чамов, Муйне](https://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0454.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0454.jpg) Башня внутри[/caption]
 
 
 На выходе из этого парка, как обычно, расположились лавочки с сувенирами. Фотоателье, где можно примерить традиционные вьетнамские костюмы и сделать пару фото на память. Фотоателье пользуется широким успехом у публики,   мы то и дело встречали европейцев наряженных в костюмы.
@@ -168,7 +168,7 @@ tags:
 
 
 
-[caption id="attachment_1039" align="aligncenter" width="478"][![Башни Чамов, Муйне](http://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0439.jpg)](http://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0439.jpg) Башни Чамов, Муйне[/caption]
+[caption id="attachment_1039" align="aligncenter" width="478"][![Башни Чамов, Муйне](https://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0439.jpg)](https://anyway.today/wp-content/uploads/2015/04/2014-10-23_Vietnam_0439.jpg) Башни Чамов, Муйне[/caption]
 
 **P. S. Если вам нравится наш блог и вы находите его в чем либо полезным для себя — вы всегда можете поддержать его оформив подписку на его новости:**
 
@@ -178,13 +178,13 @@ tags:
   * **подписаться на** [**E-mail**](https://feedburner.google.com/fb/a/mailverify?uri=Anywaytoday&amp;loc=en_US)
 
 	
-  * **наша группа** [**ВКонтакте**](http://vk.com/public90452188)
+  * **наша группа** [**ВКонтакте**](https://vk.com/public90452188)
 
 	
   * **наш [Twitter](https://twitter.com/TodayAnyway)**
 
 	
-  * **мы в [Одноклассниках](http://ok.ru/group/54402107244544)**
+  * **мы в [Одноклассниках](https://ok.ru/group/54402107244544)**
 
 
 Дешевые авиабилеты Москва - Хошимин

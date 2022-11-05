@@ -15,7 +15,7 @@ tags:
 - Пхукет
 ---
 
-Остров Пхукет фактически отделен от материка узким каналом через который перекинут небольшой мост. Несмотря на то, что большинство туристов прибывают на Пхукет на самолете или автомобиле, от острова и на остров постоянно ходят паромы. Паромы, например, соединяют Пхукет и острова[ Пхи Пхи Дон](http://c44.travelpayouts.com/click?shmarker=14510.ferriesPhuket&promo_id=1305&source_type=customlink&type=click&custom_url=https%3A%2F%2F12go.asia%2Fru%2Ftravel%2Fphuket%2Fkoh-phi-phi), [Краби](http://c44.travelpayouts.com/click?shmarker=14510.ferriesPhuket&promo_id=1305&source_type=customlink&type=click&custom_url=https%3A%2F%2F12go.asia%2Fru%2Ftravel%2Fphuket%2Fkrabi).
+Остров Пхукет фактически отделен от материка узким каналом через который перекинут небольшой мост. Несмотря на то, что большинство туристов прибывают на Пхукет на самолете или автомобиле, от острова и на остров постоянно ходят паромы. Паромы, например, соединяют Пхукет и острова[ Пхи Пхи Дон](https://c44.travelpayouts.com/click?shmarker=14510.ferriesPhuket&promo_id=1305&source_type=customlink&type=click&custom_url=https%3A%2F%2F12go.asia%2Fru%2Ftravel%2Fphuket%2Fkoh-phi-phi), [Краби](https://c44.travelpayouts.com/click?shmarker=14510.ferriesPhuket&promo_id=1305&source_type=customlink&type=click&custom_url=https%3A%2F%2F12go.asia%2Fru%2Ftravel%2Fphuket%2Fkrabi).
 
 
 
@@ -38,7 +38,7 @@ tags:
 
 
 
-Уточнить расписание паромов и сориентироваться по стоимости билетов вы можете воспользовавшись формой поиска ниже или ссылкой - [расписание паромов](http://c44.travelpayouts.com/click?shmarker=14510.ferriesPhuket&promo_id=1305&source_type=customlink&type=click&custom_url=https%3A%2F%2F12go.asia%2Fru).
+Уточнить расписание паромов и сориентироваться по стоимости билетов вы можете воспользовавшись формой поиска ниже или ссылкой - [расписание паромов](https://c44.travelpayouts.com/click?shmarker=14510.ferriesPhuket&promo_id=1305&source_type=customlink&type=click&custom_url=https%3A%2F%2F12go.asia%2Fru).
 
 
 
@@ -69,7 +69,7 @@ tags:
 
 
 
-Паромы на Пхи Пхи отправляются ежедневно. В среднем, дорога займет до 2х с половиной часов. По большей части все будет зависеть от погодных условий. Расстояние от Пхукета до Пхи Пхи составляет 45 км. На данный момент есть 8 отправлений в день с острова Пхукет.  Первый рейс отправляется в 08:00, самый последний – в 15:00. В зависимости от времени в пути стоимость билета на паром варьируется от 600 до 800 бат за человека. Подробное расписание движения паромов с Острова Пхукет на Пхи Пхи, а так же стоимость билетов и наличие мест можно посмотреть по этой [ссылке](http://c44.travelpayouts.com/click?shmarker=14510.ferriesPhuket&promo_id=1305&source_type=customlink&type=click&custom_url=https%3A%2F%2F12go.asia%2Fru%2Ftravel%2Fphuket%2Fkoh-phi-phi).
+Паромы на Пхи Пхи отправляются ежедневно. В среднем, дорога займет до 2х с половиной часов. По большей части все будет зависеть от погодных условий. Расстояние от Пхукета до Пхи Пхи составляет 45 км. На данный момент есть 8 отправлений в день с острова Пхукет.  Первый рейс отправляется в 08:00, самый последний – в 15:00. В зависимости от времени в пути стоимость билета на паром варьируется от 600 до 800 бат за человека. Подробное расписание движения паромов с Острова Пхукет на Пхи Пхи, а так же стоимость билетов и наличие мест можно посмотреть по этой [ссылке](https://c44.travelpayouts.com/click?shmarker=14510.ferriesPhuket&promo_id=1305&source_type=customlink&type=click&custom_url=https%3A%2F%2F12go.asia%2Fru%2Ftravel%2Fphuket%2Fkoh-phi-phi).
 
 
 
@@ -80,7 +80,7 @@ tags:
 
 
 
-Паромы с Пхи Пхи отправляются ежедневно с пирса Тон Сай начиная с 9:00 и до 17:00.  С пирса Лаем Тонг Бич отходит всего два парома в 7:30 и в 13:30. Стоимость билетов от 600 до 800 бат. Уточнить расписание движения можно по этой [ссылке](http://c44.travelpayouts.com/click?shmarker=14510.ferriesPhuket&promo_id=1305&source_type=customlink&type=click&custom_url=https%3A%2F%2F12go.asia%2Fru%2Ftravel%2Fphuket%2Fkoh-phi-phi).
+Паромы с Пхи Пхи отправляются ежедневно с пирса Тон Сай начиная с 9:00 и до 17:00.  С пирса Лаем Тонг Бич отходит всего два парома в 7:30 и в 13:30. Стоимость билетов от 600 до 800 бат. Уточнить расписание движения можно по этой [ссылке](https://c44.travelpayouts.com/click?shmarker=14510.ferriesPhuket&promo_id=1305&source_type=customlink&type=click&custom_url=https%3A%2F%2F12go.asia%2Fru%2Ftravel%2Fphuket%2Fkoh-phi-phi).
 
 
 
@@ -107,7 +107,7 @@ tags:
 
 
 
-Уточнить расписание движение паромов Пхукет - Краби - Пхукет можно по [ссылке](http://c44.travelpayouts.com/click?shmarker=14510.ferriesPhuket&promo_id=1305&source_type=customlink&type=click&custom_url=https%3A%2F%2F12go.asia%2Fru%2Ftravel%2Fkrabi%2Fphuket).
+Уточнить расписание движение паромов Пхукет - Краби - Пхукет можно по [ссылке](https://c44.travelpayouts.com/click?shmarker=14510.ferriesPhuket&promo_id=1305&source_type=customlink&type=click&custom_url=https%3A%2F%2F12go.asia%2Fru%2Ftravel%2Fkrabi%2Fphuket).
 
 
 
@@ -118,7 +118,7 @@ tags:
 
 
 
-На остров Ко Ланта паромы отправляются дважды в сутки в 8 и 11 утра  с Рассада Пирс. Первый паром идет около 2х часов, второй дольше, порядка 5 часов. Расстояние между островом Пхукет и Ко Ланта примерно 77 километров. За 1500 бат можно приобрести билеты на паром идущий 2 часа, и на паром который проведет в пути 5 часов билеты стоят 1000 бат. Обратный паром с острова Ко Ланта на Пхукет есть только один и он отправляется в 16:00 ежедневно. Уточнить расписание паромов можно по ссылке -[ расписание паромов](http://c44.travelpayouts.com/click?shmarker=14510.ferries&promo_id=1305&source_type=customlink&type=click&custom_url=https%3A%2F%2F12go.asia%2Fru%2Ftravel%2Fkoh-lanta%2Fphuket).
+На остров Ко Ланта паромы отправляются дважды в сутки в 8 и 11 утра  с Рассада Пирс. Первый паром идет около 2х часов, второй дольше, порядка 5 часов. Расстояние между островом Пхукет и Ко Ланта примерно 77 километров. За 1500 бат можно приобрести билеты на паром идущий 2 часа, и на паром который проведет в пути 5 часов билеты стоят 1000 бат. Обратный паром с острова Ко Ланта на Пхукет есть только один и он отправляется в 16:00 ежедневно. Уточнить расписание паромов можно по ссылке -[ расписание паромов](https://c44.travelpayouts.com/click?shmarker=14510.ferries&promo_id=1305&source_type=customlink&type=click&custom_url=https%3A%2F%2F12go.asia%2Fru%2Ftravel%2Fkoh-lanta%2Fphuket).
 
 
 

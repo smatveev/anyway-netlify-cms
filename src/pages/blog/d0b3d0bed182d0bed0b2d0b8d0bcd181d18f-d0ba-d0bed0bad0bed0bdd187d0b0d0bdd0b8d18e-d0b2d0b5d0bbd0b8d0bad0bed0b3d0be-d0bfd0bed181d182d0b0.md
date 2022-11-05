@@ -24,7 +24,7 @@ tags:
 
 
 
-[caption id="" align="aligncenter" width="320"][![Буженина](http://anyway.today/wp-content/uploads/2011/04/P1090932-300x225.jpg)](http://anyway.today/wp-content/uploads/2011/04/P1090932.jpg) Буженина[/caption]
+[caption id="" align="aligncenter" width="320"][![Буженина](https://anyway.today/wp-content/uploads/2011/04/P1090932-300x225.jpg)](https://anyway.today/wp-content/uploads/2011/04/P1090932.jpg) Буженина[/caption]
 
 
 
@@ -36,7 +36,7 @@ tags:
 
 
 
-[caption id="" align="aligncenter" width="320"][![Буженина](http://anyway.today/wp-content/uploads/2011/04/P1090870-300x225.jpg)](http://anyway.today/wp-content/uploads/2011/04/P1090870.jpg) Буженина[/caption]
+[caption id="" align="aligncenter" width="320"][![Буженина](https://anyway.today/wp-content/uploads/2011/04/P1090870-300x225.jpg)](https://anyway.today/wp-content/uploads/2011/04/P1090870.jpg) Буженина[/caption]
 
 
 
@@ -51,7 +51,7 @@ tags:
 
 
 
-[caption id="" align="aligncenter" width="320"][![Буженина](http://anyway.today/wp-content/uploads/2011/04/P1090873-300x225.jpg)](http://anyway.today/wp-content/uploads/2011/04/P1090873.jpg) Буженина[/caption]
+[caption id="" align="aligncenter" width="320"][![Буженина](https://anyway.today/wp-content/uploads/2011/04/P1090873-300x225.jpg)](https://anyway.today/wp-content/uploads/2011/04/P1090873.jpg) Буженина[/caption]
 
 
 
@@ -61,7 +61,7 @@ tags:
 
 
 
-[caption id="" align="aligncenter" width="320"][![Буженина](http://anyway.today/wp-content/uploads/2011/04/P1090877-300x225.jpg)](http://anyway.today/wp-content/uploads/2011/04/P1090877.jpg) Буженина[/caption]
+[caption id="" align="aligncenter" width="320"][![Буженина](https://anyway.today/wp-content/uploads/2011/04/P1090877-300x225.jpg)](https://anyway.today/wp-content/uploads/2011/04/P1090877.jpg) Буженина[/caption]
 
 
 
@@ -71,7 +71,7 @@ tags:
 
 
 
-[caption id="" align="aligncenter" width="320"][![Буженина](http://anyway.today/wp-content/uploads/2011/04/P1090883-300x225.jpg)](http://anyway.today/wp-content/uploads/2011/04/P1090883.jpg) Буженина[/caption]
+[caption id="" align="aligncenter" width="320"][![Буженина](https://anyway.today/wp-content/uploads/2011/04/P1090883-300x225.jpg)](https://anyway.today/wp-content/uploads/2011/04/P1090883.jpg) Буженина[/caption]
 
 
 
@@ -81,7 +81,7 @@ tags:
 
 
 
-[caption id="" align="aligncenter" width="320"][![Буженина](http://anyway.today/wp-content/uploads/2011/04/P1090925-300x225.jpg)](http://anyway.today/wp-content/uploads/2011/04/P1090925.jpg) Буженина[/caption]
+[caption id="" align="aligncenter" width="320"][![Буженина](https://anyway.today/wp-content/uploads/2011/04/P1090925-300x225.jpg)](https://anyway.today/wp-content/uploads/2011/04/P1090925.jpg) Буженина[/caption]
 
 
 
@@ -96,7 +96,7 @@ tags:
 
 
 
-[caption id="" align="aligncenter" width="240"][![Буженина](http://anyway.today/wp-content/uploads/2011/04/P1090929-225x300.jpg)](http://anyway.today/wp-content/uploads/2011/04/P1090929.jpg) Буженина[/caption]
+[caption id="" align="aligncenter" width="240"][![Буженина](https://anyway.today/wp-content/uploads/2011/04/P1090929-225x300.jpg)](https://anyway.today/wp-content/uploads/2011/04/P1090929.jpg) Буженина[/caption]
 
 
 

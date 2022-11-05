@@ -25,7 +25,7 @@ tags:
 
 
 
-[caption id="" align="aligncenter" width="400"][![Пляж Кот э'Дор, Праслин, Сейшелы](http://anyway.today/wp-content/uploads/2013/01/IMG_0357-300x200.jpg)](http://anyway.today/wp-content/uploads/2013/01/IMG_0357.jpg) Пляж Кот э'Дор, Праслин, Сейшелы[/caption]
+[caption id="" align="aligncenter" width="400"][![Пляж Кот э'Дор, Праслин, Сейшелы](https://anyway.today/wp-content/uploads/2013/01/IMG_0357.jpg)](https://anyway.today/wp-content/uploads/2013/01/IMG_0357.jpg) Пляж Кот э'Дор, Праслин, Сейшелы[/caption]
 
 <!-- more -->
 
@@ -42,7 +42,7 @@ tags:
 
 
 
-[caption id="" align="aligncenter" width="400"][![Пляж Кот э'Дор, Праслин, Сейшелы](http://anyway.today/wp-content/uploads/2013/01/IMG_0448-300x200.jpg)](http://anyway.today/wp-content/uploads/2013/01/IMG_0448.jpg) Пляж Кот э'Дор, Праслин, Сейшелы[/caption]
+[caption id="" align="aligncenter" width="400"][![Пляж Кот э'Дор, Праслин, Сейшелы](https://anyway.today/wp-content/uploads/2013/01/IMG_0448.jpg)](https://anyway.today/wp-content/uploads/2013/01/IMG_0448.jpg) Пляж Кот э'Дор, Праслин, Сейшелы[/caption]
 
 
 
@@ -57,7 +57,7 @@ tags:
 
 
 
-[caption id="" align="aligncenter" width="400"][![Пляж Кот э'Дор, Праслин, Сейшелы](http://anyway.today/wp-content/uploads/2013/01/IMG_0570-300x200.jpg)](http://anyway.today/wp-content/uploads/2013/01/IMG_0570.jpg) Пляж Кот э'Дор, Праслин, Сейшелы[/caption]
+[caption id="" align="aligncenter" width="400"][![Пляж Кот э'Дор, Праслин, Сейшелы](https://anyway.today/wp-content/uploads/2013/01/IMG_0570.jpg)](https://anyway.today/wp-content/uploads/2013/01/IMG_0570.jpg) Пляж Кот э'Дор, Праслин, Сейшелы[/caption]
 
 
 
@@ -66,7 +66,7 @@ tags:
 
 
 
-[caption id="" align="aligncenter" width="400"][![Пляж Кот э'Дор, Праслин, Сейшелы](http://anyway.today/wp-content/uploads/2013/01/IMG_0667-300x200.jpg)](http://anyway.today/wp-content/uploads/2013/01/IMG_0667.jpg) Пляж Кот э'Дор, Праслин, Сейшелы[/caption]
+[caption id="" align="aligncenter" width="400"][![Пляж Кот э'Дор, Праслин, Сейшелы](https://anyway.today/wp-content/uploads/2013/01/IMG_0667.jpg)](https://anyway.today/wp-content/uploads/2013/01/IMG_0667.jpg) Пляж Кот э'Дор, Праслин, Сейшелы[/caption]
 
 
 
@@ -81,7 +81,7 @@ tags:
 
 
 
-[caption id="" align="aligncenter" width="400"][![Пляж Кот э'Дор, Праслин, Сейшелы](http://anyway.today/wp-content/uploads/2013/01/IMG_0706-300x200.jpg)](http://anyway.today/wp-content/uploads/2013/01/IMG_0706.jpg) Пляж Кот э'Дор, Праслин, Сейшелы[/caption]
+[caption id="" align="aligncenter" width="400"][![Пляж Кот э'Дор, Праслин, Сейшелы](https://anyway.today/wp-content/uploads/2013/01/IMG_0706.jpg)](https://anyway.today/wp-content/uploads/2013/01/IMG_0706.jpg) Пляж Кот э'Дор, Праслин, Сейшелы[/caption]
 
 
 
