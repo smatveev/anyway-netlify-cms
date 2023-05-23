@@ -1,18 +1,21 @@
 ---
-templateKey: blog-post
-author: matv33v_c21184dv
-comments: true
-date: 2014-06-12 03:59:00+00:00
-layout: post
-link: https://anyway.today/tumannii-vladivostok/
-slug: tumannii-vladivostok
-title: Туманный Владивосток
 wordpress_id: 10
-categories:
-- Россия
+templateKey: blog-post
+layout: post
+author: matv33v_c21184dv
+slug: tumannii-vladivostok
+date: 2014-06-12 03:59:00+00:00
+featuredpost: false
+featuredimage: /img/img_6985.jpg
+comments: true
+title: Туманный Владивосток
 tags:
-- Путешествия
-- Путешествия по России
+  - Путешествия
+  - Путешествия по России
+link: https://anyway.today/tumannii-vladivostok/
+categories:
+  - Россия
+description: Владивосток в июне, погода во Владивостоке в июне
 ---
 
 
