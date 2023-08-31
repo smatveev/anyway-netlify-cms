@@ -90,7 +90,7 @@ export default function FullWidthImage(props) {
             )}
             {subheading && (
               <h3
-                className="column is-10 -has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
+                className="column is-7 -has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
                 style={{
                   borderRadius: "1rem",
                   backgroundColor: "rgb(0, 0, 0, 0.6)",

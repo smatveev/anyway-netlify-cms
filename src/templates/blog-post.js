@@ -5,6 +5,7 @@ import { Helmet } from "react-helmet";
 import { graphql, Link } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
+import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 
 // eslint-disable-next-line
 export const BlogPostTemplate = ({
@@ -14,6 +15,7 @@ export const BlogPostTemplate = ({
   tags,
   title,
   helmet,
+  featuredimage
 }) => {
   const PostContent = contentComponent || Content;
 
@@ -23,6 +25,22 @@ export const BlogPostTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
+
+          {featuredimage ? (
+                    <div className="featured-thumbnail">
+                      <PreviewCompatibleImage
+                        imageInfo={{
+                          image: featuredimage,
+                          alt: `featured image thumbnail for post ${title}`,
+                          width:
+                          200,
+                        height:
+                          200,
+                        }}
+                      />
+                    </div>
+                  ) : null}
+
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
@@ -75,6 +93,7 @@ const BlogPost = ({ data }) => {
         }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
+        featuredimage={post.frontmatter.featuredimage}
       />
     </Layout>
   );
@@ -98,6 +117,14 @@ export const pageQuery = graphql`
         title
         description
         tags
+        featuredimage {
+          childImageSharp {
+            gatsbyImageData(
+              quality: 100
+              layout: CONSTRAINED
+            )
+          }
+        }
       }
     }
   }

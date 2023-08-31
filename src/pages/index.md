@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Anyway.today
+title: Anyway.Today
 image: /img/index.jpg
 heading: Путешествуйте с нами!
 subheading: Это блог с полезными рассказами о путешествиях. У нас вы найдете
